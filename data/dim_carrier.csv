@@ -1,0 +1,11 @@
+carrier_key,carrier_name,service_level,transport_mode,base_rate_usd,rate_per_lb_usd,fuel_surcharge_pct,reliability_score,carrier_service
+1,BlueLine Express,Ground,Parcel,8.4,0.46,0.095,0.955,BlueLine Express - Ground
+2,BlueLine Express,2-Day,Parcel,13.9,0.78,0.095,0.965,BlueLine Express - 2-Day
+3,BlueLine Express,Overnight,Air Courier,26.5,1.35,0.095,0.975,BlueLine Express - Overnight
+4,RapidPost,Ground,Parcel,7.8,0.42,0.09,0.915,RapidPost - Ground
+5,RapidPost,Economy,Parcel,5.9,0.33,0.09,0.885,RapidPost - Economy
+6,SwiftShip,Ground,Parcel,8.1,0.44,0.1,0.935,SwiftShip - Ground
+7,SwiftShip,2-Day,Parcel,12.8,0.72,0.1,0.94,SwiftShip - 2-Day
+8,NorthStar Freight,Economy,LTL Freight,19.0,0.3,0.12,0.9,NorthStar Freight - Economy
+9,NorthStar Freight,Ground,LTL Freight,24.0,0.38,0.12,0.925,NorthStar Freight - Ground
+10,CityDash,Same-Day,Local Courier,18.5,0.95,0.06,0.945,CityDash - Same-Day

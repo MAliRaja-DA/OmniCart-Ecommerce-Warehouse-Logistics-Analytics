@@ -1,0 +1,41 @@
+supplier_key,supplier_name,country,supplier_region,supplier_tier,avg_lead_time_days,on_time_reliability,fill_rate_reliability
+1,Orion Trading,USA,North America,Tier 2,11,0.947,0.926
+2,Vertex Supply Co,Turkey,Europe,Tier 3,23,0.899,0.948
+3,Helix Global,Vietnam,Asia,Tier 3,35,0.956,0.974
+4,Summit Industries,China,Asia,Tier 2,29,0.944,0.964
+5,Pioneer Imports,USA,North America,Tier 2,12,0.892,0.956
+6,Zenith Distribution,China,Asia,Tier 2,33,0.921,0.974
+7,Atlas Trading,USA,North America,Tier 3,7,0.859,0.977
+8,Meridian Supply Co,China,Asia,Tier 1,29,0.859,0.978
+9,Cobalt Global,India,Asia,Tier 3,26,0.927,0.952
+10,Lumen Industries,Mexico,North America,Tier 2,12,0.944,0.969
+11,Apex Imports,China,Asia,Tier 1,32,0.932,0.936
+12,Nimbus Distribution,USA,North America,Tier 2,7,0.886,0.995
+13,Crestline Trading,USA,North America,Tier 2,4,0.883,0.968
+14,Ironwood Supply Co,USA,North America,Tier 2,11,0.883,0.956
+15,Silverpine Global,China,Asia,Tier 2,28,0.843,0.947
+16,Redwood Industries,China,Asia,Tier 1,34,0.879,0.968
+17,Harbor Imports,USA,North America,Tier 2,10,0.867,0.958
+18,Falcon Distribution,China,Asia,Tier 2,33,0.877,0.965
+19,Granite Trading,China,Asia,Tier 2,33,0.895,0.957
+20,Evergreen Supply Co,USA,North America,Tier 2,4,0.834,0.945
+21,Kestrel Global,Germany,Europe,Tier 2,20,0.965,0.958
+22,Monarch Industries,USA,North America,Tier 2,8,0.852,0.958
+23,Polaris Imports,India,Asia,Tier 1,31,0.912,0.953
+24,Quartz Distribution,Mexico,North America,Tier 3,10,0.912,0.965
+25,Sterling Trading,USA,North America,Tier 2,5,0.909,0.969
+26,Titan Supply Co,India,Asia,Tier 2,31,0.973,0.941
+27,Union Global,China,Asia,Tier 3,30,0.831,0.978
+28,Vanguard Industries,China,Asia,Tier 3,28,0.916,0.982
+29,Willow Imports,India,Asia,Tier 2,31,0.851,0.922
+30,Yardley Distribution,China,Asia,Tier 2,30,0.869,0.962
+31,Alder Trading,Mexico,North America,Tier 3,11,0.848,0.932
+32,Beacon Supply Co,USA,North America,Tier 1,9,0.988,0.968
+33,Cascade Global,China,Asia,Tier 3,28,0.852,0.95
+34,Delta Industries,Vietnam,Asia,Tier 3,37,0.855,0.984
+35,Ember Imports,China,Asia,Tier 2,31,0.867,0.974
+36,Frontier Distribution,China,Asia,Tier 2,28,0.909,0.995
+37,Glacier Trading,Germany,Europe,Tier 3,22,0.965,0.969
+38,Horizon Supply Co,USA,North America,Tier 2,10,0.977,0.969
+39,Juniper Global,Germany,Europe,Tier 1,26,0.986,0.961
+40,Keystone Industries,China,Asia,Tier 2,28,0.855,0.978

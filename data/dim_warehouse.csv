@@ -1,0 +1,9 @@
+warehouse_key,warehouse_id,warehouse_name,city,state,region,latitude,longitude,warehouse_type,automation_level,year_opened,has_cold_storage,avg_hourly_wage_usd,lease_cost_per_sqft_year_usd,base_pick_error_rate,total_area_sqft,storage_area_sqft,pallet_positions_capacity,dock_doors,shifts_per_day,monthly_lease_cost_usd
+1,WH01,Newark Fulfillment Center,Newark,NJ,Northeast,40.7357,-74.1724,Fulfillment Center,Semi-Automated,2016,1,21.5,11.8,0.0032,90000,55800,2900,10,2,88500
+2,WH02,Atlanta Fulfillment Center,Atlanta,GA,Southeast,33.749,-84.388,Fulfillment Center,Automated,2020,1,18.0,6.9,0.0017,41000,25400,1400,8,2,23575
+3,WH03,Dallas Fulfillment Center,Dallas,TX,South Central,32.7767,-96.797,Fulfillment Center,Automated,2021,1,17.5,6.4,0.0015,51000,31600,1700,8,2,27200
+4,WH04,Chicago Distribution Hub,Joliet,IL,Midwest,41.525,-88.0817,Distribution Hub,Semi-Automated,2017,1,19.0,7.8,0.0028,54000,33500,1700,8,2,35100
+5,WH05,Phoenix Fulfillment Center,Phoenix,AZ,Southwest,33.4484,-112.074,Fulfillment Center,Manual,2015,0,16.5,8.1,0.0046,54000,33500,1600,8,2,36450
+6,WH06,Los Angeles Fulfillment Center,Ontario,CA,West,34.0633,-117.6509,Fulfillment Center,Semi-Automated,2018,1,22.5,14.2,0.003,59000,36600,1800,8,2,69817
+7,WH07,Seattle Fulfillment Center,Kent,WA,Northwest,47.3809,-122.2348,Fulfillment Center,Manual,2014,0,22.0,10.6,0.0049,28000,17400,800,8,2,24733
+8,WH08,Denver Regional Warehouse,Denver,CO,Mountain,39.7392,-104.9903,Regional Warehouse,Manual,2019,0,19.5,7.4,0.0041,34000,21100,1050,8,2,20967

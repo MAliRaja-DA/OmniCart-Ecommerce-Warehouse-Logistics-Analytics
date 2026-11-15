@@ -1,0 +1,1201 @@
+product_key,sku,product_name,category,sub_category,brand,unit_cost_usd,unit_price_usd,length_in,width_in,height_in,weight_lb,unit_volume_cuft,storage_type,units_per_pallet,supplier_key,is_fragile,abc_class,launch_date,reorder_lead_time_days
+1,SKU-100000,Corvo Plus Car Care,Automotive,Car Care,Pebble,4.94,8.97,12.3,7.2,4.9,4.06,0.251,Hazmat,191,34,0,C,2024-08-03,37
+2,SKU-100001,Mosaic Plus Skincare,Beauty & Personal Care,Skincare,Vivid,26.56,61.41,7.0,4.0,3.8,0.67,0.062,Ambient,779,20,0,B,2024-04-06,4
+3,SKU-100002,Yonder Elite Monitor,Electronics,Monitors,Brightwell,210.0,245.63,24.1,15.7,5.2,14.51,1.139,Ambient,42,2,1,A,2024-07-24,23
+4,SKU-100003,Jasper Essential Phone Accessorie,Electronics,Phone Accessories,Arbor,14.54,19.94,7.3,5.2,2.8,0.62,0.062,Ambient,780,3,1,C,2022-04-24,35
+5,SKU-100004,Ridge Active Bedding,Home & Kitchen,Bedding,Corvo,33.66,69.23,25.2,18.0,9.4,9.09,2.468,Ambient,19,14,1,B,2022-01-15,11
+6,SKU-100005,Eldrin Elite Camera,Electronics,Cameras,Eldrin,186.33,239.94,9.7,6.8,5.2,2.56,0.198,Ambient,241,27,0,A,2022-08-05,30
+7,SKU-100006,Nova Max Board Game,Toys & Games,Board Games,Bolt,11.75,17.33,12.9,12.5,3.2,2.23,0.299,Ambient,160,18,0,C,2022-04-11,33
+8,SKU-100007,Quanta Active Camera,Electronics,Cameras,Nova,333.42,412.32,9.0,6.5,5.2,2.31,0.176,Ambient,272,19,0,A,2023-04-05,33
+9,SKU-100008,Wren Elite Skincare,Beauty & Personal Care,Skincare,Ionic,11.55,25.28,5.0,2.4,2.5,0.24,0.017,Ambient,2764,14,0,B,2023-10-08,11
+10,SKU-100009,Olive&Co Premium Building Set,Toys & Games,Building Sets,Quanta,46.3,70.45,17.4,12.6,6.8,5.04,0.863,Ambient,55,30,0,A,2022-07-15,30
+11,SKU-100010,Halcyon Essential Grooming Tool,Beauty & Personal Care,Grooming Tools,Kinetic,12.18,22.66,9.2,5.9,4.2,1.02,0.132,Ambient,363,12,0,C,2023-02-01,7
+12,SKU-100011,Gleam Eco Small Appliance,Home & Kitchen,Small Appliances,Kinetic,117.05,194.99,18.3,13.1,13.6,11.09,1.887,Ambient,25,6,0,B,2023-06-24,33
+13,SKU-100012,Halcyon Premium Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Jasper,21.38,27.03,6.3,5.0,5.0,0.87,0.091,Ambient,526,15,0,A,2022-11-14,28
+14,SKU-100013,Umbra Eco Outdoor Toy,Toys & Games,Outdoor Toys,Yonder,27.63,47.97,22.0,16.2,11.2,6.02,2.31,Oversize,20,15,0,B,2023-04-06,28
+15,SKU-100014,Xenon Studio Puzzle,Toys & Games,Puzzles,Olive&Co,18.37,24.66,13.9,11.7,3.4,2.39,0.32,Ambient,150,32,0,B,2023-08-14,9
+16,SKU-100015,Cedar Classic Camera,Electronics,Cameras,Umbra,131.59,177.56,6.8,5.3,3.7,1.52,0.077,Ambient,622,10,0,A,2024-08-10,12
+17,SKU-100016,Ridge Active Camera,Electronics,Cameras,Lumos,705.11,874.5,12.5,9.8,6.2,4.13,0.44,Ambient,109,14,0,A,2022-11-07,11
+18,SKU-100017,Terra Essential Dog Food,Pet Supplies,Dog Food,Vivid,18.94,25.5,19.0,12.3,5.5,16.75,0.744,Ambient,64,8,0,C,2022-03-30,29
+19,SKU-100018,Pebble Premium Women's Apparel,Fashion,Women's Apparel,Nova,13.16,25.41,13.9,11.7,2.7,0.99,0.254,Ambient,188,18,0,C,2024-05-18,33
+20,SKU-100019,Jasper Active Home Decor,Home & Kitchen,Home Decor,Zephyr,13.28,21.48,17.4,13.8,12.6,4.96,1.751,Ambient,27,2,1,C,2023-07-31,23
+21,SKU-100020,Pebble Lite Bags & Accessorie,Fashion,Bags & Accessories,Mosaic,26.48,62.54,15.4,11.7,6.3,2.07,0.657,Ambient,73,20,0,B,2023-04-18,4
+22,SKU-100021,Brightwell Prime Team Sport,Sports & Outdoors,Team Sports,Cedar,20.72,41.0,17.3,13.3,11.1,3.1,1.478,Ambient,32,4,0,C,2023-12-22,29
+23,SKU-100022,Ridge Eco Cat Litter & Care,Pet Supplies,Cat Litter & Care,Corvo,9.02,13.2,15.2,9.8,7.2,15.79,0.621,Ambient,77,11,0,C,2024-09-08,32
+24,SKU-100023,Mosaic Prime Storage & Organization,Home & Kitchen,Storage & Organization,Daybreak,36.73,62.74,16.5,12.5,7.6,2.31,0.907,Ambient,52,9,0,B,2022-05-08,26
+25,SKU-100024,Ridge Classic Dog Food,Pet Supplies,Dog Food,Corvo,48.91,68.9,27.6,17.7,7.8,33.31,2.205,Ambient,21,32,0,A,2024-05-10,9
+26,SKU-100025,Cedar Premium Phone Accessorie,Electronics,Phone Accessories,Ionic,36.22,41.16,6.4,4.0,2.1,0.35,0.031,Ambient,1542,21,0,C,2023-09-29,20
+27,SKU-100026,Wren Essential Fragrance,Beauty & Personal Care,Fragrance,Jasper,34.88,73.72,6.1,4.2,2.8,0.64,0.042,Hazmat,1156,32,0,B,2023-08-09,9
+28,SKU-100027,Quanta Lite Cycling,Sports & Outdoors,Cycling,Ridge,53.96,102.1,27.5,12.2,10.3,9.57,2.0,Ambient,24,36,0,B,2024-05-14,28
+29,SKU-100028,Halcyon Elite Smart Home,Electronics,Smart Home,Bolt,107.96,122.68,7.4,6.2,4.6,1.27,0.122,Ambient,393,34,1,B,2022-11-01,37
+30,SKU-100029,Yonder Ultra Monitor,Electronics,Monitors,Lumos,160.52,192.86,30.1,20.5,6.2,17.45,2.214,Ambient,21,38,1,B,2024-02-27,10
+31,SKU-100030,Wren Premium Footwear,Fashion,Footwear,Wren,47.92,105.22,12.4,8.4,4.8,1.57,0.289,Ambient,165,10,0,A,2023-07-25,12
+32,SKU-100031,Ionic Premium Cat Litter & Care,Pet Supplies,Cat Litter & Care,Nova,25.94,37.75,21.1,14.4,9.2,23.75,1.618,Ambient,29,36,0,B,2024-07-24,28
+33,SKU-100032,Halcyon Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Corvo,35.99,56.98,29.7,16.4,11.5,24.95,3.242,Oversize,14,4,0,C,2023-04-13,29
+34,SKU-100033,Lumos Studio Dog Food,Pet Supplies,Dog Food,Ionic,11.16,17.03,28.4,19.2,8.3,42.67,2.619,Ambient,18,26,0,C,2023-12-22,31
+35,SKU-100034,Vivid Premium Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Wren,19.54,27.39,7.7,5.9,5.6,1.38,0.147,Ambient,326,34,0,C,2023-05-13,37
+36,SKU-100035,Corvo Eco Bags & Accessorie,Fashion,Bags & Accessories,Cedar,47.54,90.29,15.7,12.9,5.9,2.01,0.692,Ambient,69,23,0,B,2023-01-29,31
+37,SKU-100036,Ridge Classic Beverage,Grocery & Gourmet,Beverages,Vivid,18.73,24.43,15.6,11.2,8.1,15.91,0.819,Ambient,58,18,0,B,2023-01-11,33
+38,SKU-100037,Bolt Max Phone Accessorie,Electronics,Phone Accessories,Pebble,13.99,16.91,5.2,3.7,1.7,0.27,0.019,Ambient,2535,20,0,C,2024-07-09,4
+39,SKU-100038,Olive&Co Studio Camera,Electronics,Cameras,Jasper,820.54,1033.07,9.2,7.3,5.3,2.17,0.206,Ambient,233,20,0,A,2024-04-17,4
+40,SKU-100039,Pebble Prime Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Umbra,26.19,37.22,9.3,7.5,5.5,1.59,0.222,Refrigerated,216,2,0,A,2022-08-14,23
+41,SKU-100040,Daybreak Premium Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Gleam,7.77,10.43,9.5,7.8,7.3,2.1,0.313,Ambient,153,37,0,C,2024-05-15,22
+42,SKU-100041,Vivid Active Bedding,Home & Kitchen,Bedding,Nova,59.08,96.88,26.8,16.1,9.3,6.76,2.322,Ambient,20,40,0,A,2023-08-07,28
+43,SKU-100042,Gleam Active Haircare,Beauty & Personal Care,Haircare,Mosaic,8.9,21.73,10.6,3.5,3.7,1.41,0.079,Ambient,604,40,0,C,2022-04-15,28
+44,SKU-100043,Terra Prime Fitness Equipment,Sports & Outdoors,Fitness Equipment,Xenon,128.33,218.68,26.0,12.7,9.1,14.91,1.739,Oversize,27,14,0,B,2024-02-05,11
+45,SKU-100044,Cedar Eco Medical Supplie,Health & Wellness,Medical Supplies,Corvo,7.77,13.71,9.1,6.8,4.8,1.66,0.172,Ambient,279,8,0,C,2022-06-12,29
+46,SKU-100045,Fjord Lite Fitness Equipment,Sports & Outdoors,Fitness Equipment,Terra,26.27,45.58,21.5,11.2,7.1,13.13,0.989,Oversize,48,18,0,B,2024-05-22,33
+47,SKU-100046,Xenon Elite Women's Apparel,Fashion,Women's Apparel,Daybreak,34.59,74.24,13.4,10.5,2.7,1.13,0.22,Ambient,218,29,0,C,2023-03-31,31
+48,SKU-100047,Nordic Plus Women's Apparel,Fashion,Women's Apparel,Jasper,43.73,100.19,11.8,9.2,2.0,0.66,0.126,Ambient,382,1,0,B,2024-07-05,11
+49,SKU-100048,Terra Premium Footwear,Fashion,Footwear,Eldrin,46.46,88.16,14.9,10.4,5.7,2.19,0.511,Ambient,93,2,0,A,2023-04-29,23
+50,SKU-100049,Ionic Studio Team Sport,Sports & Outdoors,Team Sports,Olive&Co,15.31,27.16,12.8,12.5,10.6,1.7,0.981,Ambient,48,39,1,C,2022-03-26,26
+51,SKU-100050,Bolt Elite Medical Supplie,Health & Wellness,Medical Supplies,Nordic,44.94,66.58,13.9,11.2,7.8,2.75,0.703,Ambient,68,17,0,C,2024-02-06,10
+52,SKU-100051,Arbor Active Footwear,Fashion,Footwear,Corvo,18.74,38.78,13.8,10.9,6.2,2.98,0.54,Ambient,88,30,0,C,2023-12-28,30
+53,SKU-100052,Eldrin Select Bedding,Home & Kitchen,Bedding,Wren,17.91,34.19,17.3,13.3,7.3,3.4,0.972,Ambient,49,10,0,B,2022-10-30,12
+54,SKU-100053,Ionic Classic Bedding,Home & Kitchen,Bedding,Lumos,87.48,131.52,18.5,13.7,6.6,3.34,0.968,Ambient,49,20,0,B,2022-07-24,4
+55,SKU-100054,Eldrin Classic Puzzle,Toys & Games,Puzzles,Jasper,7.94,12.18,11.0,8.4,2.5,1.05,0.134,Ambient,359,36,0,B,2024-05-13,28
+56,SKU-100055,Pebble Max Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Halcyon,5.85,7.84,8.7,6.1,4.8,1.2,0.147,Refrigerated,325,12,1,C,2024-02-19,7
+57,SKU-100056,Vivid Select Smart Home,Electronics,Smart Home,Nova,63.42,82.29,6.9,5.3,4.3,1.0,0.091,Ambient,527,16,0,C,2022-10-25,34
+58,SKU-100057,Ionic Pro Laptop,Electronics,Laptops,Cedar,795.64,1024.57,11.5,8.1,1.9,2.45,0.102,Ambient,468,25,0,A,2023-12-02,5
+59,SKU-100058,Pebble Essential Fitness Equipment,Sports & Outdoors,Fitness Equipment,Wren,30.03,46.93,36.4,18.0,13.0,20.64,4.929,Oversize,9,14,0,C,2022-08-29,11
+60,SKU-100059,Fjord Pro Monitor,Electronics,Monitors,Umbra,109.01,143.34,27.8,17.3,6.0,17.32,1.67,Ambient,28,38,1,B,2022-07-01,10
+61,SKU-100060,Umbra Select Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Daybreak,11.11,15.6,7.9,6.9,4.8,1.58,0.151,Refrigerated,317,18,0,C,2023-10-26,33
+62,SKU-100061,Pebble Premium Home Decor,Home & Kitchen,Home Decor,Umbra,55.38,86.02,13.6,12.7,9.0,3.48,0.9,Ambient,53,28,1,B,2024-04-12,28
+63,SKU-100062,Aurelia Smart Monitor,Electronics,Monitors,Gleam,328.93,373.78,22.6,15.6,5.6,11.32,1.143,Ambient,42,9,0,A,2024-07-07,26
+64,SKU-100063,Arbor Active Dog Food,Pet Supplies,Dog Food,Fjord,18.2,27.71,18.5,11.4,4.4,16.23,0.537,Ambient,89,25,0,C,2023-04-07,5
+65,SKU-100064,Jasper Pro Cookware,Home & Kitchen,Cookware,Brightwell,64.46,102.25,17.6,14.5,10.4,10.48,1.536,Ambient,31,38,1,A,2022-05-24,10
+66,SKU-100065,Lumos Ultra Storage & Organization,Home & Kitchen,Storage & Organization,Cedar,7.52,10.79,13.8,9.3,5.9,1.82,0.438,Ambient,109,14,0,C,2023-06-28,11
+67,SKU-100066,Arbor Eco Monitor,Electronics,Monitors,Nova,128.53,159.52,18.7,14.5,5.0,9.95,0.785,Ambient,61,31,0,A,2023-11-12,11
+68,SKU-100067,Arbor Active Camera,Electronics,Cameras,Mosaic,736.33,868.04,11.0,9.2,6.6,3.62,0.387,Ambient,124,31,1,A,2024-08-29,11
+69,SKU-100068,Cedar Lite Phone Accessorie,Electronics,Phone Accessories,Yonder,31.58,37.24,4.9,3.3,1.6,0.21,0.015,Ambient,3205,2,0,C,2022-04-23,23
+70,SKU-100069,Vivid Max Laptop,Electronics,Laptops,Aurelia,489.83,649.95,14.3,11.4,2.3,5.61,0.217,Ambient,221,17,1,A,2023-10-19,10
+71,SKU-100070,Nova Prime Cookware,Home & Kitchen,Cookware,Nordic,41.41,67.43,11.3,10.1,6.6,4.88,0.436,Ambient,110,39,0,B,2023-05-28,26
+72,SKU-100071,Jasper Smart Laptop,Electronics,Laptops,Kinetic,449.3,547.97,14.6,12.2,2.6,4.96,0.268,Ambient,179,29,1,A,2023-08-12,31
+73,SKU-100072,Gleam Studio Fitness Equipment,Sports & Outdoors,Fitness Equipment,Gleam,78.03,119.9,32.9,16.8,11.4,28.41,3.646,Oversize,13,8,0,A,2022-04-03,29
+74,SKU-100073,Gleam Max Board Game,Toys & Games,Board Games,Wren,16.84,30.89,13.6,10.7,3.2,3.28,0.269,Ambient,178,37,0,C,2022-01-17,22
+75,SKU-100074,Pebble Studio Women's Apparel,Fashion,Women's Apparel,Yonder,9.37,18.82,16.5,10.9,2.4,1.12,0.25,Ambient,192,11,0,C,2023-08-30,32
+76,SKU-100075,Lumos Studio Home Decor,Home & Kitchen,Home Decor,Nordic,9.52,14.0,11.1,9.0,8.0,2.0,0.462,Ambient,103,6,0,C,2022-07-19,33
+77,SKU-100076,Terra Premium Skincare,Beauty & Personal Care,Skincare,Ionic,8.57,19.5,6.0,2.9,3.1,0.4,0.031,Ambient,1537,26,0,C,2023-09-06,31
+78,SKU-100077,Arbor Prime Fitness Nutrition,Health & Wellness,Fitness Nutrition,Jasper,16.7,32.27,9.9,6.1,6.4,4.03,0.224,Ambient,214,3,0,A,2022-01-27,35
+79,SKU-100078,Brightwell Plus Medical Supplie,Health & Wellness,Medical Supplies,Yonder,28.31,56.69,12.8,9.5,7.9,2.86,0.556,Ambient,86,35,0,A,2024-03-12,31
+80,SKU-100079,Vivid Elite Headphone,Electronics,Headphones,Nordic,78.37,102.41,10.0,8.8,3.2,0.86,0.163,Ambient,294,17,1,A,2022-11-30,10
+81,SKU-100080,Eldrin Active Cookware,Home & Kitchen,Cookware,Daybreak,32.91,48.81,15.0,12.5,9.8,8.87,1.063,Ambient,45,29,0,C,2023-03-28,31
+82,SKU-100081,Ionic Prime Bedding,Home & Kitchen,Bedding,Fjord,23.86,43.37,16.6,13.4,6.6,3.35,0.85,Ambient,56,19,0,B,2022-12-11,33
+83,SKU-100082,Kinetic Ultra Bedding,Home & Kitchen,Bedding,Nova,41.65,54.61,18.7,12.8,7.6,5.19,1.053,Ambient,45,8,0,C,2023-02-23,29
+84,SKU-100083,Vivid Classic Grooming Tool,Beauty & Personal Care,Grooming Tools,Halcyon,14.05,27.26,7.1,4.2,3.7,0.58,0.064,Ambient,751,11,0,C,2023-06-15,32
+85,SKU-100084,Vivid Lite Footwear,Fashion,Footwear,Brightwell,17.6,42.55,11.3,7.7,4.4,1.57,0.222,Ambient,216,28,0,C,2023-10-08,28
+86,SKU-100085,Nova Pro Headphone,Electronics,Headphones,Cedar,48.33,58.54,7.8,6.9,2.9,0.76,0.09,Ambient,531,35,0,A,2023-11-21,31
+87,SKU-100086,Zephyr Max Women's Apparel,Fashion,Women's Apparel,Nova,8.2,17.9,8.3,7.4,1.4,0.43,0.05,Ambient,964,21,0,C,2024-09-17,20
+88,SKU-100087,Xenon Lite Haircare,Beauty & Personal Care,Haircare,Aurelia,3.47,8.11,8.8,3.6,3.9,1.28,0.072,Ambient,671,15,0,C,2022-06-29,28
+89,SKU-100088,Quanta Essential Smart Home,Electronics,Smart Home,Mosaic,51.01,57.97,6.3,5.3,4.5,0.9,0.087,Ambient,552,28,0,C,2024-05-21,28
+90,SKU-100089,Corvo Classic Vitamin,Health & Wellness,Vitamins,Yonder,7.14,15.87,3.8,2.3,2.6,0.52,0.013,Ambient,3650,24,0,C,2023-08-25,10
+91,SKU-100090,Ridge Smart Headphone,Electronics,Headphones,Fjord,40.58,57.16,6.2,5.8,2.2,0.3,0.046,Ambient,1048,32,0,B,2022-11-06,9
+92,SKU-100091,Arbor Active Dog Food,Pet Supplies,Dog Food,Nordic,41.99,74.23,27.2,19.3,6.9,32.41,2.096,Ambient,22,17,0,B,2024-07-05,10
+93,SKU-100092,Vivid Prime Smart Home,Electronics,Smart Home,Yonder,53.17,61.39,5.4,4.9,3.7,0.96,0.057,Ambient,847,4,0,C,2023-12-08,29
+94,SKU-100093,Nordic Eco Vitamin,Health & Wellness,Vitamins,Arbor,18.57,41.04,4.1,2.4,2.5,0.44,0.014,Ambient,3371,28,0,A,2022-07-05,28
+95,SKU-100094,Jasper Max Desk,Furniture,Desks,Yonder,250.12,338.19,52.9,30.5,9.8,75.95,9.15,Oversize,5,23,1,A,2022-06-24,31
+96,SKU-100095,Bolt Smart Car Care,Automotive,Car Care,Nova,11.27,16.77,10.9,6.6,4.5,2.5,0.187,Hazmat,256,25,0,B,2023-10-22,5
+97,SKU-100096,Zephyr Select Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Kinetic,10.53,12.81,8.9,6.5,5.7,1.38,0.191,Ambient,251,24,0,B,2023-12-31,10
+98,SKU-100097,Kinetic Essential Beverage,Grocery & Gourmet,Beverages,Daybreak,11.8,15.82,15.0,10.4,8.0,11.48,0.722,Ambient,66,15,0,C,2022-02-15,28
+99,SKU-100098,Quanta Classic Cycling,Sports & Outdoors,Cycling,Arbor,31.24,50.83,16.2,8.5,7.5,4.51,0.598,Ambient,80,25,0,C,2023-09-21,5
+100,SKU-100099,Terra Max Beverage,Grocery & Gourmet,Beverages,Eldrin,12.15,17.98,11.8,8.4,6.3,7.62,0.361,Ambient,132,2,0,C,2023-06-16,23
+101,SKU-100100,Zephyr Lite Monitor,Electronics,Monitors,Terra,460.38,558.29,30.0,19.8,7.9,24.88,2.716,Ambient,17,17,1,A,2024-08-27,10
+102,SKU-100101,Kinetic Smart Haircare,Beauty & Personal Care,Haircare,Xenon,3.61,7.28,7.5,2.4,2.5,0.65,0.026,Ambient,1843,15,0,C,2024-01-12,28
+103,SKU-100102,Olive&Co Plus Skincare,Beauty & Personal Care,Skincare,Olive&Co,41.61,72.76,5.4,2.7,2.7,0.3,0.023,Ambient,2106,1,0,B,2024-06-28,11
+104,SKU-100103,Xenon Premium Medical Supplie,Health & Wellness,Medical Supplies,Daybreak,19.24,42.84,11.5,8.5,7.1,2.86,0.402,Ambient,119,22,0,B,2022-02-04,8
+105,SKU-100104,Ionic Eco Bags & Accessorie,Fashion,Bags & Accessories,Pebble,82.1,168.48,11.4,8.1,4.3,1.1,0.23,Ambient,208,28,0,A,2024-02-04,28
+106,SKU-100105,Ionic Ultra Women's Apparel,Fashion,Women's Apparel,Nordic,11.59,25.29,10.9,9.3,2.1,0.8,0.123,Ambient,389,2,0,C,2022-11-30,23
+107,SKU-100106,Gleam Plus Cycling,Sports & Outdoors,Cycling,Xenon,46.66,82.34,23.4,13.1,10.9,11.84,1.934,Ambient,24,35,0,B,2023-07-08,31
+108,SKU-100107,Fjord Essential Storage & Organization,Home & Kitchen,Storage & Organization,Fjord,38.94,60.62,14.7,8.4,5.7,1.41,0.407,Ambient,117,19,0,C,2024-05-27,33
+109,SKU-100108,Bolt Active Monitor,Electronics,Monitors,Quanta,376.52,427.86,33.3,20.7,7.1,26.12,2.832,Ambient,16,39,0,A,2024-05-19,26
+110,SKU-100109,Aurelia Ultra Bags & Accessorie,Fashion,Bags & Accessories,Ionic,50.62,86.66,14.7,9.1,4.6,1.62,0.356,Ambient,134,36,0,B,2022-08-14,28
+111,SKU-100110,Jasper Studio Footwear,Fashion,Footwear,Arbor,26.74,68.45,14.6,10.6,5.5,3.61,0.493,Ambient,97,39,0,C,2022-08-29,26
+112,SKU-100111,Quanta Max Bedding,Home & Kitchen,Bedding,Xenon,64.2,132.74,21.0,15.1,8.2,5.27,1.505,Ambient,31,36,0,B,2023-12-24,28
+113,SKU-100112,Cedar Smart Men's Apparel,Fashion,Men's Apparel,Halcyon,16.09,38.14,11.7,8.4,2.1,0.69,0.119,Ambient,401,35,0,C,2024-05-28,31
+114,SKU-100113,Kinetic Prime Men's Apparel,Fashion,Men's Apparel,Brightwell,32.89,72.79,14.6,10.7,2.5,1.32,0.226,Ambient,212,19,0,A,2023-09-05,33
+115,SKU-100114,Eldrin Max Home Decor,Home & Kitchen,Home Decor,Pebble,18.08,29.75,13.7,12.0,11.3,4.41,1.075,Ambient,44,33,0,C,2022-02-24,28
+116,SKU-100115,Fjord Max Women's Apparel,Fashion,Women's Apparel,Corvo,10.2,17.24,12.7,9.8,2.1,0.78,0.151,Ambient,317,19,0,C,2022-06-13,33
+117,SKU-100116,Jasper Premium Board Game,Toys & Games,Board Games,Vivid,23.47,39.83,11.9,10.0,2.6,1.87,0.179,Ambient,268,27,0,C,2024-01-20,30
+118,SKU-100117,Pebble Pro Home Decor,Home & Kitchen,Home Decor,Bolt,22.52,38.92,17.4,16.4,14.0,7.72,2.312,Ambient,20,16,0,C,2024-01-12,34
+119,SKU-100118,Jasper Essential Pet Accessorie,Pet Supplies,Pet Accessories,Pebble,21.45,32.04,12.2,8.9,6.5,2.2,0.408,Ambient,117,26,0,C,2024-06-15,31
+120,SKU-100119,Lumos Smart Living Room,Furniture,Living Room,Olive&Co,157.72,233.6,41.2,26.6,15.1,48.49,9.577,Oversize,5,21,0,B,2023-06-17,20
+121,SKU-100120,Zephyr Pro Bags & Accessorie,Fashion,Bags & Accessories,Umbra,22.0,43.65,12.8,10.2,5.2,1.23,0.393,Ambient,122,12,0,B,2023-03-04,7
+122,SKU-100121,Ionic Select Home Decor,Home & Kitchen,Home Decor,Pebble,15.26,25.89,12.5,10.1,9.0,3.62,0.658,Ambient,72,7,0,C,2022-04-23,7
+123,SKU-100122,Olive&Co Select Haircare,Beauty & Personal Care,Haircare,Corvo,4.62,12.4,8.9,3.3,3.5,0.91,0.059,Ambient,806,4,0,C,2024-02-21,29
+124,SKU-100123,Quanta Eco Vitamin,Health & Wellness,Vitamins,Nova,26.04,47.19,6.4,3.8,3.7,0.99,0.052,Ambient,921,3,0,C,2024-08-07,35
+125,SKU-100124,Fjord Prime Team Sport,Sports & Outdoors,Team Sports,Ridge,16.03,26.59,16.8,14.8,10.5,2.92,1.511,Ambient,31,15,0,C,2022-02-15,28
+126,SKU-100125,Vivid Plus Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Gleam,12.49,19.43,6.6,4.9,4.9,1.04,0.092,Ambient,523,28,0,C,2023-05-07,28
+127,SKU-100126,Olive&Co Elite Haircare,Beauty & Personal Care,Haircare,Yonder,13.67,39.46,8.2,2.6,3.0,0.92,0.037,Ambient,1296,15,0,B,2022-12-22,28
+128,SKU-100127,Quanta Plus Cycling,Sports & Outdoors,Cycling,Wren,84.35,119.38,25.9,11.9,10.6,8.64,1.891,Ambient,25,8,0,B,2024-01-16,29
+129,SKU-100128,Gleam Lite Storage & Organization,Home & Kitchen,Storage & Organization,Corvo,6.68,10.9,23.0,13.4,8.9,4.77,1.587,Ambient,30,37,1,C,2024-02-03,22
+130,SKU-100129,Olive&Co Prime Puzzle,Toys & Games,Puzzles,Corvo,13.35,21.79,9.4,7.7,2.0,0.74,0.084,Ambient,572,9,0,C,2022-08-06,26
+131,SKU-100130,Eldrin Prime Small Appliance,Home & Kitchen,Small Appliances,Kinetic,36.96,80.02,18.7,14.9,14.9,10.7,2.403,Ambient,19,18,0,C,2024-08-10,33
+132,SKU-100131,Halcyon Lite Building Set,Toys & Games,Building Sets,Ionic,15.28,26.38,12.3,8.2,3.9,2.57,0.228,Ambient,210,33,0,C,2022-05-18,28
+133,SKU-100132,Fjord Eco Medical Supplie,Health & Wellness,Medical Supplies,Olive&Co,30.67,65.76,13.1,10.0,8.0,3.23,0.606,Ambient,79,5,0,B,2024-02-21,12
+134,SKU-100133,Lumos Premium Camera,Electronics,Cameras,Arbor,170.76,194.05,8.9,7.4,4.4,2.57,0.168,Ambient,286,5,1,B,2024-01-12,12
+135,SKU-100134,Nordic Smart Camping,Sports & Outdoors,Camping,Ionic,27.36,49.45,23.4,10.5,9.1,6.35,1.294,Ambient,37,9,1,C,2022-06-12,26
+136,SKU-100135,Umbra Classic Smart Home,Electronics,Smart Home,Kinetic,153.76,174.73,5.2,4.5,4.4,0.85,0.06,Ambient,805,39,1,A,2023-11-05,26
+137,SKU-100136,Halcyon Active Outdoor Toy,Toys & Games,Outdoor Toys,Quanta,36.94,64.19,23.0,17.1,10.9,8.41,2.481,Oversize,19,3,0,C,2022-09-28,35
+138,SKU-100137,Gleam Select Smart Home,Electronics,Smart Home,Zephyr,59.82,73.92,7.4,6.9,5.9,1.56,0.174,Ambient,275,2,0,C,2022-10-02,23
+139,SKU-100138,Nordic Ultra Dog Food,Pet Supplies,Dog Food,Jasper,55.91,89.89,16.9,12.5,4.1,14.54,0.501,Ambient,95,28,0,B,2022-03-28,28
+140,SKU-100139,Solace Pro Monitor,Electronics,Monitors,Daybreak,163.7,189.38,29.7,19.7,6.3,14.85,2.133,Ambient,22,40,1,B,2024-01-17,28
+141,SKU-100140,Arbor Essential Cat Litter & Care,Pet Supplies,Cat Litter & Care,Brightwell,18.3,30.94,14.5,9.9,6.5,14.82,0.54,Ambient,88,32,0,A,2024-03-18,9
+142,SKU-100141,Solace Active Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Arbor,29.38,38.74,8.0,5.8,5.6,1.17,0.15,Ambient,319,5,0,C,2023-05-20,12
+143,SKU-100142,Gleam Classic Fitness Equipment,Sports & Outdoors,Fitness Equipment,Gleam,27.31,43.2,30.3,14.0,10.6,17.47,2.602,Oversize,18,38,0,B,2024-02-15,10
+144,SKU-100143,Umbra Elite Beverage,Grocery & Gourmet,Beverages,Eldrin,29.13,41.7,16.2,11.6,9.5,15.9,1.033,Ambient,46,3,0,C,2022-12-15,35
+145,SKU-100144,Zephyr Smart Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Aurelia,5.91,8.87,7.8,6.5,6.7,1.55,0.197,Ambient,244,19,0,C,2023-07-20,33
+146,SKU-100145,Kinetic Prime Pet Accessorie,Pet Supplies,Pet Accessories,Solace,9.35,12.21,14.2,11.0,7.9,3.02,0.714,Ambient,67,24,0,C,2024-02-26,10
+147,SKU-100146,Wren Active Bedding,Home & Kitchen,Bedding,Gleam,17.14,28.82,22.3,17.5,9.8,7.53,2.213,Ambient,21,4,0,B,2023-03-07,29
+148,SKU-100147,Yonder Select Fitness Equipment,Sports & Outdoors,Fitness Equipment,Nova,23.96,40.39,30.4,13.5,9.8,15.82,2.328,Oversize,20,25,0,C,2023-09-09,5
+149,SKU-100148,Ionic Essential Smart Home,Electronics,Smart Home,Quanta,83.6,123.28,5.2,4.5,4.3,0.83,0.058,Ambient,824,26,0,B,2022-05-26,31
+150,SKU-100149,Wren Premium Camping,Sports & Outdoors,Camping,Fjord,150.99,248.54,27.8,14.7,12.8,11.04,3.027,Ambient,15,36,0,A,2023-05-23,28
+151,SKU-100150,Fjord Smart Cookware,Home & Kitchen,Cookware,Xenon,47.19,89.91,16.9,14.2,9.7,7.26,1.347,Ambient,35,18,1,B,2024-04-30,33
+152,SKU-100151,Olive&Co Active Fragrance,Beauty & Personal Care,Fragrance,Brightwell,51.59,128.71,5.7,3.8,2.7,0.62,0.034,Hazmat,1418,33,0,B,2024-02-13,28
+153,SKU-100152,Gleam Elite Grooming Tool,Beauty & Personal Care,Grooming Tools,Ionic,37.07,91.39,9.7,6.4,5.1,1.44,0.183,Ambient,261,32,0,B,2022-10-28,9
+154,SKU-100153,Kinetic Active Bags & Accessorie,Fashion,Bags & Accessories,Corvo,20.51,40.06,12.0,8.7,4.7,1.33,0.284,Ambient,169,19,0,B,2023-06-29,33
+155,SKU-100154,Halcyon Elite Haircare,Beauty & Personal Care,Haircare,Aurelia,3.55,7.09,7.3,2.7,3.2,0.66,0.037,Ambient,1315,28,0,C,2023-09-12,28
+156,SKU-100155,Nordic Elite Snack,Grocery & Gourmet,Snacks,Daybreak,8.55,11.8,9.3,6.6,4.9,1.22,0.174,Ambient,275,7,0,C,2024-07-27,7
+157,SKU-100156,Halcyon Smart Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Gleam,8.42,12.76,6.7,5.2,5.2,0.98,0.105,Ambient,457,6,0,C,2024-04-08,33
+158,SKU-100157,Pebble Pro Bags & Accessorie,Fashion,Bags & Accessories,Brightwell,74.48,159.13,14.9,9.1,4.5,1.64,0.353,Ambient,135,32,0,A,2024-03-29,9
+159,SKU-100158,Daybreak Select Fitness Equipment,Sports & Outdoors,Fitness Equipment,Halcyon,34.44,49.61,27.9,10.8,9.0,13.99,1.569,Oversize,30,8,1,C,2024-01-23,29
+160,SKU-100159,Mosaic Eco Dog Food,Pet Supplies,Dog Food,Wren,30.3,43.83,21.0,14.2,5.5,17.81,0.949,Ambient,50,40,0,C,2022-12-25,28
+161,SKU-100160,Halcyon Active Camera,Electronics,Cameras,Solace,139.3,201.76,10.5,8.3,5.3,2.89,0.267,Ambient,179,27,0,B,2023-01-13,30
+162,SKU-100161,Vivid Premium Camera,Electronics,Cameras,Xenon,926.59,1162.13,9.2,8.4,5.5,2.53,0.246,Ambient,195,20,1,A,2023-04-10,4
+163,SKU-100162,Gleam Smart Smart Home,Electronics,Smart Home,Nordic,19.18,22.83,5.8,5.1,3.7,0.7,0.063,Ambient,757,28,0,C,2023-03-03,28
+164,SKU-100163,Vivid Elite Team Sport,Sports & Outdoors,Team Sports,Olive&Co,13.49,23.45,13.6,11.8,11.5,2.54,1.068,Ambient,44,38,0,C,2024-08-15,10
+165,SKU-100164,Terra Essential Footwear,Fashion,Footwear,Yonder,13.51,30.17,9.4,6.5,3.8,1.51,0.134,Ambient,357,30,0,C,2024-05-25,30
+166,SKU-100165,Wren Select Beverage,Grocery & Gourmet,Beverages,Cedar,5.03,8.2,12.2,8.6,7.7,11.21,0.468,Ambient,102,28,0,C,2024-06-14,28
+167,SKU-100166,Mosaic Active Board Game,Toys & Games,Board Games,Gleam,21.17,34.04,12.0,9.4,3.1,1.74,0.202,Ambient,237,12,0,C,2023-08-31,7
+168,SKU-100167,Halcyon Select Men's Apparel,Fashion,Men's Apparel,Ridge,11.11,26.7,15.1,12.1,2.4,1.05,0.254,Ambient,189,36,0,C,2022-07-11,28
+169,SKU-100168,Halcyon Smart Desk,Furniture,Desks,Eldrin,485.74,665.51,48.3,27.3,7.7,90.37,5.876,Oversize,8,2,0,A,2022-05-24,23
+170,SKU-100169,Ionic Essential Snack,Grocery & Gourmet,Snacks,Bolt,9.38,13.12,7.9,6.1,4.5,0.83,0.125,Ambient,382,39,0,C,2022-10-02,26
+171,SKU-100170,Nordic Pro Storage & Organization,Home & Kitchen,Storage & Organization,Aurelia,19.3,34.85,21.4,14.6,9.1,4.06,1.645,Ambient,29,12,1,C,2023-10-14,7
+172,SKU-100171,Umbra Smart Men's Apparel,Fashion,Men's Apparel,Pebble,9.54,21.1,13.6,9.8,2.0,0.97,0.154,Ambient,311,20,0,C,2022-12-31,4
+173,SKU-100172,Zephyr Active Home Decor,Home & Kitchen,Home Decor,Brightwell,74.93,111.03,16.3,13.9,10.6,6.66,1.39,Ambient,34,29,1,B,2023-10-18,31
+174,SKU-100173,Mosaic Eco Monitor,Electronics,Monitors,Nordic,117.53,153.18,20.3,12.6,5.0,9.98,0.74,Ambient,64,3,0,A,2024-05-29,35
+175,SKU-100174,Fjord Select Monitor,Electronics,Monitors,Arbor,138.09,162.34,19.9,12.9,4.7,9.95,0.698,Ambient,68,17,0,A,2022-12-01,10
+176,SKU-100175,Jasper Max Dog Food,Pet Supplies,Dog Food,Pebble,20.86,37.16,22.8,13.3,4.7,16.62,0.825,Ambient,58,36,0,C,2024-07-16,28
+177,SKU-100176,Daybreak Smart Footwear,Fashion,Footwear,Zephyr,35.77,71.72,13.0,7.9,4.3,1.98,0.256,Ambient,187,31,0,A,2023-05-27,11
+178,SKU-100177,Pebble Plus Women's Apparel,Fashion,Women's Apparel,Eldrin,8.07,16.01,8.9,7.1,1.6,0.45,0.059,Ambient,820,27,0,C,2024-03-13,30
+179,SKU-100178,Kinetic Lite Outdoor Toy,Toys & Games,Outdoor Toys,Nova,22.67,38.23,26.2,16.5,12.4,8.95,3.102,Oversize,15,36,1,C,2022-03-01,28
+180,SKU-100179,Nova Eco Fragrance,Beauty & Personal Care,Fragrance,Daybreak,39.9,122.27,5.0,3.3,2.3,0.51,0.022,Hazmat,2185,35,0,B,2022-10-03,31
+181,SKU-100180,Kinetic Plus Dog Food,Pet Supplies,Dog Food,Gleam,27.27,40.67,21.4,13.9,5.6,17.77,0.964,Ambient,49,39,1,C,2024-07-19,26
+182,SKU-100181,Mosaic Max Beverage,Grocery & Gourmet,Beverages,Nordic,23.94,35.56,16.1,11.6,10.5,20.79,1.135,Ambient,42,37,0,C,2024-06-06,22
+183,SKU-100182,Pebble Pro Bags & Accessorie,Fashion,Bags & Accessories,Nordic,56.82,119.21,13.8,10.3,4.8,1.76,0.395,Ambient,121,12,0,A,2023-07-25,7
+184,SKU-100183,Jasper Essential Women's Apparel,Fashion,Women's Apparel,Jasper,25.48,51.58,12.9,11.4,2.5,0.93,0.213,Ambient,225,22,0,C,2022-02-02,8
+185,SKU-100184,Cedar Eco Interior Accessorie,Automotive,Interior Accessories,Mosaic,62.18,93.19,21.4,15.3,10.2,5.91,1.933,Ambient,24,13,1,B,2022-03-01,4
+186,SKU-100185,Terra Prime Outdoor Toy,Toys & Games,Outdoor Toys,Gleam,36.44,61.04,20.1,13.0,10.5,6.71,1.588,Oversize,30,14,0,B,2023-02-27,11
+187,SKU-100186,Nova Pro Pet Accessorie,Pet Supplies,Pet Accessories,Brightwell,23.15,32.24,11.4,7.7,7.0,2.58,0.356,Ambient,134,32,0,C,2024-06-17,9
+188,SKU-100187,Wren Active Camera,Electronics,Cameras,Xenon,643.5,774.69,6.5,5.5,4.0,1.53,0.083,Ambient,580,18,0,A,2023-01-13,33
+189,SKU-100188,Halcyon Lite Medical Supplie,Health & Wellness,Medical Supplies,Jasper,18.78,39.44,9.9,7.7,6.2,2.3,0.274,Ambient,175,29,0,C,2024-06-03,31
+190,SKU-100189,Olive&Co Elite Cycling,Sports & Outdoors,Cycling,Kinetic,36.89,61.23,23.8,11.8,9.5,6.91,1.544,Ambient,31,6,0,A,2023-06-20,33
+191,SKU-100190,Cedar Plus Camera,Electronics,Cameras,Nova,532.7,666.27,10.3,8.7,5.7,3.6,0.296,Ambient,162,23,0,A,2022-05-15,31
+192,SKU-100191,Zephyr Prime Grooming Tool,Beauty & Personal Care,Grooming Tools,Arbor,29.56,80.81,8.6,6.1,4.7,1.57,0.143,Ambient,336,25,1,B,2023-07-15,5
+193,SKU-100192,Terra Classic Board Game,Toys & Games,Board Games,Arbor,16.57,28.76,14.1,12.6,3.2,2.66,0.329,Ambient,145,7,0,C,2022-12-31,7
+194,SKU-100193,Umbra Smart Phone Accessorie,Electronics,Phone Accessories,Xenon,22.21,29.35,4.2,3.1,1.4,0.2,0.011,Ambient,4000,7,1,C,2022-08-14,7
+195,SKU-100194,Gleam Select Footwear,Fashion,Footwear,Mosaic,59.83,132.81,14.7,8.9,5.1,2.45,0.386,Ambient,124,35,0,A,2023-11-07,31
+196,SKU-100195,Olive&Co Plus Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Ridge,9.76,11.51,9.9,8.8,6.2,2.61,0.313,Refrigerated,153,21,0,C,2022-07-24,20
+197,SKU-100196,Cedar Essential Storage & Organization,Home & Kitchen,Storage & Organization,Fjord,8.64,14.31,24.6,16.5,10.2,5.83,2.396,Ambient,20,13,0,C,2024-06-24,4
+198,SKU-100197,Ridge Lite Bags & Accessorie,Fashion,Bags & Accessories,Quanta,20.05,40.6,14.3,9.2,5.1,1.16,0.388,Ambient,123,29,0,C,2024-03-14,31
+199,SKU-100198,Nordic Classic Footwear,Fashion,Footwear,Gleam,62.14,114.6,12.5,9.2,4.6,2.38,0.306,Ambient,156,2,0,A,2024-02-22,23
+200,SKU-100199,Mosaic Active Home Decor,Home & Kitchen,Home Decor,Wren,55.01,88.84,18.9,14.6,11.8,5.24,1.884,Ambient,25,1,1,B,2022-03-18,11
+201,SKU-100200,Quanta Plus Living Room,Furniture,Living Room,Mosaic,150.86,233.27,40.6,24.8,14.9,47.72,8.682,Oversize,5,15,0,A,2024-08-18,28
+202,SKU-100201,Wren Studio Beverage,Grocery & Gourmet,Beverages,Fjord,10.82,15.25,18.4,12.2,10.1,23.13,1.312,Ambient,36,27,0,C,2023-05-09,30
+203,SKU-100202,Brightwell Premium Camera,Electronics,Cameras,Gleam,193.87,222.56,8.0,5.8,4.0,1.74,0.107,Ambient,446,33,0,A,2024-01-03,28
+204,SKU-100203,Halcyon Premium Tools & Equipment,Automotive,Tools & Equipment,Lumos,28.36,40.21,14.7,7.2,5.6,6.7,0.343,Ambient,139,35,0,C,2022-07-11,31
+205,SKU-100204,Fjord Premium Fitness Nutrition,Health & Wellness,Fitness Nutrition,Arbor,13.5,26.76,7.8,5.3,5.1,2.21,0.122,Ambient,393,37,0,C,2024-02-08,22
+206,SKU-100205,Yonder Elite Storage & Organization,Home & Kitchen,Storage & Organization,Vivid,22.55,37.5,15.6,10.0,6.5,2.27,0.587,Ambient,81,12,0,C,2022-11-16,7
+207,SKU-100206,Cedar Lite Vitamin,Health & Wellness,Vitamins,Umbra,16.32,46.57,5.9,3.8,3.5,0.75,0.045,Ambient,1057,20,0,C,2023-12-09,4
+208,SKU-100207,Wren Smart Smart Home,Electronics,Smart Home,Gleam,21.87,24.85,7.2,5.8,4.6,0.87,0.111,Ambient,431,31,0,C,2022-10-05,11
+209,SKU-100208,Pebble Pro Tools & Equipment,Automotive,Tools & Equipment,Brightwell,24.63,42.59,12.6,7.7,6.7,5.48,0.376,Ambient,127,7,0,C,2024-07-21,7
+210,SKU-100209,Zephyr Select Team Sport,Sports & Outdoors,Team Sports,Kinetic,26.03,43.58,14.5,12.8,10.4,2.45,1.117,Ambient,42,30,0,B,2023-12-10,30
+211,SKU-100210,Yonder Active Team Sport,Sports & Outdoors,Team Sports,Ridge,40.52,77.96,14.6,12.2,10.8,2.03,1.113,Ambient,43,10,0,B,2023-03-29,12
+212,SKU-100211,Nordic Plus Smart Home,Electronics,Smart Home,Bolt,82.03,114.26,9.6,7.7,6.4,1.68,0.274,Ambient,175,32,0,B,2023-04-02,9
+213,SKU-100212,Vivid Eco Office Chair,Furniture,Office Chairs,Quanta,80.88,126.42,25.6,20.5,12.5,31.11,3.796,Oversize,12,9,0,A,2022-01-01,26
+214,SKU-100213,Gleam Essential Headphone,Electronics,Headphones,Daybreak,62.56,81.17,8.4,6.9,2.9,0.55,0.097,Ambient,493,40,1,B,2022-10-27,28
+215,SKU-100214,Solace Active Bedding,Home & Kitchen,Bedding,Kinetic,17.17,29.28,16.2,13.1,7.1,3.74,0.872,Ambient,55,39,0,C,2024-02-29,26
+216,SKU-100215,Nordic Select Monitor,Electronics,Monitors,Halcyon,405.02,460.25,30.8,22.2,6.5,22.46,2.572,Ambient,18,38,1,A,2024-04-11,10
+217,SKU-100216,Nova Pro Beverage,Grocery & Gourmet,Beverages,Xenon,17.65,23.02,19.3,11.7,9.8,21.24,1.281,Ambient,37,7,0,C,2024-09-26,7
+218,SKU-100217,Olive&Co Essential Small Appliance,Home & Kitchen,Small Appliances,Halcyon,79.9,119.8,17.5,13.1,12.7,7.91,1.685,Ambient,28,1,1,A,2022-03-27,11
+219,SKU-100218,Umbra Lite Storage Furniture,Furniture,Storage Furniture,Ionic,150.97,271.15,47.7,23.2,13.3,56.97,8.518,Oversize,5,16,0,A,2022-09-08,34
+220,SKU-100219,Kinetic Smart Team Sport,Sports & Outdoors,Team Sports,Halcyon,11.63,18.48,16.9,14.3,11.6,2.65,1.622,Ambient,29,11,0,C,2024-02-06,32
+221,SKU-100220,Umbra Plus Headphone,Electronics,Headphones,Cedar,160.79,215.54,8.7,7.8,3.2,0.73,0.126,Ambient,381,2,0,A,2022-12-28,23
+222,SKU-100221,Solace Plus Phone Accessorie,Electronics,Phone Accessories,Olive&Co,18.02,22.2,6.9,4.6,2.3,0.47,0.042,Ambient,1136,10,1,C,2022-09-06,12
+223,SKU-100222,Terra Plus Headphone,Electronics,Headphones,Mosaic,51.31,66.36,7.0,6.2,2.8,0.44,0.07,Ambient,682,4,0,C,2022-10-09,29
+224,SKU-100223,Terra Max Fitness Equipment,Sports & Outdoors,Fitness Equipment,Daybreak,13.14,21.75,32.6,17.1,10.8,23.87,3.484,Oversize,13,15,0,C,2024-07-07,28
+225,SKU-100224,Jasper Plus Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Olive&Co,7.26,9.69,7.2,4.8,4.4,0.98,0.088,Ambient,545,37,0,C,2024-05-07,22
+226,SKU-100225,Yonder Elite Bedding,Home & Kitchen,Bedding,Nordic,35.73,57.36,23.3,19.8,11.0,10.07,2.937,Ambient,16,21,0,C,2022-01-06,20
+227,SKU-100226,Vivid Plus Vitamin,Health & Wellness,Vitamins,Gleam,29.25,60.44,5.2,3.2,3.0,0.63,0.029,Ambient,1661,22,0,B,2024-04-20,8
+228,SKU-100227,Halcyon Ultra Laptop,Electronics,Laptops,Pebble,844.04,1136.8,19.3,13.3,3.2,7.38,0.475,Ambient,100,16,1,A,2023-07-11,34
+229,SKU-100228,Aurelia Premium Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Ionic,11.59,19.59,8.7,6.2,5.9,1.57,0.184,Ambient,260,23,0,C,2024-04-24,31
+230,SKU-100229,Brightwell Premium Dog Food,Pet Supplies,Dog Food,Mosaic,42.52,66.2,21.5,13.3,5.0,16.87,0.827,Ambient,58,14,0,B,2023-09-15,11
+231,SKU-100230,Ionic Premium Beverage,Grocery & Gourmet,Beverages,Vivid,16.15,21.8,10.3,7.5,6.0,8.27,0.268,Ambient,178,4,0,C,2023-11-20,29
+232,SKU-100231,Corvo Active Building Set,Toys & Games,Building Sets,Terra,20.22,29.6,15.0,10.7,5.1,2.41,0.474,Ambient,101,5,0,C,2023-08-01,12
+233,SKU-100232,Brightwell Essential Vitamin,Health & Wellness,Vitamins,Ridge,8.79,18.47,4.3,2.4,2.4,0.34,0.014,Ambient,3348,39,0,C,2024-01-05,26
+234,SKU-100233,Kinetic Classic Headphone,Electronics,Headphones,Quanta,71.4,83.13,6.3,5.7,2.3,0.38,0.048,Ambient,1004,18,0,A,2024-03-26,33
+235,SKU-100234,Pebble Lite Small Appliance,Home & Kitchen,Small Appliances,Umbra,25.26,49.28,13.1,10.8,11.4,9.08,0.933,Ambient,51,4,0,B,2023-05-24,29
+236,SKU-100235,Bolt Select Camera,Electronics,Cameras,Lumos,212.07,245.9,6.3,5.3,3.7,1.26,0.071,Ambient,671,10,0,A,2022-04-23,12
+237,SKU-100236,Pebble Pro Skincare,Beauty & Personal Care,Skincare,Lumos,5.32,12.48,5.7,2.9,3.1,0.38,0.03,Ambient,1618,23,0,B,2022-04-04,31
+238,SKU-100237,Umbra Prime Puzzle,Toys & Games,Puzzles,Gleam,7.44,11.57,10.1,9.4,2.4,1.06,0.132,Ambient,364,38,0,C,2023-02-20,10
+239,SKU-100238,Aurelia Ultra Cycling,Sports & Outdoors,Cycling,Solace,52.22,84.46,21.9,10.2,7.9,6.71,1.021,Ambient,47,13,0,C,2023-04-19,4
+240,SKU-100239,Solace Premium Medical Supplie,Health & Wellness,Medical Supplies,Jasper,9.15,25.63,11.9,10.1,6.7,3.51,0.466,Ambient,103,11,0,C,2024-05-13,32
+241,SKU-100240,Ionic Active Monitor,Electronics,Monitors,Corvo,286.21,397.75,34.2,23.1,7.6,26.58,3.475,Ambient,13,16,0,A,2022-02-03,34
+242,SKU-100241,Xenon Studio Puzzle,Toys & Games,Puzzles,Zephyr,18.86,33.32,11.7,10.4,2.6,1.79,0.183,Ambient,262,8,0,B,2024-06-07,29
+243,SKU-100242,Arbor Lite Cookware,Home & Kitchen,Cookware,Eldrin,62.96,89.68,12.8,10.7,7.7,6.3,0.61,Ambient,78,15,1,B,2022-02-25,28
+244,SKU-100243,Nordic Classic Storage & Organization,Home & Kitchen,Storage & Organization,Vivid,24.13,41.32,16.7,12.0,7.4,2.74,0.858,Ambient,55,31,0,C,2023-05-14,11
+245,SKU-100244,Quanta Elite Building Set,Toys & Games,Building Sets,Mosaic,13.78,23.03,11.8,8.9,4.5,2.52,0.273,Ambient,175,23,0,C,2023-02-27,31
+246,SKU-100245,Zephyr Prime Interior Accessorie,Automotive,Interior Accessories,Ridge,53.39,98.97,13.4,10.1,7.0,2.0,0.548,Ambient,87,21,0,A,2023-07-12,20
+247,SKU-100246,Lumos Ultra Camping,Sports & Outdoors,Camping,Lumos,27.33,48.63,27.7,12.4,10.7,11.34,2.127,Ambient,22,40,0,A,2022-02-12,28
+248,SKU-100247,Daybreak Max Laptop,Electronics,Laptops,Jasper,777.39,923.72,16.1,12.1,2.7,5.56,0.304,Ambient,157,1,0,A,2024-02-03,11
+249,SKU-100248,Lumos Premium Camping,Sports & Outdoors,Camping,Aurelia,125.07,209.73,29.0,13.4,11.5,8.48,2.586,Ambient,18,2,0,B,2022-05-15,23
+250,SKU-100249,Lumos Studio Headphone,Electronics,Headphones,Aurelia,52.05,68.07,7.4,6.9,2.9,0.58,0.086,Ambient,560,3,0,C,2024-02-19,35
+251,SKU-100250,Cedar Lite Fitness Nutrition,Health & Wellness,Fitness Nutrition,Kinetic,16.87,26.65,8.9,6.7,6.1,3.52,0.21,Ambient,228,22,0,C,2023-07-21,8
+252,SKU-100251,Bolt Elite Building Set,Toys & Games,Building Sets,Terra,70.58,137.43,17.5,10.9,6.0,4.08,0.662,Ambient,72,36,0,A,2024-06-07,28
+253,SKU-100252,Bolt Max Cookware,Home & Kitchen,Cookware,Gleam,19.81,32.14,15.8,14.8,9.6,6.54,1.299,Ambient,36,4,0,C,2024-09-05,29
+254,SKU-100253,Terra Premium Smart Home,Electronics,Smart Home,Brightwell,60.4,71.34,8.1,7.3,5.6,2.1,0.192,Ambient,250,33,1,C,2024-04-23,28
+255,SKU-100254,Gleam Ultra Cookware,Home & Kitchen,Cookware,Aurelia,49.36,84.07,17.1,13.1,8.5,8.1,1.102,Ambient,43,18,1,A,2023-03-29,33
+256,SKU-100255,Vivid Ultra Interior Accessorie,Automotive,Interior Accessories,Nordic,28.56,48.81,14.1,9.3,7.5,2.41,0.569,Ambient,84,7,0,C,2023-02-19,7
+257,SKU-100256,Kinetic Prime Bags & Accessorie,Fashion,Bags & Accessories,Umbra,70.3,136.09,14.2,10.9,5.1,2.18,0.457,Ambient,105,3,0,B,2023-10-25,35
+258,SKU-100257,Olive&Co Plus Beverage,Grocery & Gourmet,Beverages,Lumos,14.4,17.34,17.3,12.7,10.4,21.2,1.322,Ambient,36,11,0,C,2023-10-12,32
+259,SKU-100258,Terra Classic Cycling,Sports & Outdoors,Cycling,Yonder,6.18,10.68,18.2,8.3,6.4,3.9,0.559,Ambient,85,2,0,C,2024-03-01,23
+260,SKU-100259,Ionic Lite Grooming Tool,Beauty & Personal Care,Grooming Tools,Nordic,56.02,109.54,7.9,4.9,3.5,0.95,0.078,Ambient,612,33,0,B,2023-04-29,28
+261,SKU-100260,Bolt Select Monitor,Electronics,Monitors,Zephyr,326.62,421.23,33.6,24.8,8.4,21.15,4.051,Ambient,11,12,0,A,2023-04-08,7
+262,SKU-100261,Quanta Active Pet Accessorie,Pet Supplies,Pet Accessories,Arbor,5.53,8.11,11.6,7.0,6.1,1.56,0.287,Ambient,167,25,0,C,2022-04-28,5
+263,SKU-100262,Halcyon Plus Home Decor,Home & Kitchen,Home Decor,Xenon,10.35,13.94,11.3,10.1,7.8,2.5,0.515,Ambient,93,19,0,C,2022-06-18,33
+264,SKU-100263,Nova Max Grooming Tool,Beauty & Personal Care,Grooming Tools,Zephyr,56.15,119.32,6.8,4.4,3.8,0.85,0.066,Ambient,729,32,0,A,2024-04-01,9
+265,SKU-100264,Arbor Smart Building Set,Toys & Games,Building Sets,Aurelia,59.73,99.03,10.8,8.2,4.0,2.01,0.205,Ambient,234,25,0,B,2024-09-16,5
+266,SKU-100265,Ionic Classic Cycling,Sports & Outdoors,Cycling,Zephyr,10.14,19.12,19.2,11.0,9.0,8.08,1.1,Ambient,43,19,0,C,2023-08-25,33
+267,SKU-100266,Jasper Active Pet Accessorie,Pet Supplies,Pet Accessories,Cedar,6.55,9.21,8.3,6.1,4.8,0.99,0.141,Ambient,341,31,0,C,2022-12-11,11
+268,SKU-100267,Yonder Active Monitor,Electronics,Monitors,Olive&Co,229.93,298.2,29.4,19.9,7.5,16.82,2.539,Ambient,18,13,0,A,2022-02-28,4
+269,SKU-100268,Wren Smart Skincare,Beauty & Personal Care,Skincare,Mosaic,24.27,48.15,5.3,2.7,2.9,0.35,0.024,Ambient,1998,6,0,C,2022-02-13,33
+270,SKU-100269,Umbra Studio Women's Apparel,Fashion,Women's Apparel,Fjord,9.75,26.4,9.8,6.8,1.7,0.41,0.066,Ambient,732,2,0,C,2023-11-08,23
+271,SKU-100270,Daybreak Smart Bags & Accessorie,Fashion,Bags & Accessories,Pebble,20.39,40.4,12.2,9.3,4.7,1.07,0.309,Ambient,155,9,0,C,2023-10-04,26
+272,SKU-100271,Terra Prime Camera,Electronics,Cameras,Wren,341.09,441.29,9.7,7.7,5.2,3.51,0.225,Ambient,213,30,1,A,2022-10-11,30
+273,SKU-100272,Solace Pro Monitor,Electronics,Monitors,Umbra,163.41,208.32,26.7,19.7,5.9,16.97,1.796,Ambient,26,30,1,B,2022-07-08,30
+274,SKU-100273,Olive&Co Elite Storage & Organization,Home & Kitchen,Storage & Organization,Gleam,9.61,16.48,21.3,12.7,8.5,4.28,1.331,Ambient,36,10,0,C,2022-03-11,12
+275,SKU-100274,Corvo Ultra Home Decor,Home & Kitchen,Home Decor,Vivid,17.0,28.73,11.1,9.7,7.7,2.73,0.48,Ambient,100,24,0,C,2023-11-14,10
+276,SKU-100275,Pebble Classic Footwear,Fashion,Footwear,Arbor,57.44,120.11,11.0,7.6,4.0,1.6,0.194,Ambient,248,19,0,A,2023-08-30,33
+277,SKU-100276,Gleam Ultra Camping,Sports & Outdoors,Camping,Terra,47.97,84.33,22.9,13.5,11.6,9.74,2.075,Ambient,23,6,0,B,2022-11-30,33
+278,SKU-100277,Quanta Essential Cycling,Sports & Outdoors,Cycling,Jasper,6.69,11.55,23.7,11.8,9.3,10.74,1.505,Ambient,31,27,0,C,2024-01-03,30
+279,SKU-100278,Zephyr Premium Women's Apparel,Fashion,Women's Apparel,Solace,12.35,23.97,14.3,11.6,2.3,1.12,0.221,Ambient,217,34,0,C,2024-04-25,37
+280,SKU-100279,Vivid Eco Women's Apparel,Fashion,Women's Apparel,Vivid,16.9,37.44,14.0,9.4,2.4,0.78,0.183,Ambient,262,22,0,C,2023-06-02,8
+281,SKU-100280,Brightwell Prime Small Appliance,Home & Kitchen,Small Appliances,Mosaic,122.95,182.05,17.9,14.9,15.1,13.68,2.331,Ambient,20,1,0,A,2022-09-20,11
+282,SKU-100281,Vivid Smart Grooming Tool,Beauty & Personal Care,Grooming Tools,Wren,24.67,54.22,7.4,4.9,3.9,0.89,0.082,Ambient,586,21,0,C,2022-01-06,20
+283,SKU-100282,Pebble Lite Home Decor,Home & Kitchen,Home Decor,Bolt,10.67,15.88,10.9,9.6,7.8,3.02,0.472,Ambient,101,31,0,C,2024-03-06,11
+284,SKU-100283,Ridge Elite Headphone,Electronics,Headphones,Yonder,106.85,135.29,8.8,7.7,3.0,0.7,0.118,Ambient,408,20,0,B,2023-07-31,4
+285,SKU-100284,Daybreak Ultra Footwear,Fashion,Footwear,Olive&Co,17.62,34.87,15.6,9.3,5.4,2.25,0.453,Ambient,105,11,0,C,2022-12-14,32
+286,SKU-100285,Daybreak Prime Bags & Accessorie,Fashion,Bags & Accessories,Yonder,13.78,34.8,15.4,10.5,6.0,1.59,0.561,Ambient,85,31,0,C,2022-01-07,11
+287,SKU-100286,Cedar Prime Small Appliance,Home & Kitchen,Small Appliances,Fjord,19.18,31.59,18.7,12.9,13.0,12.06,1.815,Ambient,26,2,0,C,2024-03-25,23
+288,SKU-100287,Arbor Classic Grooming Tool,Beauty & Personal Care,Grooming Tools,Yonder,21.46,49.67,7.9,4.3,3.6,0.99,0.071,Ambient,678,20,1,B,2024-07-15,4
+289,SKU-100288,Brightwell Elite Fragrance,Beauty & Personal Care,Fragrance,Eldrin,39.81,87.98,7.6,5.2,3.7,0.97,0.085,Hazmat,567,36,0,A,2023-04-27,28
+290,SKU-100289,Nova Ultra Building Set,Toys & Games,Building Sets,Mosaic,29.38,47.07,15.2,10.8,6.3,3.96,0.598,Ambient,80,25,0,C,2022-09-25,5
+291,SKU-100290,Daybreak Select Cycling,Sports & Outdoors,Cycling,Lumos,132.21,239.43,23.1,10.7,9.5,6.62,1.359,Ambient,35,13,0,A,2023-09-12,4
+292,SKU-100291,Solace Active Team Sport,Sports & Outdoors,Team Sports,Vivid,16.58,27.89,12.4,10.3,9.4,1.72,0.695,Ambient,69,26,0,C,2024-05-21,31
+293,SKU-100292,Ridge Eco Home Decor,Home & Kitchen,Home Decor,Pebble,9.49,15.42,16.4,12.7,10.3,4.39,1.241,Ambient,38,11,0,C,2023-08-11,32
+294,SKU-100293,Mosaic Pro Beverage,Grocery & Gourmet,Beverages,Jasper,6.4,8.89,13.6,8.8,7.1,9.38,0.492,Ambient,97,11,0,C,2022-01-13,32
+295,SKU-100294,Solace Lite Fragrance,Beauty & Personal Care,Fragrance,Wren,61.7,137.5,5.0,3.4,2.8,0.53,0.028,Hazmat,1742,35,0,B,2022-07-15,31
+296,SKU-100295,Solace Select Footwear,Fashion,Footwear,Bolt,13.73,35.9,12.9,9.9,5.8,2.51,0.429,Ambient,111,14,0,C,2022-04-08,11
+297,SKU-100296,Lumos Classic Camping,Sports & Outdoors,Camping,Umbra,29.25,49.34,19.3,9.1,8.0,6.14,0.813,Ambient,59,4,0,C,2023-02-16,29
+298,SKU-100297,Lumos Select Men's Apparel,Fashion,Men's Apparel,Wren,37.56,81.41,9.8,7.3,1.7,0.46,0.07,Ambient,682,30,0,B,2023-03-28,30
+299,SKU-100298,Zephyr Prime Skincare,Beauty & Personal Care,Skincare,Nordic,5.39,14.45,7.4,3.4,3.6,0.52,0.052,Ambient,915,40,0,C,2023-06-20,28
+300,SKU-100299,Nordic Prime Puzzle,Toys & Games,Puzzles,Mosaic,7.92,13.25,9.7,8.3,2.2,1.09,0.103,Ambient,468,10,0,C,2024-01-29,12
+301,SKU-100300,Eldrin Smart Fitness Nutrition,Health & Wellness,Fitness Nutrition,Vivid,35.1,69.75,9.0,6.2,6.5,3.48,0.21,Ambient,228,11,0,B,2022-04-23,32
+302,SKU-100301,Corvo Ultra Dog Food,Pet Supplies,Dog Food,Solace,11.9,17.0,23.8,14.2,5.7,20.66,1.115,Ambient,43,10,0,C,2024-07-31,12
+303,SKU-100302,Jasper Eco Skincare,Beauty & Personal Care,Skincare,Pebble,16.52,48.65,6.1,3.1,3.5,0.45,0.038,Ambient,1253,3,1,A,2022-09-21,35
+304,SKU-100303,Xenon Studio Skincare,Beauty & Personal Care,Skincare,Fjord,12.2,23.38,7.0,3.0,3.1,0.49,0.038,Ambient,1274,22,0,C,2023-06-06,8
+305,SKU-100304,Terra Eco Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Pebble,31.97,44.18,6.8,4.7,4.7,0.9,0.087,Ambient,552,27,0,C,2022-07-30,30
+306,SKU-100305,Nordic Lite Home Decor,Home & Kitchen,Home Decor,Nordic,12.1,19.65,16.4,13.4,10.3,5.21,1.31,Ambient,36,4,1,C,2022-12-22,29
+307,SKU-100306,Umbra Prime Vitamin,Health & Wellness,Vitamins,Jasper,13.92,35.8,5.1,3.0,2.8,0.63,0.025,Ambient,1936,6,0,C,2024-04-12,33
+308,SKU-100307,Terra Select Bags & Accessorie,Fashion,Bags & Accessories,Pebble,31.55,58.83,10.1,8.3,3.7,0.76,0.179,Ambient,267,31,0,C,2022-02-14,11
+309,SKU-100308,Lumos Smart Camera,Electronics,Cameras,Eldrin,193.44,231.51,6.9,5.8,4.1,1.48,0.095,Ambient,505,21,0,A,2023-04-29,20
+310,SKU-100309,Jasper Plus Laptop,Electronics,Laptops,Mosaic,684.45,909.66,18.7,12.6,3.0,8.23,0.409,Ambient,117,11,0,A,2023-08-07,32
+311,SKU-100310,Brightwell Eco Vitamin,Health & Wellness,Vitamins,Aurelia,20.99,39.34,4.8,2.7,2.9,0.66,0.022,Ambient,2206,28,0,C,2023-07-24,28
+312,SKU-100311,Solace Eco Laptop,Electronics,Laptops,Terra,572.74,713.21,16.5,12.0,2.8,6.31,0.321,Ambient,149,18,0,A,2023-01-16,33
+313,SKU-100312,Ionic Classic Storage & Organization,Home & Kitchen,Storage & Organization,Yonder,13.56,17.97,15.3,9.2,7.0,1.82,0.57,Ambient,84,4,0,B,2023-01-13,29
+314,SKU-100313,Yonder Elite Men's Apparel,Fashion,Men's Apparel,Arbor,16.89,34.38,11.9,9.4,2.2,1.15,0.142,Ambient,337,5,0,B,2024-06-28,12
+315,SKU-100314,Halcyon Smart Cookware,Home & Kitchen,Cookware,Wren,26.24,39.97,14.3,11.8,7.5,6.59,0.732,Ambient,65,9,0,C,2022-08-29,26
+316,SKU-100315,Xenon Classic Home Decor,Home & Kitchen,Home Decor,Corvo,19.89,29.28,12.4,11.6,9.7,3.44,0.807,Ambient,59,28,0,C,2023-04-26,28
+317,SKU-100316,Cedar Max Puzzle,Toys & Games,Puzzles,Ridge,22.07,34.98,9.2,7.8,2.1,1.02,0.087,Ambient,550,36,0,C,2022-12-31,28
+318,SKU-100317,Gleam Plus Phone Accessorie,Electronics,Phone Accessories,Mosaic,23.93,29.94,5.1,3.9,1.9,0.26,0.022,Ambient,2194,9,1,C,2024-02-05,26
+319,SKU-100318,Corvo Lite Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Cedar,10.05,14.5,10.5,7.4,6.1,2.11,0.274,Refrigerated,174,16,0,C,2024-03-16,34
+320,SKU-100319,Olive&Co Prime Medical Supplie,Health & Wellness,Medical Supplies,Yonder,10.63,19.83,12.3,9.6,7.0,3.1,0.478,Ambient,100,26,0,C,2024-04-28,31
+321,SKU-100320,Kinetic Pro Men's Apparel,Fashion,Men's Apparel,Gleam,10.46,23.5,12.3,9.6,2.3,1.04,0.157,Ambient,305,24,0,B,2022-03-26,10
+322,SKU-100321,Ridge Premium Monitor,Electronics,Monitors,Zephyr,267.01,303.42,31.5,22.6,7.4,22.04,3.049,Ambient,15,40,1,A,2022-04-09,28
+323,SKU-100322,Quanta Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Fjord,23.92,40.63,34.8,16.6,12.7,23.43,4.246,Oversize,11,10,1,B,2023-01-11,12
+324,SKU-100323,Arbor Smart Camera,Electronics,Cameras,Lumos,263.16,324.06,7.5,6.6,4.7,1.78,0.135,Ambient,356,17,0,A,2023-03-17,10
+325,SKU-100324,Eldrin Eco Men's Apparel,Fashion,Men's Apparel,Ridge,9.58,21.78,15.5,11.7,2.3,1.08,0.241,Ambient,198,26,0,C,2022-03-05,31
+326,SKU-100325,Arbor Essential Cat Litter & Care,Pet Supplies,Cat Litter & Care,Bolt,26.17,35.76,13.1,10.4,6.7,11.24,0.528,Ambient,90,19,0,C,2024-06-12,33
+327,SKU-100326,Terra Elite Tools & Equipment,Automotive,Tools & Equipment,Yonder,57.09,94.59,16.2,9.2,6.5,6.2,0.561,Ambient,85,29,0,B,2024-06-15,31
+328,SKU-100327,Nordic Elite Beverage,Grocery & Gourmet,Beverages,Bolt,9.31,12.83,13.7,10.9,7.8,12.14,0.674,Ambient,71,18,0,C,2023-03-01,33
+329,SKU-100328,Olive&Co Pro Home Decor,Home & Kitchen,Home Decor,Corvo,47.55,83.0,17.7,15.2,12.6,6.06,1.962,Ambient,24,1,0,B,2024-02-09,11
+330,SKU-100329,Corvo Premium Board Game,Toys & Games,Board Games,Fjord,7.53,12.92,12.8,9.8,3.4,1.91,0.247,Ambient,194,7,0,C,2023-07-20,7
+331,SKU-100330,Zephyr Lite Building Set,Toys & Games,Building Sets,Nordic,18.38,37.49,13.6,8.4,4.7,2.05,0.311,Ambient,154,23,0,C,2023-10-20,31
+332,SKU-100331,Arbor Eco Women's Apparel,Fashion,Women's Apparel,Mosaic,41.02,76.35,10.9,8.2,1.8,0.47,0.093,Ambient,515,6,0,C,2024-05-23,33
+333,SKU-100332,Bolt Max Cycling,Sports & Outdoors,Cycling,Quanta,27.74,52.12,21.2,10.4,8.7,6.68,1.11,Ambient,43,40,0,C,2022-04-03,28
+334,SKU-100333,Yonder Studio Phone Accessorie,Electronics,Phone Accessories,Brightwell,22.48,29.49,4.8,3.5,1.6,0.22,0.016,Ambient,3085,17,0,C,2022-08-21,10
+335,SKU-100334,Arbor Elite Small Appliance,Home & Kitchen,Small Appliances,Ridge,40.65,72.51,18.2,14.9,16.0,12.23,2.511,Ambient,19,34,0,B,2023-03-05,37
+336,SKU-100335,Quanta Max Haircare,Beauty & Personal Care,Haircare,Terra,7.93,18.66,6.6,2.8,2.9,0.67,0.031,Ambient,1547,34,1,C,2024-06-13,37
+337,SKU-100336,Lumos Max Cookware,Home & Kitchen,Cookware,Terra,53.62,83.7,17.7,12.9,10.1,8.71,1.335,Ambient,35,25,0,B,2023-08-15,5
+338,SKU-100337,Eldrin Eco Cookware,Home & Kitchen,Cookware,Arbor,34.84,58.6,14.9,11.5,8.3,5.98,0.823,Ambient,58,8,1,A,2023-02-02,29
+339,SKU-100338,Aurelia Smart Vitamin,Health & Wellness,Vitamins,Pebble,13.44,25.33,6.2,3.4,3.4,0.82,0.041,Ambient,1157,13,0,B,2022-01-29,4
+340,SKU-100339,Cedar Max Interior Accessorie,Automotive,Interior Accessories,Solace,17.33,29.86,20.9,14.5,10.4,4.06,1.824,Ambient,26,9,0,C,2023-08-17,26
+341,SKU-100340,Zephyr Lite Fragrance,Beauty & Personal Care,Fragrance,Ridge,13.02,25.16,5.7,3.7,2.7,0.64,0.033,Hazmat,1456,26,0,C,2022-09-27,31
+342,SKU-100341,Vivid Essential Vitamin,Health & Wellness,Vitamins,Zephyr,8.95,20.39,5.4,3.4,3.6,0.87,0.038,Ambient,1254,2,0,C,2022-11-25,23
+343,SKU-100342,Corvo Select Tools & Equipment,Automotive,Tools & Equipment,Ionic,14.0,20.21,18.6,10.6,8.0,8.46,0.913,Ambient,52,1,0,C,2024-09-22,11
+344,SKU-100343,Terra Lite Monitor,Electronics,Monitors,Halcyon,413.44,514.91,28.3,19.9,5.9,17.52,1.923,Ambient,24,14,0,A,2023-06-12,11
+345,SKU-100344,Jasper Studio Footwear,Fashion,Footwear,Daybreak,35.28,74.43,10.8,7.5,4.4,1.53,0.206,Ambient,232,3,0,C,2022-05-19,35
+346,SKU-100345,Jasper Eco Women's Apparel,Fashion,Women's Apparel,Brightwell,17.69,36.85,11.6,8.6,1.7,0.55,0.098,Ambient,489,5,0,C,2022-02-19,12
+347,SKU-100346,Brightwell Premium Smart Home,Electronics,Smart Home,Cedar,58.04,72.75,5.2,4.8,4.0,0.67,0.058,Ambient,830,33,0,B,2023-01-24,28
+348,SKU-100347,Halcyon Essential Snack,Grocery & Gourmet,Snacks,Cedar,4.85,7.08,10.1,8.0,5.5,1.2,0.257,Ambient,186,12,0,C,2022-03-07,7
+349,SKU-100348,Solace Pro Footwear,Fashion,Footwear,Kinetic,20.96,46.45,13.4,9.0,4.7,1.87,0.328,Ambient,146,11,0,B,2023-03-05,32
+350,SKU-100349,Lumos Essential Bags & Accessorie,Fashion,Bags & Accessories,Zephyr,47.18,104.31,17.6,12.1,6.1,2.02,0.752,Ambient,63,36,0,B,2023-02-19,28
+351,SKU-100350,Yonder Select Monitor,Electronics,Monitors,Lumos,120.38,150.5,26.0,18.1,5.6,14.91,1.525,Ambient,31,16,0,A,2024-05-29,34
+352,SKU-100351,Bolt Essential Cookware,Home & Kitchen,Cookware,Wren,58.37,78.14,15.0,14.4,10.0,7.37,1.25,Ambient,38,5,0,B,2022-12-01,12
+353,SKU-100352,Cedar Smart Storage Furniture,Furniture,Storage Furniture,Halcyon,131.89,221.13,37.6,17.8,10.9,55.18,4.222,Oversize,11,40,0,A,2022-10-04,28
+354,SKU-100353,Aurelia Active Headphone,Electronics,Headphones,Quanta,36.8,45.72,6.5,5.7,2.5,0.37,0.054,Ambient,895,12,1,C,2023-09-08,7
+355,SKU-100354,Brightwell Studio Bedding,Home & Kitchen,Bedding,Aurelia,25.41,41.41,18.7,13.4,8.1,4.62,1.175,Ambient,40,17,0,C,2023-10-02,10
+356,SKU-100355,Wren Lite Storage & Organization,Home & Kitchen,Storage & Organization,Daybreak,7.67,11.82,21.2,12.0,8.2,3.14,1.207,Ambient,39,14,0,A,2022-02-07,11
+357,SKU-100356,Gleam Eco Bags & Accessorie,Fashion,Bags & Accessories,Zephyr,52.44,102.23,11.6,8.6,4.7,1.31,0.271,Ambient,176,14,0,A,2022-03-25,11
+358,SKU-100357,Nordic Studio Grooming Tool,Beauty & Personal Care,Grooming Tools,Lumos,38.95,91.33,8.2,4.9,4.5,1.3,0.105,Ambient,458,31,0,B,2022-06-17,11
+359,SKU-100358,Nova Classic Bags & Accessorie,Fashion,Bags & Accessories,Yonder,43.26,83.59,19.0,12.7,6.1,2.25,0.852,Ambient,56,6,0,B,2024-02-16,33
+360,SKU-100359,Quanta Smart Smart Home,Electronics,Smart Home,Brightwell,121.34,153.29,8.8,8.1,6.8,1.83,0.281,Ambient,171,27,0,A,2022-07-29,30
+361,SKU-100360,Halcyon Premium Bedding,Home & Kitchen,Bedding,Aurelia,23.34,39.51,21.6,17.1,8.7,7.32,1.86,Ambient,25,32,1,C,2024-09-19,9
+362,SKU-100361,Ridge Lite Vitamin,Health & Wellness,Vitamins,Ionic,8.98,14.48,5.4,3.0,2.9,0.74,0.027,Ambient,1765,13,0,C,2023-03-17,4
+363,SKU-100362,Olive&Co Ultra Cycling,Sports & Outdoors,Cycling,Daybreak,57.33,91.52,16.0,7.3,6.0,3.1,0.406,Ambient,118,7,0,B,2024-07-22,7
+364,SKU-100363,Corvo Active Cycling,Sports & Outdoors,Cycling,Mosaic,68.73,139.2,18.9,8.7,6.7,5.44,0.638,Ambient,75,6,0,B,2022-09-04,33
+365,SKU-100364,Solace Studio Board Game,Toys & Games,Board Games,Daybreak,13.95,22.28,12.9,9.2,3.3,2.27,0.227,Ambient,211,25,0,A,2023-02-28,5
+366,SKU-100365,Brightwell Classic Snack,Grocery & Gourmet,Snacks,Kinetic,5.99,7.66,11.0,9.3,6.1,2.18,0.361,Ambient,132,33,0,C,2022-05-18,28
+367,SKU-100366,Aurelia Smart Laptop,Electronics,Laptops,Olive&Co,1065.67,1253.1,18.3,15.0,3.1,8.51,0.492,Ambient,97,30,1,A,2024-04-26,30
+368,SKU-100367,Aurelia Classic Men's Apparel,Fashion,Men's Apparel,Vivid,32.95,79.62,11.7,9.6,2.0,0.72,0.13,Ambient,369,30,0,B,2023-08-21,30
+369,SKU-100368,Wren Premium Haircare,Beauty & Personal Care,Haircare,Arbor,15.03,30.66,8.8,3.6,3.3,1.22,0.061,Ambient,793,28,1,B,2022-03-17,28
+370,SKU-100369,Nova Studio Men's Apparel,Fashion,Men's Apparel,Gleam,9.34,21.83,12.2,9.9,1.8,0.64,0.126,Ambient,381,37,0,B,2024-01-14,22
+371,SKU-100370,Jasper Premium Vitamin,Health & Wellness,Vitamins,Arbor,7.04,13.2,5.1,2.8,3.0,0.52,0.025,Ambient,1936,39,0,B,2024-06-06,26
+372,SKU-100371,Zephyr Prime Bags & Accessorie,Fashion,Bags & Accessories,Daybreak,10.5,21.05,11.6,8.9,4.1,1.29,0.245,Ambient,195,24,0,C,2023-11-17,10
+373,SKU-100372,Ridge Smart Snack,Grocery & Gourmet,Snacks,Solace,7.26,9.36,9.7,7.4,6.6,1.34,0.274,Ambient,175,18,0,C,2024-03-19,33
+374,SKU-100373,Umbra Ultra Medical Supplie,Health & Wellness,Medical Supplies,Nordic,13.51,29.06,10.7,9.7,6.5,2.23,0.39,Ambient,122,34,0,B,2022-10-04,37
+375,SKU-100374,Solace Smart Skincare,Beauty & Personal Care,Skincare,Nova,8.3,18.51,7.6,3.5,3.7,0.57,0.057,Ambient,842,24,0,B,2023-03-09,10
+376,SKU-100375,Ionic Ultra Storage Furniture,Furniture,Storage Furniture,Ridge,143.85,219.44,39.8,18.6,11.3,45.71,4.841,Oversize,9,8,0,B,2024-05-04,29
+377,SKU-100376,Halcyon Essential Grooming Tool,Beauty & Personal Care,Grooming Tools,Arbor,29.18,93.3,7.1,4.7,3.4,1.02,0.066,Ambient,731,38,0,B,2023-09-01,10
+378,SKU-100377,Yonder Eco Medical Supplie,Health & Wellness,Medical Supplies,Nova,25.94,51.84,7.8,7.2,4.7,1.13,0.153,Ambient,314,6,0,B,2023-09-04,33
+379,SKU-100378,Mosaic Active Men's Apparel,Fashion,Men's Apparel,Fjord,26.83,50.42,15.4,11.4,2.4,1.12,0.244,Ambient,196,23,0,C,2024-02-07,31
+380,SKU-100379,Terra Studio Bags & Accessorie,Fashion,Bags & Accessories,Aurelia,31.88,58.63,15.0,11.5,5.5,1.43,0.549,Ambient,87,17,0,C,2023-09-07,10
+381,SKU-100380,Nordic Smart Haircare,Beauty & Personal Care,Haircare,Pebble,7.39,15.61,7.6,3.4,3.4,0.91,0.051,Ambient,944,18,0,C,2022-05-07,33
+382,SKU-100381,Cedar Elite Smart Home,Electronics,Smart Home,Cedar,16.74,22.28,7.6,7.1,5.8,1.41,0.181,Ambient,265,3,0,C,2022-08-01,35
+383,SKU-100382,Solace Eco Women's Apparel,Fashion,Women's Apparel,Gleam,12.81,27.91,13.5,9.0,2.3,0.96,0.162,Ambient,296,17,0,C,2024-02-18,10
+384,SKU-100383,Eldrin Ultra Living Room,Furniture,Living Room,Corvo,213.83,318.77,36.4,22.8,13.5,41.85,6.484,Oversize,7,32,0,A,2022-08-31,9
+385,SKU-100384,Corvo Lite Cycling,Sports & Outdoors,Cycling,Vivid,20.9,33.49,20.7,11.1,8.0,7.13,1.064,Ambient,45,24,0,C,2023-10-28,10
+386,SKU-100385,Halcyon Max Cookware,Home & Kitchen,Cookware,Corvo,26.2,44.2,13.1,11.0,6.4,5.06,0.534,Ambient,89,6,1,C,2023-04-20,33
+387,SKU-100386,Ridge Smart Men's Apparel,Fashion,Men's Apparel,Fjord,31.98,52.2,11.5,8.3,1.9,0.68,0.105,Ambient,457,21,0,C,2023-09-13,20
+388,SKU-100387,Yonder Lite Cookware,Home & Kitchen,Cookware,Xenon,20.76,34.61,15.7,12.5,9.2,6.62,1.045,Ambient,45,1,1,B,2022-08-26,11
+389,SKU-100388,Nova Eco Phone Accessorie,Electronics,Phone Accessories,Eldrin,17.29,19.65,7.6,4.7,2.2,0.43,0.045,Ambient,1055,5,0,C,2022-11-07,12
+390,SKU-100389,Xenon Studio Dog Food,Pet Supplies,Dog Food,Mosaic,44.91,69.28,19.9,11.5,4.3,16.65,0.569,Ambient,84,34,0,B,2023-11-20,37
+391,SKU-100390,Fjord Active Footwear,Fashion,Footwear,Corvo,38.43,84.13,15.4,11.6,6.1,2.57,0.631,Ambient,76,4,0,A,2022-06-21,29
+392,SKU-100391,Lumos Studio Home Decor,Home & Kitchen,Home Decor,Ionic,42.43,69.58,10.0,10.2,8.3,2.95,0.49,Ambient,97,12,1,B,2022-11-05,7
+393,SKU-100392,Eldrin Ultra Fitness Equipment,Sports & Outdoors,Fitness Equipment,Gleam,159.96,284.61,36.4,14.7,12.3,24.48,3.809,Oversize,12,29,0,A,2024-09-25,31
+394,SKU-100393,Fjord Pro Phone Accessorie,Electronics,Phone Accessories,Vivid,31.87,44.7,7.7,4.5,2.3,0.57,0.046,Ambient,1040,16,0,B,2022-06-01,34
+395,SKU-100394,Gleam Studio Storage & Organization,Home & Kitchen,Storage & Organization,Jasper,28.09,43.27,14.7,8.9,6.4,1.73,0.485,Ambient,99,30,0,C,2023-08-01,30
+396,SKU-100395,Yonder Premium Building Set,Toys & Games,Building Sets,Cedar,23.18,44.26,13.3,10.0,4.7,3.25,0.362,Ambient,132,22,0,C,2022-06-01,8
+397,SKU-100396,Corvo Select Cycling,Sports & Outdoors,Cycling,Olive&Co,6.0,11.27,23.0,11.9,8.4,9.72,1.33,Ambient,36,10,0,C,2023-12-09,12
+398,SKU-100397,Zephyr Prime Interior Accessorie,Automotive,Interior Accessories,Corvo,59.77,93.34,20.4,14.3,10.2,4.78,1.722,Ambient,27,26,0,B,2022-05-08,31
+399,SKU-100398,Jasper Plus Camping,Sports & Outdoors,Camping,Zephyr,138.4,238.24,26.2,13.1,11.4,11.31,2.264,Ambient,21,29,0,A,2023-07-28,31
+400,SKU-100399,Gleam Eco Bags & Accessorie,Fashion,Bags & Accessories,Lumos,10.48,22.94,16.4,10.7,6.0,2.29,0.609,Ambient,78,9,0,C,2023-03-16,26
+401,SKU-100400,Umbra Premium Snack,Grocery & Gourmet,Snacks,Jasper,4.89,7.15,12.1,9.5,6.4,1.86,0.426,Ambient,112,22,0,B,2023-11-23,8
+402,SKU-100401,Zephyr Max Desk,Furniture,Desks,Brightwell,294.16,391.79,42.4,24.5,7.4,49.33,4.449,Oversize,10,8,0,A,2022-01-04,29
+403,SKU-100402,Bolt Prime Outdoor Toy,Toys & Games,Outdoor Toys,Terra,19.68,37.28,21.9,14.3,11.6,6.92,2.102,Oversize,22,40,0,C,2023-06-01,28
+404,SKU-100403,Nordic Elite Cat Litter & Care,Pet Supplies,Cat Litter & Care,Quanta,6.32,10.32,14.5,11.3,7.2,14.64,0.683,Ambient,70,2,0,C,2023-06-27,23
+405,SKU-100404,Pebble Eco Beverage,Grocery & Gourmet,Beverages,Quanta,22.4,35.13,15.2,11.9,9.3,12.92,0.973,Ambient,49,5,0,C,2022-08-29,12
+406,SKU-100405,Nordic Prime Medical Supplie,Health & Wellness,Medical Supplies,Umbra,6.95,15.08,10.3,7.6,6.3,1.9,0.285,Ambient,168,39,0,C,2022-10-26,26
+407,SKU-100406,Pebble Select Camera,Electronics,Cameras,Olive&Co,139.52,163.69,7.5,6.7,4.1,2.46,0.119,Ambient,402,2,0,B,2023-12-08,23
+408,SKU-100407,Xenon Lite Puzzle,Toys & Games,Puzzles,Halcyon,5.43,9.49,13.4,10.0,3.2,1.43,0.248,Ambient,193,36,0,C,2023-07-07,28
+409,SKU-100408,Pebble Smart Footwear,Fashion,Footwear,Solace,40.29,85.19,11.0,9.0,4.2,1.89,0.241,Ambient,199,32,0,B,2023-08-02,9
+410,SKU-100409,Olive&Co Select Fragrance,Beauty & Personal Care,Fragrance,Umbra,63.3,125.41,5.4,3.3,2.9,0.47,0.03,Hazmat,1605,33,0,B,2024-07-24,28
+411,SKU-100410,Quanta Ultra Team Sport,Sports & Outdoors,Team Sports,Solace,6.49,11.05,17.2,15.0,12.3,3.09,1.836,Ambient,26,27,0,C,2023-02-10,30
+412,SKU-100411,Olive&Co Ultra Cat Litter & Care,Pet Supplies,Cat Litter & Care,Wren,18.12,26.12,18.0,13.7,7.8,19.18,1.113,Ambient,43,27,0,C,2024-05-19,30
+413,SKU-100412,Ionic Eco Interior Accessorie,Automotive,Interior Accessories,Yonder,23.58,38.69,14.6,11.9,8.2,3.15,0.824,Ambient,58,1,0,C,2024-09-01,11
+414,SKU-100413,Halcyon Ultra Storage & Organization,Home & Kitchen,Storage & Organization,Kinetic,18.07,26.32,17.2,10.5,7.8,2.36,0.815,Ambient,58,2,0,C,2023-07-31,23
+415,SKU-100414,Daybreak Smart Puzzle,Toys & Games,Puzzles,Gleam,20.74,34.75,13.3,12.1,3.1,1.72,0.289,Ambient,166,34,0,C,2022-07-31,37
+416,SKU-100415,Terra Active Puzzle,Toys & Games,Puzzles,Mosaic,11.58,21.4,9.5,8.4,2.6,1.11,0.12,Ambient,399,37,0,C,2023-02-23,22
+417,SKU-100416,Daybreak Max Men's Apparel,Fashion,Men's Apparel,Ridge,13.27,29.43,13.6,10.3,2.3,0.92,0.186,Ambient,257,27,0,C,2022-02-16,30
+418,SKU-100417,Cedar Essential Camera,Electronics,Cameras,Mosaic,669.79,763.94,11.6,8.9,5.5,4.03,0.329,Ambient,146,33,0,A,2023-11-30,28
+419,SKU-100418,Umbra Classic Headphone,Electronics,Headphones,Quanta,157.03,222.17,11.1,8.4,4.2,1.17,0.227,Ambient,211,37,1,B,2022-10-01,22
+420,SKU-100419,Vivid Premium Beverage,Grocery & Gourmet,Beverages,Xenon,12.31,16.8,13.0,9.0,8.8,14.36,0.596,Ambient,80,18,0,C,2024-07-12,33
+421,SKU-100420,Mosaic Max Bags & Accessorie,Fashion,Bags & Accessories,Umbra,7.63,20.24,18.1,11.9,5.8,2.04,0.723,Ambient,66,18,0,C,2023-10-16,33
+422,SKU-100421,Vivid Elite Interior Accessorie,Automotive,Interior Accessories,Zephyr,53.57,87.66,12.7,9.5,6.5,2.42,0.454,Ambient,105,17,0,B,2023-05-05,10
+423,SKU-100422,Brightwell Pro Bags & Accessorie,Fashion,Bags & Accessories,Lumos,23.48,48.3,14.0,9.3,4.4,1.21,0.332,Ambient,144,1,0,A,2022-07-06,11
+424,SKU-100423,Corvo Smart Car Care,Automotive,Car Care,Solace,20.64,35.34,10.6,6.1,3.8,2.55,0.142,Hazmat,337,4,0,C,2022-04-10,29
+425,SKU-100424,Corvo Elite Women's Apparel,Fashion,Women's Apparel,Eldrin,30.82,73.89,11.6,8.9,2.1,0.6,0.125,Ambient,382,39,0,B,2023-11-04,26
+426,SKU-100425,Umbra Lite Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Zephyr,7.21,8.94,8.6,5.8,6.3,1.17,0.182,Ambient,263,39,0,C,2024-02-06,26
+427,SKU-100426,Brightwell Prime Smart Home,Electronics,Smart Home,Nordic,19.07,26.92,6.8,5.2,4.6,1.0,0.094,Ambient,509,16,1,C,2022-09-24,34
+428,SKU-100427,Olive&Co Premium Fragrance,Beauty & Personal Care,Fragrance,Cedar,61.43,124.1,4.1,2.9,2.3,0.32,0.016,Hazmat,3033,1,0,B,2022-01-11,11
+429,SKU-100428,Solace Essential Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Zephyr,8.29,9.78,7.5,5.7,5.2,0.94,0.129,Ambient,373,8,0,C,2022-11-16,29
+430,SKU-100429,Vivid Studio Dog Food,Pet Supplies,Dog Food,Xenon,13.96,21.05,18.4,13.8,5.1,18.33,0.749,Ambient,64,30,0,C,2024-02-04,30
+431,SKU-100430,Ionic Studio Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Daybreak,15.88,23.55,9.1,7.5,5.2,1.8,0.205,Refrigerated,233,28,0,C,2023-08-04,28
+432,SKU-100431,Solace Active Headphone,Electronics,Headphones,Kinetic,48.14,54.82,9.2,7.7,3.3,0.68,0.135,Ambient,354,17,0,B,2022-03-26,10
+433,SKU-100432,Cedar Max Women's Apparel,Fashion,Women's Apparel,Kinetic,16.07,35.19,13.0,9.2,1.9,0.66,0.132,Ambient,365,33,0,C,2022-04-25,28
+434,SKU-100433,Zephyr Essential Headphone,Electronics,Headphones,Pebble,29.74,39.47,9.6,7.7,3.5,0.85,0.15,Ambient,320,20,1,C,2022-04-17,4
+435,SKU-100434,Yonder Plus Camera,Electronics,Cameras,Kinetic,271.0,355.96,9.9,8.2,6.5,3.6,0.305,Ambient,157,16,1,A,2024-01-29,34
+436,SKU-100435,Solace Smart Board Game,Toys & Games,Board Games,Jasper,6.07,12.61,13.2,12.8,3.6,3.16,0.352,Ambient,136,28,0,C,2024-02-21,28
+437,SKU-100436,Daybreak Eco Outdoor Toy,Toys & Games,Outdoor Toys,Fjord,33.28,45.25,22.5,16.1,11.1,7.13,2.327,Oversize,20,19,0,C,2023-02-12,33
+438,SKU-100437,Brightwell Select Beverage,Grocery & Gourmet,Beverages,Nordic,33.55,49.83,15.2,9.6,7.9,10.4,0.667,Ambient,71,23,0,B,2023-11-21,31
+439,SKU-100438,Gleam Ultra Medical Supplie,Health & Wellness,Medical Supplies,Eldrin,8.54,15.52,8.2,5.8,4.2,1.45,0.116,Ambient,415,34,0,C,2022-01-21,37
+440,SKU-100439,Brightwell Studio Puzzle,Toys & Games,Puzzles,Mosaic,7.56,15.07,11.3,9.2,2.4,0.91,0.144,Ambient,332,6,0,C,2023-07-16,33
+441,SKU-100440,Brightwell Premium Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Ridge,20.15,27.0,8.5,5.5,6.4,0.98,0.173,Ambient,277,24,1,C,2022-09-30,10
+442,SKU-100441,Vivid Ultra Headphone,Electronics,Headphones,Mosaic,22.03,27.11,8.7,8.3,3.6,0.66,0.15,Ambient,319,4,0,C,2024-03-31,29
+443,SKU-100442,Bolt Active Bedding,Home & Kitchen,Bedding,Solace,35.47,68.27,22.5,13.9,8.9,5.93,1.611,Ambient,29,6,0,A,2023-05-04,33
+444,SKU-100443,Jasper Plus Camping,Sports & Outdoors,Camping,Yonder,114.04,184.55,25.3,14.5,10.4,10.0,2.208,Ambient,21,4,0,A,2024-05-01,29
+445,SKU-100444,Nova Max Medical Supplie,Health & Wellness,Medical Supplies,Aurelia,39.77,82.37,9.8,7.0,6.0,2.18,0.238,Ambient,201,22,0,A,2023-07-17,8
+446,SKU-100445,Yonder Select Phone Accessorie,Electronics,Phone Accessories,Vivid,25.99,29.53,6.1,4.2,2.3,0.3,0.034,Ambient,1407,24,0,C,2023-04-03,10
+447,SKU-100446,Pebble Ultra Skincare,Beauty & Personal Care,Skincare,Mosaic,6.56,14.64,6.5,3.0,3.0,0.45,0.034,Ambient,1417,7,0,C,2024-08-04,7
+448,SKU-100447,Olive&Co Max Board Game,Toys & Games,Board Games,Vivid,25.85,48.9,16.1,12.4,3.6,3.39,0.416,Ambient,115,28,0,A,2024-09-23,28
+449,SKU-100448,Yonder Max Headphone,Electronics,Headphones,Pebble,175.39,207.58,9.2,7.8,3.5,0.78,0.145,Ambient,330,14,0,A,2023-04-01,11
+450,SKU-100449,Mosaic Studio Women's Apparel,Fashion,Women's Apparel,Halcyon,21.87,42.27,10.6,7.2,1.6,0.42,0.071,Ambient,679,3,0,C,2022-12-24,35
+451,SKU-100450,Daybreak Studio Office Chair,Furniture,Office Chairs,Jasper,163.64,279.37,23.9,20.9,15.6,29.07,4.509,Oversize,10,27,0,A,2023-10-09,30
+452,SKU-100451,Cedar Eco Board Game,Toys & Games,Board Games,Eldrin,9.31,15.85,14.1,11.4,4.0,2.71,0.372,Ambient,129,6,0,C,2022-06-21,33
+453,SKU-100452,Brightwell Max Bedding,Home & Kitchen,Bedding,Daybreak,53.74,97.39,22.1,16.8,10.1,6.14,2.17,Ambient,22,8,0,B,2023-01-22,29
+454,SKU-100453,Olive&Co Smart Medical Supplie,Health & Wellness,Medical Supplies,Arbor,49.91,109.24,8.9,6.5,4.7,1.71,0.157,Ambient,305,7,0,A,2024-04-25,7
+455,SKU-100454,Arbor Pro Men's Apparel,Fashion,Men's Apparel,Halcyon,10.77,21.57,15.4,10.7,2.5,1.34,0.238,Ambient,201,5,0,C,2024-06-15,12
+456,SKU-100455,Corvo Max Medical Supplie,Health & Wellness,Medical Supplies,Zephyr,10.01,31.88,8.1,6.5,4.6,1.65,0.14,Ambient,342,13,0,C,2023-02-20,4
+457,SKU-100456,Olive&Co Max Home Decor,Home & Kitchen,Home Decor,Nova,27.19,45.09,15.5,13.1,10.9,3.77,1.281,Ambient,37,28,0,B,2023-01-26,28
+458,SKU-100457,Xenon Max Fitness Equipment,Sports & Outdoors,Fitness Equipment,Brightwell,34.5,48.43,27.1,12.1,9.4,16.81,1.784,Oversize,26,29,0,B,2024-05-24,31
+459,SKU-100458,Wren Select Women's Apparel,Fashion,Women's Apparel,Wren,37.72,65.37,13.1,10.4,2.4,0.83,0.189,Ambient,253,17,0,B,2022-07-22,10
+460,SKU-100459,Terra Prime Storage & Organization,Home & Kitchen,Storage & Organization,Brightwell,35.43,68.88,17.7,11.6,9.0,3.36,1.069,Ambient,44,19,0,B,2022-03-03,33
+461,SKU-100460,Solace Elite Fitness Nutrition,Health & Wellness,Fitness Nutrition,Ionic,19.17,55.39,12.5,7.3,8.0,4.01,0.422,Ambient,113,34,0,C,2022-03-14,37
+462,SKU-100461,Gleam Smart Cookware,Home & Kitchen,Cookware,Olive&Co,79.61,133.3,10.5,9.0,5.9,3.66,0.323,Ambient,148,36,0,B,2022-04-22,28
+463,SKU-100462,Fjord Prime Smart Home,Electronics,Smart Home,Fjord,17.88,21.96,8.1,7.7,6.4,2.23,0.231,Ambient,207,6,0,C,2024-05-29,33
+464,SKU-100463,Corvo Ultra Men's Apparel,Fashion,Men's Apparel,Daybreak,22.87,55.63,12.5,9.6,2.4,0.98,0.167,Ambient,288,40,0,B,2022-02-10,28
+465,SKU-100464,Olive&Co Essential Outdoor Toy,Toys & Games,Outdoor Toys,Mosaic,13.37,21.0,22.7,15.8,13.6,8.33,2.823,Oversize,17,5,0,C,2022-11-29,12
+466,SKU-100465,Bolt Pro Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Aurelia,13.85,19.15,10.0,6.6,7.5,1.66,0.286,Ambient,167,23,0,C,2023-08-26,31
+467,SKU-100466,Terra Essential Tools & Equipment,Automotive,Tools & Equipment,Quanta,25.72,40.55,20.9,13.1,9.0,13.08,1.426,Ambient,33,36,0,A,2023-09-02,28
+468,SKU-100467,Ridge Elite Home Decor,Home & Kitchen,Home Decor,Vivid,23.04,34.01,12.2,12.3,9.3,3.96,0.808,Ambient,59,36,0,C,2024-04-11,28
+469,SKU-100468,Nova Active Women's Apparel,Fashion,Women's Apparel,Jasper,20.61,43.33,13.5,9.8,2.3,0.85,0.176,Ambient,272,33,0,B,2024-09-07,28
+470,SKU-100469,Terra Premium Monitor,Electronics,Monitors,Vivid,366.6,416.59,22.0,14.5,4.6,12.43,0.849,Ambient,56,28,0,A,2023-02-07,28
+471,SKU-100470,Yonder Classic Grooming Tool,Beauty & Personal Care,Grooming Tools,Cedar,34.93,79.71,10.1,6.2,5.0,1.42,0.181,Ambient,264,11,1,C,2022-08-22,32
+472,SKU-100471,Lumos Max Tools & Equipment,Automotive,Tools & Equipment,Daybreak,70.62,127.09,15.6,7.6,6.0,5.25,0.412,Ambient,116,5,0,B,2022-04-01,12
+473,SKU-100472,Nova Lite Building Set,Toys & Games,Building Sets,Ridge,11.21,20.01,14.6,9.3,4.7,3.33,0.369,Ambient,129,1,0,C,2024-06-10,11
+474,SKU-100473,Fjord Prime Fitness Equipment,Sports & Outdoors,Fitness Equipment,Mosaic,81.43,136.78,30.2,15.6,11.1,17.07,3.026,Oversize,15,11,0,B,2023-01-09,32
+475,SKU-100474,Brightwell Classic Women's Apparel,Fashion,Women's Apparel,Nova,32.36,60.79,13.9,9.7,2.5,0.88,0.195,Ambient,246,3,0,C,2024-06-17,35
+476,SKU-100475,Corvo Smart Living Room,Furniture,Living Room,Wren,499.26,775.12,47.5,28.3,17.1,52.77,13.302,Oversize,4,39,0,A,2022-12-15,26
+477,SKU-100476,Bolt Max Bags & Accessorie,Fashion,Bags & Accessories,Brightwell,21.73,50.79,14.1,8.6,5.0,1.19,0.351,Ambient,136,8,0,A,2024-01-27,29
+478,SKU-100477,Solace Pro Monitor,Electronics,Monitors,Corvo,200.48,238.99,24.1,16.5,5.8,10.35,1.335,Ambient,35,19,0,A,2023-10-06,33
+479,SKU-100478,Mosaic Max Men's Apparel,Fashion,Men's Apparel,Quanta,34.36,73.59,13.8,9.2,2.1,1.13,0.154,Ambient,311,19,0,B,2023-12-15,33
+480,SKU-100479,Arbor Premium Laptop,Electronics,Laptops,Halcyon,1267.43,1550.51,17.8,12.6,2.9,6.16,0.376,Ambient,127,25,0,A,2023-10-15,5
+481,SKU-100480,Ridge Select Small Appliance,Home & Kitchen,Small Appliances,Zephyr,22.59,38.88,15.0,11.2,12.1,8.62,1.176,Ambient,40,13,0,C,2022-11-03,4
+482,SKU-100481,Kinetic Lite Phone Accessorie,Electronics,Phone Accessories,Brightwell,29.15,35.75,7.6,5.2,2.5,0.44,0.057,Ambient,839,6,0,B,2022-04-14,33
+483,SKU-100482,Fjord Prime Footwear,Fashion,Footwear,Mosaic,29.19,57.57,9.5,7.3,3.9,1.51,0.157,Ambient,306,4,0,C,2022-01-11,29
+484,SKU-100483,Bolt Classic Cycling,Sports & Outdoors,Cycling,Jasper,6.58,10.48,22.8,10.4,8.8,6.72,1.208,Ambient,39,4,0,C,2023-02-25,29
+485,SKU-100484,Yonder Classic Men's Apparel,Fashion,Men's Apparel,Jasper,19.31,38.48,12.5,8.1,1.9,0.92,0.111,Ambient,431,32,0,C,2024-06-10,9
+486,SKU-100485,Nova Select Footwear,Fashion,Footwear,Jasper,29.62,59.95,10.4,8.1,4.8,1.9,0.234,Ambient,205,20,0,C,2023-10-05,4
+487,SKU-100486,Aurelia Smart Cat Litter & Care,Pet Supplies,Cat Litter & Care,Fjord,11.42,17.21,17.2,11.2,8.3,16.48,0.925,Ambient,51,15,0,C,2023-11-06,28
+488,SKU-100487,Umbra Prime Snack,Grocery & Gourmet,Snacks,Gleam,4.39,6.71,9.8,7.0,5.9,1.42,0.234,Ambient,204,34,0,C,2022-09-16,37
+489,SKU-100488,Bolt Essential Haircare,Beauty & Personal Care,Haircare,Nordic,5.59,11.59,9.3,3.5,3.5,1.2,0.066,Ambient,728,17,0,C,2023-05-02,10
+490,SKU-100489,Vivid Essential Storage & Organization,Home & Kitchen,Storage & Organization,Ridge,15.08,26.09,18.6,12.1,7.7,3.39,1.003,Ambient,47,12,0,C,2023-02-12,7
+491,SKU-100490,Cedar Active Office Chair,Furniture,Office Chairs,Ionic,63.04,106.7,27.0,25.3,15.4,34.22,6.088,Oversize,7,20,1,A,2022-05-17,4
+492,SKU-100491,Corvo Premium Bedding,Home & Kitchen,Bedding,Wren,33.12,69.96,19.1,15.9,8.7,6.34,1.529,Ambient,31,39,0,B,2023-09-06,26
+493,SKU-100492,Daybreak Ultra Home Decor,Home & Kitchen,Home Decor,Gleam,12.04,17.43,11.2,10.3,8.4,2.72,0.561,Ambient,85,25,1,C,2022-12-30,5
+494,SKU-100493,Ionic Essential Storage Furniture,Furniture,Storage Furniture,Nova,86.82,120.08,36.8,21.4,12.9,51.04,5.879,Oversize,8,14,0,B,2023-02-07,11
+495,SKU-100494,Ionic Ultra Haircare,Beauty & Personal Care,Haircare,Halcyon,4.79,11.61,6.4,2.5,2.8,0.51,0.026,Ambient,1851,21,1,B,2023-08-20,20
+496,SKU-100495,Bolt Pro Puzzle,Toys & Games,Puzzles,Zephyr,13.35,20.83,12.1,9.7,2.6,1.29,0.177,Ambient,271,14,0,C,2022-01-31,11
+497,SKU-100496,Umbra Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Wren,18.52,27.69,24.3,10.8,8.3,13.54,1.261,Oversize,38,25,0,C,2024-07-25,5
+498,SKU-100497,Yonder Elite Team Sport,Sports & Outdoors,Team Sports,Olive&Co,20.93,39.24,11.8,10.5,8.6,1.47,0.617,Ambient,77,38,0,C,2022-08-11,10
+499,SKU-100498,Mosaic Prime Home Decor,Home & Kitchen,Home Decor,Gleam,22.59,40.38,15.3,13.5,12.0,5.83,1.434,Ambient,33,25,0,C,2023-11-11,5
+500,SKU-100499,Daybreak Prime Bedding,Home & Kitchen,Bedding,Quanta,54.62,94.11,25.0,15.8,9.6,6.26,2.194,Ambient,21,17,0,B,2024-02-16,10
+501,SKU-100500,Bolt Smart Home Decor,Home & Kitchen,Home Decor,Halcyon,13.35,25.87,11.2,10.9,8.1,3.52,0.572,Ambient,83,28,0,C,2022-06-03,28
+502,SKU-100501,Halcyon Smart Monitor,Electronics,Monitors,Bolt,344.57,391.56,32.9,20.5,7.1,24.4,2.771,Ambient,17,16,0,A,2022-09-06,34
+503,SKU-100502,Lumos Plus Fitness Nutrition,Health & Wellness,Fitness Nutrition,Nova,23.48,54.52,10.7,7.4,7.0,4.84,0.321,Ambient,149,20,0,A,2023-02-17,4
+504,SKU-100503,Arbor Smart Storage & Organization,Home & Kitchen,Storage & Organization,Fjord,18.73,29.15,18.5,11.1,7.1,2.87,0.844,Ambient,56,22,1,C,2024-03-28,8
+505,SKU-100504,Umbra Select Fragrance,Beauty & Personal Care,Fragrance,Zephyr,29.33,75.8,6.7,4.1,3.0,0.83,0.048,Hazmat,1006,8,0,C,2023-09-28,29
+506,SKU-100505,Xenon Pro Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Brightwell,19.38,27.03,11.2,7.3,8.1,1.86,0.383,Ambient,125,1,0,C,2023-04-12,11
+507,SKU-100506,Zephyr Select Beverage,Grocery & Gourmet,Beverages,Olive&Co,6.79,10.34,13.5,9.0,7.6,11.23,0.534,Ambient,89,30,0,C,2024-04-29,30
+508,SKU-100507,Quanta Max Footwear,Fashion,Footwear,Pebble,61.88,135.69,14.1,10.5,5.3,2.99,0.454,Ambient,105,3,0,B,2023-04-18,35
+509,SKU-100508,Olive&Co Active Bags & Accessorie,Fashion,Bags & Accessories,Olive&Co,8.94,20.23,15.2,12.5,5.6,1.6,0.616,Ambient,77,40,0,C,2024-06-04,28
+510,SKU-100509,Ridge Premium Tools & Equipment,Automotive,Tools & Equipment,Halcyon,44.34,67.68,14.6,8.2,6.1,6.97,0.423,Ambient,113,9,0,C,2024-02-10,26
+511,SKU-100510,Lumos Classic Board Game,Toys & Games,Board Games,Mosaic,8.64,15.67,12.1,11.5,3.5,2.91,0.282,Ambient,170,10,0,C,2022-06-22,12
+512,SKU-100511,Cedar Lite Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Aurelia,25.11,37.23,9.3,7.7,5.5,2.29,0.228,Refrigerated,210,6,0,C,2023-01-19,33
+513,SKU-100512,Kinetic Ultra Desk,Furniture,Desks,Corvo,352.08,543.7,40.4,21.1,6.2,38.58,3.059,Oversize,15,33,0,A,2022-01-26,28
+514,SKU-100513,Kinetic Lite Beverage,Grocery & Gourmet,Beverages,Xenon,40.07,53.95,14.4,10.2,7.4,10.9,0.629,Ambient,76,10,0,A,2022-08-27,12
+515,SKU-100514,Eldrin Prime Cookware,Home & Kitchen,Cookware,Fjord,19.39,31.4,19.0,16.3,10.8,8.73,1.936,Ambient,24,11,1,C,2022-01-23,32
+516,SKU-100515,Halcyon Ultra Fragrance,Beauty & Personal Care,Fragrance,Brightwell,21.6,45.96,6.2,4.3,3.2,0.68,0.049,Hazmat,972,10,1,B,2022-04-16,12
+517,SKU-100516,Daybreak Ultra Smart Home,Electronics,Smart Home,Mosaic,34.41,43.69,6.3,4.9,4.2,0.78,0.075,Ambient,639,6,0,A,2022-01-05,33
+518,SKU-100517,Halcyon Elite Team Sport,Sports & Outdoors,Team Sports,Vivid,23.46,36.1,15.8,14.3,12.1,2.45,1.582,Ambient,30,16,1,B,2023-11-03,34
+519,SKU-100518,Cedar Lite Cat Litter & Care,Pet Supplies,Cat Litter & Care,Lumos,20.64,37.6,21.2,16.2,9.5,27.3,1.888,Ambient,25,27,0,C,2023-02-14,30
+520,SKU-100519,Jasper Plus Skincare,Beauty & Personal Care,Skincare,Gleam,10.3,22.23,5.7,2.6,2.6,0.38,0.022,Ambient,2152,31,1,C,2023-04-15,11
+521,SKU-100520,Nova Active Footwear,Fashion,Footwear,Yonder,62.1,124.88,14.4,10.9,6.0,3.1,0.545,Ambient,88,24,0,B,2024-02-04,10
+522,SKU-100521,Lumos Prime Headphone,Electronics,Headphones,Nova,120.04,138.73,10.7,8.0,3.4,0.95,0.168,Ambient,284,38,0,B,2024-03-20,10
+523,SKU-100522,Yonder Ultra Cat Litter & Care,Pet Supplies,Cat Litter & Care,Daybreak,16.09,27.04,15.6,9.3,6.9,13.86,0.579,Ambient,82,1,0,B,2023-06-17,11
+524,SKU-100523,Aurelia Lite Smart Home,Electronics,Smart Home,Cedar,165.4,187.96,8.5,7.2,6.2,2.11,0.22,Ambient,218,11,1,B,2023-04-03,32
+525,SKU-100524,Ridge Classic Headphone,Electronics,Headphones,Lumos,28.03,36.37,8.9,7.4,3.4,0.76,0.13,Ambient,370,36,0,C,2023-10-12,28
+526,SKU-100525,Aurelia Pro Bedding,Home & Kitchen,Bedding,Zephyr,52.58,86.46,18.5,12.1,8.4,4.9,1.088,Ambient,44,7,0,B,2023-02-19,7
+527,SKU-100526,Arbor Eco Laptop,Electronics,Laptops,Eldrin,673.88,917.96,18.3,13.3,3.1,5.81,0.437,Ambient,109,8,1,A,2023-03-19,29
+528,SKU-100527,Wren Active Footwear,Fashion,Footwear,Bolt,17.56,41.79,12.5,9.6,4.8,1.93,0.333,Ambient,144,13,0,C,2022-10-26,4
+529,SKU-100528,Bolt Smart Skincare,Beauty & Personal Care,Skincare,Corvo,4.97,12.87,5.9,3.0,2.8,0.4,0.029,Ambient,1673,12,0,C,2022-07-09,7
+530,SKU-100529,Olive&Co Max Home Decor,Home & Kitchen,Home Decor,Halcyon,44.58,79.28,15.5,13.0,9.5,4.67,1.108,Ambient,43,35,0,B,2022-07-19,31
+531,SKU-100530,Arbor Smart Headphone,Electronics,Headphones,Fjord,69.67,86.22,6.2,5.9,2.4,0.3,0.051,Ambient,944,1,0,B,2023-10-18,11
+532,SKU-100531,Zephyr Premium Camera,Electronics,Cameras,Yonder,139.93,168.02,8.6,7.0,4.5,2.55,0.157,Ambient,306,29,0,B,2024-04-10,31
+533,SKU-100532,Daybreak Studio Women's Apparel,Fashion,Women's Apparel,Eldrin,16.1,32.77,13.6,10.5,2.3,0.72,0.19,Ambient,252,37,0,C,2023-02-28,22
+534,SKU-100533,Ridge Active Laptop,Electronics,Laptops,Solace,426.86,529.02,15.0,11.4,2.5,6.66,0.247,Ambient,194,28,1,A,2022-04-06,28
+535,SKU-100534,Nova Classic Building Set,Toys & Games,Building Sets,Xenon,73.21,121.31,15.3,11.4,5.9,3.71,0.596,Ambient,80,32,0,B,2023-09-03,9
+536,SKU-100535,Nova Active Small Appliance,Home & Kitchen,Small Appliances,Nova,45.25,69.24,13.8,11.3,11.8,6.97,1.065,Ambient,45,19,0,A,2024-06-21,33
+537,SKU-100536,Daybreak Eco Home Decor,Home & Kitchen,Home Decor,Solace,7.51,13.38,10.6,10.0,8.1,2.27,0.497,Ambient,96,18,1,C,2023-06-12,33
+538,SKU-100537,Terra Studio Women's Apparel,Fashion,Women's Apparel,Corvo,48.61,87.58,11.7,8.3,2.0,0.69,0.112,Ambient,427,22,0,B,2022-01-27,8
+539,SKU-100538,Brightwell Pro Footwear,Fashion,Footwear,Ridge,63.71,130.42,9.8,7.1,3.8,1.36,0.153,Ambient,313,7,0,B,2022-03-23,7
+540,SKU-100539,Umbra Prime Phone Accessorie,Electronics,Phone Accessories,Umbra,25.96,33.3,6.0,4.2,1.9,0.29,0.028,Ambient,1732,36,0,C,2023-06-07,28
+541,SKU-100540,Zephyr Smart Camera,Electronics,Cameras,Brightwell,162.59,220.0,6.7,5.9,4.3,1.95,0.098,Ambient,487,33,0,A,2024-05-11,28
+542,SKU-100541,Fjord Pro Medical Supplie,Health & Wellness,Medical Supplies,Olive&Co,7.12,14.36,8.7,6.3,4.6,1.21,0.146,Ambient,328,5,0,B,2022-02-28,12
+543,SKU-100542,Zephyr Select Phone Accessorie,Electronics,Phone Accessories,Bolt,27.53,32.12,4.5,3.1,1.6,0.16,0.013,Ambient,3716,36,0,C,2024-01-24,28
+544,SKU-100543,Xenon Pro Skincare,Beauty & Personal Care,Skincare,Nova,7.98,17.32,8.2,3.9,3.7,0.64,0.068,Ambient,700,39,0,C,2024-02-19,26
+545,SKU-100544,Mosaic Premium Bags & Accessorie,Fashion,Bags & Accessories,Corvo,33.36,72.97,12.8,9.1,4.0,1.2,0.27,Ambient,178,36,0,B,2022-02-21,28
+546,SKU-100545,Ionic Smart Men's Apparel,Fashion,Men's Apparel,Cedar,8.05,17.82,9.1,7.0,1.6,0.59,0.059,Ambient,813,38,0,B,2022-07-31,10
+547,SKU-100546,Lumos Studio Footwear,Fashion,Footwear,Kinetic,46.42,88.73,13.8,9.3,5.6,2.42,0.416,Ambient,115,36,0,B,2022-01-04,28
+548,SKU-100547,Pebble Premium Beverage,Grocery & Gourmet,Beverages,Solace,25.49,33.71,10.6,8.6,6.9,8.08,0.364,Ambient,131,13,0,B,2023-07-20,4
+549,SKU-100548,Eldrin Smart Vitamin,Health & Wellness,Vitamins,Vivid,16.66,32.33,6.4,4.0,4.1,0.83,0.061,Ambient,790,2,0,C,2022-06-24,23
+550,SKU-100549,Jasper Ultra Bedding,Home & Kitchen,Bedding,Xenon,90.46,137.82,14.2,9.9,6.4,3.02,0.521,Ambient,92,19,0,A,2024-07-05,33
+551,SKU-100550,Kinetic Eco Home Decor,Home & Kitchen,Home Decor,Aurelia,24.54,39.85,13.6,12.0,11.0,4.22,1.039,Ambient,46,32,1,B,2022-04-02,9
+552,SKU-100551,Terra Prime Bedding,Home & Kitchen,Bedding,Arbor,17.18,25.88,15.2,12.8,7.4,4.02,0.833,Ambient,57,14,0,C,2023-10-12,11
+553,SKU-100552,Jasper Active Bags & Accessorie,Fashion,Bags & Accessories,Terra,42.51,85.6,10.7,8.0,3.6,0.87,0.178,Ambient,269,34,0,A,2024-02-26,37
+554,SKU-100553,Nordic Plus Board Game,Toys & Games,Board Games,Arbor,17.68,30.69,13.1,9.9,3.4,2.63,0.255,Ambient,188,15,1,A,2022-06-28,28
+555,SKU-100554,Umbra Ultra Bedding,Home & Kitchen,Bedding,Arbor,16.12,27.79,18.7,12.3,7.1,4.02,0.945,Ambient,50,7,1,C,2022-09-10,7
+556,SKU-100555,Fjord Eco Men's Apparel,Fashion,Men's Apparel,Mosaic,10.64,17.52,10.5,8.4,2.1,0.77,0.107,Ambient,447,38,0,C,2024-03-07,10
+557,SKU-100556,Ionic Studio Dog Food,Pet Supplies,Dog Food,Quanta,28.07,47.92,31.2,19.8,7.8,32.77,2.788,Ambient,17,27,0,C,2022-04-03,30
+558,SKU-100557,Brightwell Eco Headphone,Electronics,Headphones,Corvo,33.78,41.59,9.8,7.6,3.3,0.9,0.142,Ambient,337,5,0,B,2023-03-18,12
+559,SKU-100558,Ridge Classic Bags & Accessorie,Fashion,Bags & Accessories,Fjord,18.76,38.3,15.7,12.7,6.7,2.84,0.773,Ambient,62,15,0,B,2022-09-08,28
+560,SKU-100559,Arbor Prime Outdoor Toy,Toys & Games,Outdoor Toys,Lumos,91.16,125.49,27.1,18.0,14.6,9.97,4.121,Oversize,11,23,0,B,2022-01-14,31
+561,SKU-100560,Fjord Elite Monitor,Electronics,Monitors,Bolt,152.29,173.06,34.6,23.1,7.6,28.52,3.515,Ambient,13,36,1,B,2023-03-28,28
+562,SKU-100561,Nova Active Headphone,Electronics,Headphones,Terra,106.79,126.36,7.9,7.5,3.2,0.58,0.11,Ambient,437,32,1,B,2023-05-02,9
+563,SKU-100562,Jasper Eco Monitor,Electronics,Monitors,Olive&Co,181.34,223.88,34.1,23.5,7.7,21.35,3.571,Ambient,13,28,0,A,2022-12-14,28
+564,SKU-100563,Pebble Studio Living Room,Furniture,Living Room,Bolt,388.0,681.2,48.5,23.9,15.5,50.81,10.397,Oversize,4,2,0,A,2024-03-23,23
+565,SKU-100564,Pebble Smart Phone Accessorie,Electronics,Phone Accessories,Nordic,26.72,30.36,7.3,4.6,2.1,0.31,0.041,Ambient,1176,15,1,B,2022-04-07,28
+566,SKU-100565,Cedar Plus Cookware,Home & Kitchen,Cookware,Terra,95.76,152.18,13.6,11.6,7.1,4.3,0.648,Ambient,74,33,1,A,2023-03-06,28
+567,SKU-100566,Wren Lite Headphone,Electronics,Headphones,Eldrin,65.58,84.36,5.8,5.7,2.5,0.41,0.048,Ambient,1003,40,0,B,2022-06-30,28
+568,SKU-100567,Gleam Essential Camera,Electronics,Cameras,Wren,831.56,1048.72,7.4,6.1,4.0,1.87,0.104,Ambient,459,38,0,A,2024-01-29,10
+569,SKU-100568,Pebble Lite Camping,Sports & Outdoors,Camping,Olive&Co,56.85,79.97,23.8,13.6,11.3,10.73,2.117,Ambient,22,35,1,A,2023-07-11,31
+570,SKU-100569,Bolt Premium Bedding,Home & Kitchen,Bedding,Kinetic,73.2,111.48,21.2,14.0,8.0,4.27,1.374,Ambient,34,10,0,B,2023-12-07,12
+571,SKU-100570,Nova Lite Grooming Tool,Beauty & Personal Care,Grooming Tools,Wren,11.39,29.03,8.9,6.1,4.5,1.51,0.141,Ambient,339,21,1,C,2022-04-18,20
+572,SKU-100571,Vivid Pro Fitness Equipment,Sports & Outdoors,Fitness Equipment,Nova,40.87,80.05,29.6,13.2,10.1,16.29,2.284,Oversize,21,22,0,B,2023-04-02,8
+573,SKU-100572,Arbor Classic Vitamin,Health & Wellness,Vitamins,Kinetic,13.98,44.66,4.7,3.2,2.7,0.58,0.024,Ambient,2042,11,0,C,2022-02-20,32
+574,SKU-100573,Nova Lite Phone Accessorie,Electronics,Phone Accessories,Gleam,15.06,18.51,6.6,4.3,2.1,0.43,0.034,Ambient,1391,4,0,C,2022-11-20,29
+575,SKU-100574,Nova Eco Medical Supplie,Health & Wellness,Medical Supplies,Quanta,18.66,35.3,10.7,8.7,6.4,2.13,0.345,Ambient,139,33,0,B,2024-08-03,28
+576,SKU-100575,Mosaic Smart Camping,Sports & Outdoors,Camping,Yonder,27.52,48.55,32.0,14.7,13.5,10.62,3.675,Ambient,13,15,0,C,2023-12-28,28
+577,SKU-100576,Mosaic Pro Cookware,Home & Kitchen,Cookware,Gleam,22.93,41.32,13.0,9.8,7.6,4.76,0.56,Ambient,85,4,1,B,2022-03-20,29
+578,SKU-100577,Fjord Eco Beverage,Grocery & Gourmet,Beverages,Lumos,35.51,54.53,15.5,10.6,9.7,13.56,0.922,Ambient,52,21,0,B,2023-01-04,20
+579,SKU-100578,Yonder Essential Medical Supplie,Health & Wellness,Medical Supplies,Xenon,11.51,25.63,13.3,11.0,7.7,2.98,0.652,Ambient,73,17,0,C,2024-05-20,10
+580,SKU-100579,Terra Max Bedding,Home & Kitchen,Bedding,Corvo,60.82,93.35,19.0,12.1,6.7,3.47,0.891,Ambient,53,9,0,A,2022-06-20,26
+581,SKU-100580,Xenon Smart Living Room,Furniture,Living Room,Pebble,419.41,607.92,51.0,23.8,15.6,56.06,10.958,Oversize,4,13,0,A,2024-01-28,4
+582,SKU-100581,Ridge Premium Footwear,Fashion,Footwear,Arbor,43.65,90.45,16.6,11.9,6.5,3.43,0.743,Ambient,64,32,0,A,2022-11-17,9
+583,SKU-100582,Gleam Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Gleam,162.95,222.58,28.0,12.4,7.8,14.53,1.567,Oversize,30,29,0,A,2023-04-23,31
+584,SKU-100583,Arbor Eco Interior Accessorie,Automotive,Interior Accessories,Mosaic,19.39,29.61,18.8,13.5,10.1,3.86,1.483,Ambient,32,9,0,C,2024-05-26,26
+585,SKU-100584,Vivid Select Men's Apparel,Fashion,Men's Apparel,Aurelia,16.96,39.96,14.8,10.9,2.3,1.36,0.215,Ambient,223,30,0,C,2023-11-04,30
+586,SKU-100585,Terra Plus Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Yonder,4.89,6.45,8.2,6.9,4.9,1.09,0.16,Refrigerated,299,2,1,C,2022-10-11,23
+587,SKU-100586,Corvo Eco Home Decor,Home & Kitchen,Home Decor,Mosaic,13.23,21.89,11.2,8.8,8.2,2.91,0.468,Ambient,102,2,0,C,2022-01-09,23
+588,SKU-100587,Mosaic Studio Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Lumos,18.51,27.19,6.1,4.5,4.4,0.82,0.07,Ambient,686,5,0,B,2022-08-23,12
+589,SKU-100588,Wren Active Fitness Equipment,Sports & Outdoors,Fitness Equipment,Kinetic,39.98,63.07,33.9,14.2,12.1,20.81,3.371,Oversize,14,27,0,B,2023-02-22,30
+590,SKU-100589,Lumos Studio Small Appliance,Home & Kitchen,Small Appliances,Arbor,27.22,44.64,17.4,13.1,12.7,11.82,1.675,Ambient,28,37,0,C,2022-05-14,22
+591,SKU-100590,Brightwell Select Women's Apparel,Fashion,Women's Apparel,Brightwell,46.97,87.44,10.1,6.9,1.6,0.41,0.065,Ambient,743,8,0,B,2024-06-01,29
+592,SKU-100591,Aurelia Eco Home Decor,Home & Kitchen,Home Decor,Daybreak,19.63,33.07,10.9,8.7,7.6,1.88,0.417,Ambient,115,9,1,A,2022-02-25,26
+593,SKU-100592,Vivid Studio Laptop,Electronics,Laptops,Nova,533.36,606.09,15.3,11.7,2.8,6.15,0.29,Ambient,165,17,1,A,2023-06-25,10
+594,SKU-100593,Lumos Premium Headphone,Electronics,Headphones,Lumos,154.68,200.56,9.1,8.4,3.0,0.87,0.133,Ambient,361,5,0,B,2024-09-03,12
+595,SKU-100594,Xenon Classic Men's Apparel,Fashion,Men's Apparel,Kinetic,9.39,19.33,11.1,8.4,1.7,0.74,0.092,Ambient,523,2,0,C,2022-12-01,23
+596,SKU-100595,Kinetic Lite Phone Accessorie,Electronics,Phone Accessories,Terra,12.39,18.46,5.6,4.4,2.2,0.38,0.031,Ambient,1530,16,0,C,2023-06-21,34
+597,SKU-100596,Eldrin Smart Cookware,Home & Kitchen,Cookware,Xenon,102.0,155.81,19.0,14.5,11.2,12.15,1.786,Ambient,26,38,1,A,2022-03-15,10
+598,SKU-100597,Aurelia Studio Outdoor Toy,Toys & Games,Outdoor Toys,Bolt,53.25,100.77,18.1,11.6,9.3,3.86,1.13,Oversize,42,12,1,B,2023-12-31,7
+599,SKU-100598,Brightwell Plus Building Set,Toys & Games,Building Sets,Corvo,48.41,89.47,16.1,12.1,6.1,4.12,0.688,Ambient,69,15,1,A,2024-09-04,28
+600,SKU-100599,Corvo Lite Puzzle,Toys & Games,Puzzles,Mosaic,6.75,11.41,13.4,10.2,3.0,1.46,0.237,Ambient,202,10,0,B,2024-02-12,12
+601,SKU-100600,Mosaic Pro Home Decor,Home & Kitchen,Home Decor,Umbra,17.65,29.24,17.6,14.1,11.7,5.11,1.68,Ambient,28,35,0,C,2022-05-30,31
+602,SKU-100601,Wren Premium Office Chair,Furniture,Office Chairs,Terra,120.12,198.69,23.8,17.8,12.5,28.36,3.065,Oversize,15,29,0,A,2022-12-19,31
+603,SKU-100602,Aurelia Smart Fitness Equipment,Sports & Outdoors,Fitness Equipment,Kinetic,69.12,103.77,33.2,16.6,12.2,25.69,3.891,Oversize,12,13,0,B,2023-12-25,4
+604,SKU-100603,Mosaic Lite Camera,Electronics,Cameras,Yonder,762.02,938.79,9.4,7.8,5.8,3.74,0.246,Ambient,195,6,0,A,2024-03-09,33
+605,SKU-100604,Olive&Co Active Monitor,Electronics,Monitors,Solace,206.72,259.59,25.6,18.6,6.9,15.55,1.901,Ambient,25,40,1,A,2023-02-08,28
+606,SKU-100605,Gleam Classic Building Set,Toys & Games,Building Sets,Daybreak,38.08,61.84,11.3,7.3,4.2,2.3,0.2,Ambient,239,14,0,B,2024-08-19,11
+607,SKU-100606,Wren Essential Cookware,Home & Kitchen,Cookware,Vivid,28.0,42.13,16.5,16.7,9.5,10.44,1.515,Ambient,31,8,0,B,2022-07-23,29
+608,SKU-100607,Solace Premium Skincare,Beauty & Personal Care,Skincare,Arbor,22.18,46.33,6.2,3.2,3.6,0.55,0.041,Ambient,1161,38,0,C,2024-01-12,10
+609,SKU-100608,Arbor Plus Tools & Equipment,Automotive,Tools & Equipment,Zephyr,17.33,27.54,23.2,12.2,9.9,18.05,1.622,Ambient,29,8,0,C,2023-05-12,29
+610,SKU-100609,Eldrin Select Phone Accessorie,Electronics,Phone Accessories,Xenon,19.15,24.57,6.1,4.0,1.9,0.32,0.027,Ambient,1789,11,0,C,2023-12-13,32
+611,SKU-100610,Vivid Elite Phone Accessorie,Electronics,Phone Accessories,Solace,26.65,32.31,4.9,3.0,1.5,0.16,0.013,Ambient,3761,24,1,C,2023-08-20,10
+612,SKU-100611,Ionic Active Tools & Equipment,Automotive,Tools & Equipment,Gleam,21.62,33.68,19.9,12.1,9.7,15.35,1.352,Ambient,35,35,0,C,2023-03-09,31
+613,SKU-100612,Wren Plus Grooming Tool,Beauty & Personal Care,Grooming Tools,Pebble,11.03,24.76,7.4,4.7,3.6,0.79,0.072,Ambient,662,40,0,C,2024-03-26,28
+614,SKU-100613,Gleam Smart Camera,Electronics,Cameras,Vivid,267.26,339.52,12.0,9.1,6.5,3.42,0.411,Ambient,116,22,0,A,2024-04-21,8
+615,SKU-100614,Lumos Select Office Chair,Furniture,Office Chairs,Eldrin,65.16,135.59,32.7,25.4,18.3,62.86,8.796,Oversize,5,27,0,B,2024-03-28,30
+616,SKU-100615,Ionic Pro Fitness Nutrition,Health & Wellness,Fitness Nutrition,Daybreak,10.0,23.41,12.2,7.6,7.7,4.26,0.413,Ambient,116,40,0,C,2022-03-30,28
+617,SKU-100616,Daybreak Active Haircare,Beauty & Personal Care,Haircare,Vivid,10.37,19.81,7.1,2.7,2.7,0.73,0.03,Ambient,1602,27,0,C,2023-02-28,30
+618,SKU-100617,Jasper Eco Camping,Sports & Outdoors,Camping,Corvo,29.54,45.05,20.2,9.6,7.7,5.74,0.864,Ambient,55,37,0,B,2024-01-20,22
+619,SKU-100618,Ionic Elite Storage & Organization,Home & Kitchen,Storage & Organization,Arbor,9.37,13.06,19.0,14.8,9.4,3.49,1.53,Ambient,31,36,1,C,2024-05-16,28
+620,SKU-100619,Nova Active Headphone,Electronics,Headphones,Jasper,185.27,210.53,8.6,7.1,2.8,0.79,0.099,Ambient,485,7,1,A,2022-12-28,7
+621,SKU-100620,Vivid Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Pebble,13.05,24.89,26.4,13.2,9.0,18.93,1.815,Oversize,26,31,0,C,2024-01-11,11
+622,SKU-100621,Ridge Active Storage & Organization,Home & Kitchen,Storage & Organization,Cedar,26.06,43.83,18.6,11.7,9.1,4.14,1.146,Ambient,41,8,0,B,2023-07-20,29
+623,SKU-100622,Yonder Prime Team Sport,Sports & Outdoors,Team Sports,Wren,11.09,21.53,13.3,13.4,10.6,1.91,1.093,Ambient,43,38,0,C,2022-08-09,10
+624,SKU-100623,Brightwell Ultra Vitamin,Health & Wellness,Vitamins,Vivid,11.85,25.07,5.3,3.2,3.0,0.61,0.029,Ambient,1630,10,0,B,2024-06-11,12
+625,SKU-100624,Corvo Ultra Phone Accessorie,Electronics,Phone Accessories,Cedar,46.51,55.9,5.4,4.2,2.0,0.33,0.026,Ambient,1828,29,0,C,2023-03-21,31
+626,SKU-100625,Xenon Studio Fitness Equipment,Sports & Outdoors,Fitness Equipment,Halcyon,28.74,38.55,31.7,13.0,10.4,20.01,2.48,Oversize,19,13,1,A,2023-08-29,4
+627,SKU-100626,Nova Smart Bedding,Home & Kitchen,Bedding,Arbor,24.96,43.43,17.4,13.1,7.4,3.49,0.976,Ambient,49,3,0,C,2022-10-16,35
+628,SKU-100627,Bolt Classic Fitness Nutrition,Health & Wellness,Fitness Nutrition,Umbra,36.51,66.51,8.1,5.3,5.5,2.29,0.137,Ambient,351,24,0,B,2022-01-26,10
+629,SKU-100628,Arbor Ultra Bedding,Home & Kitchen,Bedding,Pebble,47.46,85.29,22.2,16.5,10.1,6.35,2.141,Ambient,22,34,0,B,2023-03-29,37
+630,SKU-100629,Olive&Co Max Camping,Sports & Outdoors,Camping,Solace,76.48,118.73,18.0,9.0,8.9,6.56,0.834,Ambient,57,32,0,B,2023-12-24,9
+631,SKU-100630,Zephyr Active Fragrance,Beauty & Personal Care,Fragrance,Yonder,16.08,30.97,6.9,4.6,4.0,0.94,0.073,Hazmat,653,5,0,C,2022-11-24,12
+632,SKU-100631,Fjord Plus Women's Apparel,Fashion,Women's Apparel,Eldrin,14.19,29.19,9.6,7.4,1.5,0.46,0.062,Ambient,778,34,0,C,2024-07-18,37
+633,SKU-100632,Ionic Smart Board Game,Toys & Games,Board Games,Pebble,13.92,23.69,12.4,9.4,3.0,1.84,0.202,Ambient,237,18,0,C,2024-01-21,33
+634,SKU-100633,Zephyr Active Outdoor Toy,Toys & Games,Outdoor Toys,Zephyr,43.23,69.96,23.5,16.5,10.8,7.14,2.423,Oversize,19,32,0,B,2023-10-05,9
+635,SKU-100634,Terra Plus Fragrance,Beauty & Personal Care,Fragrance,Bolt,17.71,34.23,6.9,4.7,3.4,0.61,0.064,Hazmat,752,28,0,C,2024-03-17,28
+636,SKU-100635,Fjord Eco Snack,Grocery & Gourmet,Snacks,Nova,9.09,11.57,8.4,7.8,6.0,1.48,0.228,Ambient,210,34,0,C,2024-05-11,37
+637,SKU-100636,Fjord Pro Interior Accessorie,Automotive,Interior Accessories,Mosaic,75.05,111.96,15.2,11.9,7.1,3.26,0.743,Ambient,64,36,0,B,2023-12-23,28
+638,SKU-100637,Nova Eco Footwear,Fashion,Footwear,Mosaic,50.37,107.61,15.1,11.3,6.4,2.69,0.632,Ambient,75,17,0,B,2024-04-05,10
+639,SKU-100638,Halcyon Active Skincare,Beauty & Personal Care,Skincare,Olive&Co,3.13,8.43,6.1,2.7,3.1,0.48,0.03,Ambient,1624,8,1,C,2023-12-15,29
+640,SKU-100639,Fjord Elite Phone Accessorie,Electronics,Phone Accessories,Quanta,43.99,56.14,7.7,5.0,2.7,0.51,0.06,Ambient,797,21,0,B,2024-05-11,20
+641,SKU-100640,Kinetic Premium Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Olive&Co,13.18,19.07,8.1,6.2,6.6,1.28,0.192,Ambient,250,32,0,C,2022-04-14,9
+642,SKU-100641,Olive&Co Active Skincare,Beauty & Personal Care,Skincare,Wren,7.29,15.76,6.5,3.4,3.8,0.6,0.049,Ambient,987,3,0,C,2022-12-11,35
+643,SKU-100642,Daybreak Studio Women's Apparel,Fashion,Women's Apparel,Aurelia,31.09,61.56,11.3,7.6,1.9,0.56,0.094,Ambient,508,23,0,C,2024-06-06,31
+644,SKU-100643,Gleam Active Smart Home,Electronics,Smart Home,Olive&Co,16.29,20.85,7.7,7.2,6.1,1.54,0.196,Ambient,245,35,1,C,2023-04-20,31
+645,SKU-100644,Nova Classic Fitness Nutrition,Health & Wellness,Fitness Nutrition,Nordic,22.33,41.62,10.1,6.0,6.2,3.84,0.217,Ambient,220,25,0,B,2022-01-15,5
+646,SKU-100645,Lumos Pro Women's Apparel,Fashion,Women's Apparel,Arbor,46.13,103.12,10.9,9.4,2.1,0.75,0.125,Ambient,385,8,0,A,2024-04-28,29
+647,SKU-100646,Halcyon Eco Board Game,Toys & Games,Board Games,Cedar,20.11,39.43,9.7,9.6,2.4,1.41,0.129,Ambient,371,39,0,C,2023-10-18,26
+648,SKU-100647,Quanta Plus Monitor,Electronics,Monitors,Fjord,228.29,291.64,30.5,21.9,7.2,20.24,2.783,Ambient,17,32,1,A,2024-06-29,9
+649,SKU-100648,Pebble Lite Cat Litter & Care,Pet Supplies,Cat Litter & Care,Mosaic,14.12,25.58,20.0,14.9,8.9,21.86,1.535,Ambient,31,15,0,C,2022-01-17,28
+650,SKU-100649,Fjord Max Cookware,Home & Kitchen,Cookware,Terra,36.99,61.4,16.8,13.9,9.9,8.93,1.338,Ambient,35,1,1,B,2022-05-27,11
+651,SKU-100650,Nordic Essential Small Appliance,Home & Kitchen,Small Appliances,Gleam,56.56,112.09,12.8,9.8,10.1,4.48,0.733,Ambient,65,18,0,B,2023-05-26,33
+652,SKU-100651,Xenon Elite Medical Supplie,Health & Wellness,Medical Supplies,Solace,25.42,48.73,9.4,8.9,6.2,1.8,0.3,Ambient,159,18,0,B,2022-07-01,33
+653,SKU-100652,Solace Premium Living Room,Furniture,Living Room,Zephyr,223.69,392.13,37.3,23.9,14.5,35.88,7.481,Oversize,6,7,0,A,2023-06-05,7
+654,SKU-100653,Zephyr Plus Small Appliance,Home & Kitchen,Small Appliances,Brightwell,81.46,140.8,15.1,12.2,13.6,10.3,1.45,Ambient,33,38,0,B,2022-12-13,10
+655,SKU-100654,Gleam Max Bags & Accessorie,Fashion,Bags & Accessories,Ionic,14.34,30.76,15.2,10.2,5.4,2.29,0.484,Ambient,99,21,0,C,2022-07-30,20
+656,SKU-100655,Olive&Co Active Puzzle,Toys & Games,Puzzles,Fjord,12.09,20.48,8.9,6.9,2.0,0.82,0.071,Ambient,675,3,0,C,2024-02-10,35
+657,SKU-100656,Yonder Active Fitness Nutrition,Health & Wellness,Fitness Nutrition,Lumos,14.28,31.22,8.9,5.5,5.7,3.01,0.161,Ambient,297,5,0,B,2022-02-08,12
+658,SKU-100657,Nordic Elite Women's Apparel,Fashion,Women's Apparel,Lumos,10.44,22.69,10.2,7.8,1.7,0.47,0.078,Ambient,613,19,0,C,2024-05-24,33
+659,SKU-100658,Xenon Prime Skincare,Beauty & Personal Care,Skincare,Terra,15.23,33.92,6.8,3.6,4.1,0.54,0.058,Ambient,826,28,1,C,2022-06-03,28
+660,SKU-100659,Brightwell Select Puzzle,Toys & Games,Puzzles,Wren,11.27,19.62,13.9,10.1,2.7,1.92,0.219,Ambient,218,21,0,C,2023-08-04,20
+661,SKU-100660,Lumos Eco Puzzle,Toys & Games,Puzzles,Fjord,4.49,8.13,9.0,6.9,1.8,0.68,0.065,Ambient,742,22,0,C,2024-09-18,8
+662,SKU-100661,Nordic Classic Beverage,Grocery & Gourmet,Beverages,Kinetic,12.89,15.98,14.0,9.4,7.4,10.04,0.564,Ambient,85,32,0,C,2022-04-24,9
+663,SKU-100662,Yonder Plus Grooming Tool,Beauty & Personal Care,Grooming Tools,Halcyon,5.96,15.11,5.7,3.5,3.1,0.48,0.036,Ambient,1341,31,0,B,2024-07-15,11
+664,SKU-100663,Vivid Max Smart Home,Electronics,Smart Home,Bolt,138.0,168.41,8.8,7.2,6.3,1.81,0.231,Ambient,207,31,1,B,2022-10-31,11
+665,SKU-100664,Yonder Smart Desk,Furniture,Desks,Umbra,192.11,309.62,47.4,25.0,6.7,67.04,4.595,Oversize,10,17,0,A,2024-01-12,10
+666,SKU-100665,Zephyr Premium Medical Supplie,Health & Wellness,Medical Supplies,Fjord,31.01,84.02,11.9,9.8,6.9,3.21,0.466,Ambient,103,11,0,B,2024-05-07,32
+667,SKU-100666,Corvo Prime Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Arbor,11.46,15.75,7.0,4.7,4.9,0.97,0.093,Ambient,514,40,0,C,2022-08-20,28
+668,SKU-100667,Daybreak Prime Smart Home,Electronics,Smart Home,Ionic,20.21,23.98,6.2,5.0,4.2,0.86,0.075,Ambient,637,35,1,B,2022-12-14,31
+669,SKU-100668,Lumos Eco Small Appliance,Home & Kitchen,Small Appliances,Yonder,77.3,106.13,13.7,9.5,10.5,5.06,0.791,Ambient,60,33,0,B,2024-05-10,28
+670,SKU-100669,Halcyon Lite Puzzle,Toys & Games,Puzzles,Daybreak,17.78,28.25,10.8,8.5,2.4,1.06,0.128,Ambient,376,8,0,C,2022-04-13,29
+671,SKU-100670,Cedar Select Phone Accessorie,Electronics,Phone Accessories,Kinetic,14.92,17.9,5.5,3.5,1.6,0.26,0.018,Ambient,2692,40,0,C,2022-04-19,28
+672,SKU-100671,Brightwell Lite Car Care,Automotive,Car Care,Vivid,30.45,46.68,12.2,8.2,5.4,3.72,0.313,Hazmat,153,26,0,C,2022-10-30,31
+673,SKU-100672,Pebble Classic Women's Apparel,Fashion,Women's Apparel,Quanta,47.26,86.55,15.4,12.1,2.3,1.3,0.248,Ambient,193,23,0,A,2023-08-27,31
+674,SKU-100673,Zephyr Smart Outdoor Toy,Toys & Games,Outdoor Toys,Ionic,13.19,23.29,27.8,16.5,13.8,7.55,3.663,Oversize,13,32,0,C,2024-03-17,9
+675,SKU-100674,Kinetic Smart Fitness Nutrition,Health & Wellness,Fitness Nutrition,Ridge,31.19,61.41,10.3,7.1,6.3,3.01,0.267,Ambient,180,8,0,B,2023-07-17,29
+676,SKU-100675,Olive&Co Max Women's Apparel,Fashion,Women's Apparel,Kinetic,57.9,100.91,10.0,7.5,1.7,0.66,0.074,Ambient,650,4,0,B,2023-05-09,29
+677,SKU-100676,Cedar Studio Home Decor,Home & Kitchen,Home Decor,Aurelia,17.89,30.38,15.6,14.3,10.0,5.62,1.291,Ambient,37,28,1,C,2024-05-20,28
+678,SKU-100677,Gleam Smart Fitness Equipment,Sports & Outdoors,Fitness Equipment,Xenon,48.82,87.0,37.4,16.5,10.4,24.27,3.714,Oversize,12,32,1,C,2022-06-21,9
+679,SKU-100678,Bolt Eco Grooming Tool,Beauty & Personal Care,Grooming Tools,Zephyr,37.0,76.5,9.6,5.4,4.5,1.11,0.135,Ambient,355,8,1,B,2024-06-20,29
+680,SKU-100679,Umbra Premium Women's Apparel,Fashion,Women's Apparel,Yonder,36.86,90.38,13.7,11.6,2.2,0.96,0.202,Ambient,237,15,0,A,2022-11-09,28
+681,SKU-100680,Nordic Lite Fitness Equipment,Sports & Outdoors,Fitness Equipment,Solace,81.13,128.37,28.8,13.0,9.8,15.32,2.123,Oversize,22,30,1,B,2022-10-03,30
+682,SKU-100681,Yonder Eco Dog Food,Pet Supplies,Dog Food,Nova,20.85,27.8,23.7,16.7,6.5,22.94,1.489,Ambient,32,6,0,B,2024-08-11,33
+683,SKU-100682,Gleam Prime Bags & Accessorie,Fashion,Bags & Accessories,Zephyr,57.01,118.44,16.9,11.5,6.3,2.99,0.709,Ambient,67,32,0,B,2023-10-08,9
+684,SKU-100683,Terra Max Small Appliance,Home & Kitchen,Small Appliances,Umbra,23.9,33.58,17.0,12.8,13.2,10.81,1.662,Ambient,28,15,0,A,2023-03-08,28
+685,SKU-100684,Daybreak Essential Women's Apparel,Fashion,Women's Apparel,Bolt,28.61,54.82,9.2,6.4,1.5,0.44,0.051,Ambient,939,21,0,C,2022-11-27,20
+686,SKU-100685,Brightwell Pro Women's Apparel,Fashion,Women's Apparel,Eldrin,36.58,92.47,13.4,9.2,2.2,0.63,0.157,Ambient,305,37,0,B,2023-03-18,22
+687,SKU-100686,Arbor Active Camera,Electronics,Cameras,Brightwell,484.28,550.32,9.5,7.5,5.6,2.91,0.231,Ambient,207,2,0,A,2024-03-02,23
+688,SKU-100687,Corvo Active Cookware,Home & Kitchen,Cookware,Wren,74.38,142.6,11.0,9.9,6.7,5.28,0.422,Ambient,113,26,0,A,2022-06-03,31
+689,SKU-100688,Solace Pro Board Game,Toys & Games,Board Games,Terra,9.1,17.82,11.1,9.2,3.2,1.77,0.189,Ambient,253,18,0,C,2022-06-24,33
+690,SKU-100689,Olive&Co Eco Men's Apparel,Fashion,Men's Apparel,Gleam,33.89,73.85,12.0,8.8,1.9,0.65,0.116,Ambient,413,40,0,C,2022-11-01,28
+691,SKU-100690,Olive&Co Studio Cat Litter & Care,Pet Supplies,Cat Litter & Care,Mosaic,14.68,19.59,20.8,14.5,9.8,19.21,1.71,Ambient,28,16,0,C,2023-04-28,34
+692,SKU-100691,Umbra Ultra Bedding,Home & Kitchen,Bedding,Umbra,41.24,57.24,19.6,12.9,7.1,3.39,1.039,Ambient,46,25,0,C,2024-03-25,5
+693,SKU-100692,Olive&Co Prime Smart Home,Electronics,Smart Home,Halcyon,20.05,23.25,6.2,5.9,4.4,0.81,0.093,Ambient,515,34,0,C,2022-07-30,37
+694,SKU-100693,Ionic Essential Snack,Grocery & Gourmet,Snacks,Kinetic,9.15,11.56,11.8,11.1,8.3,3.06,0.629,Ambient,76,25,0,C,2024-02-26,5
+695,SKU-100694,Pebble Classic Fitness Nutrition,Health & Wellness,Fitness Nutrition,Jasper,25.99,45.69,9.8,6.3,6.5,4.15,0.232,Ambient,206,33,0,C,2024-06-26,28
+696,SKU-100695,Pebble Premium Storage & Organization,Home & Kitchen,Storage & Organization,Quanta,6.65,10.6,16.7,10.9,6.9,2.34,0.727,Ambient,66,33,0,C,2023-03-12,28
+697,SKU-100696,Corvo Ultra Small Appliance,Home & Kitchen,Small Appliances,Eldrin,43.56,73.78,16.9,12.4,12.6,8.94,1.528,Ambient,31,23,0,B,2024-08-19,31
+698,SKU-100697,Ionic Select Cookware,Home & Kitchen,Cookware,Arbor,25.27,46.47,14.4,13.0,8.7,7.27,0.943,Ambient,50,16,0,C,2024-06-12,34
+699,SKU-100698,Xenon Select Skincare,Beauty & Personal Care,Skincare,Ridge,7.54,19.33,6.1,3.0,3.3,0.36,0.035,Ambient,1373,25,0,B,2024-03-08,5
+700,SKU-100699,Aurelia Classic Bags & Accessorie,Fashion,Bags & Accessories,Aurelia,60.85,135.91,14.1,10.3,4.5,1.43,0.378,Ambient,126,30,0,B,2023-01-16,30
+701,SKU-100700,Nova Active Bedding,Home & Kitchen,Bedding,Umbra,45.66,71.6,15.9,10.7,6.3,2.75,0.62,Ambient,77,10,0,A,2022-10-28,12
+702,SKU-100701,Terra Max Headphone,Electronics,Headphones,Eldrin,24.4,28.03,8.7,7.9,3.3,0.67,0.131,Ambient,365,39,0,B,2024-05-14,26
+703,SKU-100702,Cedar Smart Bags & Accessorie,Fashion,Bags & Accessories,Kinetic,59.97,149.14,13.0,9.5,4.9,1.43,0.35,Ambient,137,20,0,A,2023-03-18,4
+704,SKU-100703,Lumos Studio Cat Litter & Care,Pet Supplies,Cat Litter & Care,Bolt,15.71,23.36,13.7,9.4,6.1,13.32,0.455,Ambient,105,40,0,C,2022-02-01,28
+705,SKU-100704,Corvo Active Team Sport,Sports & Outdoors,Team Sports,Nordic,20.18,29.69,14.9,13.9,10.8,2.71,1.294,Ambient,37,30,0,A,2023-12-19,30
+706,SKU-100705,Kinetic Smart Bags & Accessorie,Fashion,Bags & Accessories,Halcyon,63.9,104.88,15.5,10.7,5.6,1.7,0.537,Ambient,89,10,0,B,2022-12-14,12
+707,SKU-100706,Arbor Lite Camera,Electronics,Cameras,Gleam,302.5,423.4,8.3,5.8,4.1,1.43,0.114,Ambient,420,10,0,A,2024-07-24,12
+708,SKU-100707,Umbra Essential Bedding,Home & Kitchen,Bedding,Daybreak,74.65,136.03,17.8,12.4,6.9,5.22,0.881,Ambient,54,40,0,A,2024-05-05,28
+709,SKU-100708,Solace Prime Storage & Organization,Home & Kitchen,Storage & Organization,Wren,12.33,19.13,18.5,14.4,9.9,4.39,1.526,Ambient,31,24,0,C,2022-04-15,10
+710,SKU-100709,Pebble Pro Snack,Grocery & Gourmet,Snacks,Vivid,2.67,3.83,8.9,7.6,5.8,1.56,0.227,Ambient,211,11,0,C,2024-06-20,32
+711,SKU-100710,Zephyr Prime Fitness Nutrition,Health & Wellness,Fitness Nutrition,Ionic,25.48,45.55,8.8,6.2,6.5,2.78,0.205,Ambient,233,34,0,C,2024-08-07,37
+712,SKU-100711,Kinetic Essential Desk,Furniture,Desks,Eldrin,212.49,310.6,58.5,31.9,10.9,92.32,11.771,Oversize,4,29,0,A,2024-01-27,31
+713,SKU-100712,Nova Pro Interior Accessorie,Automotive,Interior Accessories,Terra,50.94,88.36,21.5,13.7,10.5,5.69,1.79,Ambient,26,35,1,B,2022-10-03,31
+714,SKU-100713,Brightwell Smart Interior Accessorie,Automotive,Interior Accessories,Bolt,22.71,28.78,22.0,16.6,10.0,4.19,2.113,Ambient,22,17,0,C,2023-11-01,10
+715,SKU-100714,Corvo Elite Pet Accessorie,Pet Supplies,Pet Accessories,Olive&Co,9.91,18.09,15.3,9.0,6.9,2.94,0.55,Ambient,87,4,0,C,2024-05-18,29
+716,SKU-100715,Arbor Elite Laptop,Electronics,Laptops,Vivid,624.63,749.91,13.5,8.8,2.2,4.62,0.151,Ambient,317,10,0,A,2024-03-26,12
+717,SKU-100716,Corvo Prime Monitor,Electronics,Monitors,Daybreak,156.98,202.61,25.9,20.8,6.9,15.09,2.151,Ambient,22,12,1,B,2023-03-08,7
+718,SKU-100717,Mosaic Pro Home Decor,Home & Kitchen,Home Decor,Cedar,39.99,57.19,14.2,12.2,9.2,3.35,0.922,Ambient,52,16,0,B,2023-12-09,34
+719,SKU-100718,Quanta Select Fragrance,Beauty & Personal Care,Fragrance,Jasper,40.89,84.58,7.1,4.9,3.7,0.82,0.074,Hazmat,644,9,0,C,2023-01-21,26
+720,SKU-100719,Terra Plus Smart Home,Electronics,Smart Home,Gleam,60.88,75.51,7.2,6.0,4.4,1.3,0.11,Ambient,436,28,1,B,2022-09-12,28
+721,SKU-100720,Nova Prime Vitamin,Health & Wellness,Vitamins,Aurelia,33.53,67.72,5.7,3.0,3.2,0.74,0.032,Ambient,1515,11,0,B,2023-11-04,32
+722,SKU-100721,Yonder Premium Camping,Sports & Outdoors,Camping,Pebble,99.49,190.18,29.6,15.1,10.7,12.21,2.768,Ambient,17,40,0,B,2023-04-12,28
+723,SKU-100722,Zephyr Studio Haircare,Beauty & Personal Care,Haircare,Jasper,6.05,11.79,6.7,2.5,2.5,0.69,0.024,Ambient,1980,33,0,C,2022-08-13,28
+724,SKU-100723,Zephyr Select Cookware,Home & Kitchen,Cookware,Nova,16.59,25.64,16.4,13.3,8.3,8.17,1.048,Ambient,45,32,0,B,2023-10-23,9
+725,SKU-100724,Kinetic Plus Bedding,Home & Kitchen,Bedding,Zephyr,57.42,82.26,22.4,15.5,9.3,6.67,1.869,Ambient,25,26,0,B,2022-11-18,31
+726,SKU-100725,Lumos Active Cookware,Home & Kitchen,Cookware,Aurelia,34.23,50.51,13.5,11.4,7.2,4.62,0.641,Ambient,74,3,1,B,2023-08-11,35
+727,SKU-100726,Halcyon Max Medical Supplie,Health & Wellness,Medical Supplies,Umbra,18.41,41.07,8.8,7.3,4.8,1.48,0.178,Ambient,268,9,0,B,2022-12-28,26
+728,SKU-100727,Eldrin Active Grooming Tool,Beauty & Personal Care,Grooming Tools,Olive&Co,19.5,38.59,9.5,5.6,4.9,1.43,0.151,Ambient,318,29,0,C,2024-06-04,31
+729,SKU-100728,Ridge Select Puzzle,Toys & Games,Puzzles,Mosaic,12.6,22.83,10.0,8.2,2.1,0.94,0.1,Ambient,481,27,0,C,2024-04-30,30
+730,SKU-100729,Eldrin Essential Home Decor,Home & Kitchen,Home Decor,Kinetic,10.69,16.46,11.3,10.5,9.4,3.56,0.645,Ambient,74,40,1,C,2023-04-19,28
+731,SKU-100730,Arbor Ultra Men's Apparel,Fashion,Men's Apparel,Halcyon,10.41,21.51,13.2,9.3,2.3,0.8,0.163,Ambient,293,40,0,C,2023-12-12,28
+732,SKU-100731,Cedar Premium Women's Apparel,Fashion,Women's Apparel,Cedar,32.62,67.47,11.6,9.1,1.8,0.75,0.11,Ambient,436,26,0,A,2022-06-27,31
+733,SKU-100732,Wren Classic Snack,Grocery & Gourmet,Snacks,Ridge,18.71,22.78,12.2,10.9,8.1,2.49,0.623,Ambient,77,5,0,C,2024-09-24,12
+734,SKU-100733,Terra Essential Beverage,Grocery & Gourmet,Beverages,Mosaic,8.83,12.26,16.3,11.6,8.5,16.25,0.93,Ambient,51,29,0,C,2022-08-03,31
+735,SKU-100734,Ionic Eco Small Appliance,Home & Kitchen,Small Appliances,Arbor,65.86,105.07,14.1,12.6,11.1,9.56,1.141,Ambient,42,6,0,A,2024-05-16,33
+736,SKU-100735,Corvo Premium Pet Accessorie,Pet Supplies,Pet Accessories,Kinetic,20.06,28.32,9.2,5.6,4.7,1.21,0.14,Ambient,342,22,0,C,2024-04-26,8
+737,SKU-100736,Daybreak Active Camera,Electronics,Cameras,Zephyr,976.38,1109.52,10.0,6.9,5.5,2.36,0.22,Ambient,218,39,0,A,2022-06-28,26
+738,SKU-100737,Gleam Classic Office Chair,Furniture,Office Chairs,Daybreak,139.76,209.14,28.8,26.8,17.9,45.83,7.995,Oversize,6,26,0,A,2022-01-09,31
+739,SKU-100738,Pebble Pro Smart Home,Electronics,Smart Home,Mosaic,23.18,27.99,5.2,4.7,3.8,0.77,0.054,Ambient,893,26,0,C,2024-01-08,31
+740,SKU-100739,Gleam Plus Storage & Organization,Home & Kitchen,Storage & Organization,Vivid,19.08,29.53,16.9,9.7,7.3,2.01,0.693,Ambient,69,3,0,C,2024-05-19,35
+741,SKU-100740,Cedar Select Vitamin,Health & Wellness,Vitamins,Jasper,6.02,13.25,5.2,3.1,3.5,0.63,0.033,Ambient,1470,35,0,B,2023-12-18,31
+742,SKU-100741,Fjord Max Cookware,Home & Kitchen,Cookware,Fjord,44.69,70.89,15.3,14.7,8.6,10.04,1.119,Ambient,42,8,0,C,2022-02-25,29
+743,SKU-100742,Mosaic Max Women's Apparel,Fashion,Women's Apparel,Daybreak,33.31,63.86,12.6,8.9,2.2,0.75,0.143,Ambient,336,22,0,A,2023-10-08,8
+744,SKU-100743,Terra Classic Footwear,Fashion,Footwear,Daybreak,28.99,55.39,17.1,11.7,6.0,2.92,0.695,Ambient,69,24,0,C,2023-01-27,10
+745,SKU-100744,Halcyon Active Bedding,Home & Kitchen,Bedding,Mosaic,17.86,33.77,25.1,16.9,9.7,7.41,2.381,Ambient,20,27,0,C,2024-07-04,30
+746,SKU-100745,Wren Eco Outdoor Toy,Toys & Games,Outdoor Toys,Xenon,63.3,122.59,20.3,14.4,9.5,5.69,1.607,Oversize,29,29,0,A,2024-03-11,31
+747,SKU-100746,Aurelia Select Medical Supplie,Health & Wellness,Medical Supplies,Zephyr,52.62,92.38,8.6,6.4,4.8,1.33,0.153,Ambient,313,33,0,B,2024-03-09,28
+748,SKU-100747,Jasper Prime Fitness Nutrition,Health & Wellness,Fitness Nutrition,Quanta,26.63,50.86,11.7,7.2,6.7,5.45,0.327,Ambient,146,11,0,C,2023-02-12,32
+749,SKU-100748,Olive&Co Studio Men's Apparel,Fashion,Men's Apparel,Pebble,8.83,17.18,15.2,11.4,2.5,1.28,0.251,Ambient,191,22,0,B,2022-11-19,8
+750,SKU-100749,Arbor Eco Haircare,Beauty & Personal Care,Haircare,Ridge,3.52,7.47,8.9,3.2,3.2,0.98,0.053,Ambient,910,6,1,B,2024-04-02,33
+751,SKU-100750,Arbor Smart Bedding,Home & Kitchen,Bedding,Jasper,83.45,116.06,22.5,16.0,9.7,6.63,2.021,Ambient,23,16,0,B,2022-04-26,34
+752,SKU-100751,Ionic Classic Bedding,Home & Kitchen,Bedding,Lumos,34.02,53.5,15.8,10.7,6.2,4.32,0.607,Ambient,79,31,0,B,2022-04-11,11
+753,SKU-100752,Gleam Premium Cookware,Home & Kitchen,Cookware,Solace,73.79,118.85,16.2,12.8,9.3,8.22,1.116,Ambient,43,4,0,A,2022-03-04,29
+754,SKU-100753,Halcyon Premium Pet Accessorie,Pet Supplies,Pet Accessories,Jasper,5.95,8.12,15.2,9.2,6.7,2.84,0.542,Ambient,88,25,0,C,2023-05-27,5
+755,SKU-100754,Jasper Elite Fitness Nutrition,Health & Wellness,Fitness Nutrition,Halcyon,15.65,30.24,9.5,5.4,5.3,2.93,0.157,Ambient,305,27,0,C,2022-03-17,30
+756,SKU-100755,Ridge Classic Beverage,Grocery & Gourmet,Beverages,Gleam,12.71,17.32,15.4,11.3,9.0,15.01,0.906,Ambient,52,39,0,B,2023-08-06,26
+757,SKU-100756,Olive&Co Studio Skincare,Beauty & Personal Care,Skincare,Nordic,8.01,17.39,4.7,2.3,2.4,0.24,0.015,Ambient,3197,2,0,C,2022-06-17,23
+758,SKU-100757,Pebble Prime Bags & Accessorie,Fashion,Bags & Accessories,Brightwell,15.99,37.98,14.1,9.5,5.1,1.66,0.395,Ambient,121,29,0,C,2024-06-09,31
+759,SKU-100758,Kinetic Elite Haircare,Beauty & Personal Care,Haircare,Umbra,14.11,28.74,6.0,2.5,2.5,0.61,0.022,Ambient,2211,9,0,C,2023-03-09,26
+760,SKU-100759,Yonder Pro Haircare,Beauty & Personal Care,Haircare,Pebble,11.35,21.71,6.8,2.5,2.8,0.55,0.028,Ambient,1742,8,0,C,2022-04-04,29
+761,SKU-100760,Gleam Premium Footwear,Fashion,Footwear,Eldrin,15.51,30.89,10.8,8.0,4.1,1.95,0.205,Ambient,234,35,0,C,2023-11-25,31
+762,SKU-100761,Jasper Essential Camera,Electronics,Cameras,Eldrin,129.84,168.74,9.4,6.7,4.8,2.67,0.175,Ambient,274,2,1,B,2022-12-05,23
+763,SKU-100762,Yonder Studio Camera,Electronics,Cameras,Lumos,276.3,344.28,11.8,9.4,6.2,3.83,0.398,Ambient,120,20,0,A,2022-09-19,4
+764,SKU-100763,Lumos Max Pet Accessorie,Pet Supplies,Pet Accessories,Brightwell,15.13,22.58,13.5,9.9,7.4,3.33,0.572,Ambient,83,35,0,C,2023-10-22,31
+765,SKU-100764,Kinetic Ultra Bags & Accessorie,Fashion,Bags & Accessories,Nova,37.92,73.9,11.4,8.9,4.1,1.18,0.241,Ambient,199,2,0,B,2024-08-13,23
+766,SKU-100765,Eldrin Max Pet Accessorie,Pet Supplies,Pet Accessories,Corvo,18.25,32.65,10.6,7.0,5.2,1.97,0.223,Ambient,214,7,0,C,2024-09-06,7
+767,SKU-100766,Jasper Elite Cookware,Home & Kitchen,Cookware,Gleam,18.4,28.13,16.1,14.9,9.1,10.98,1.263,Ambient,37,10,1,C,2023-03-12,12
+768,SKU-100767,Quanta Select Fragrance,Beauty & Personal Care,Fragrance,Gleam,19.7,48.55,7.8,4.5,3.5,0.79,0.071,Hazmat,675,30,0,C,2024-04-28,30
+769,SKU-100768,Pebble Elite Small Appliance,Home & Kitchen,Small Appliances,Bolt,21.23,32.59,19.1,15.1,13.6,15.13,2.27,Ambient,21,32,0,A,2022-07-29,9
+770,SKU-100769,Cedar Prime Bedding,Home & Kitchen,Bedding,Olive&Co,70.82,130.18,16.4,12.8,7.0,4.09,0.85,Ambient,56,13,0,B,2024-04-26,4
+771,SKU-100770,Jasper Classic Headphone,Electronics,Headphones,Wren,28.18,32.02,9.5,7.3,3.2,0.68,0.128,Ambient,373,36,1,C,2024-07-31,28
+772,SKU-100771,Mosaic Max Camera,Electronics,Cameras,Vivid,376.3,455.41,8.8,6.9,5.9,3.19,0.207,Ambient,231,4,0,A,2023-06-02,29
+773,SKU-100772,Ridge Studio Living Room,Furniture,Living Room,Xenon,239.43,366.99,46.4,23.1,14.9,41.21,9.242,Oversize,5,10,0,A,2023-06-08,12
+774,SKU-100773,Quanta Active Home Decor,Home & Kitchen,Home Decor,Jasper,26.59,44.89,11.7,11.7,8.7,3.67,0.689,Ambient,69,33,0,C,2023-07-19,28
+775,SKU-100774,Pebble Essential Fitness Equipment,Sports & Outdoors,Fitness Equipment,Corvo,70.59,153.51,31.8,13.1,10.0,17.54,2.411,Oversize,19,40,1,A,2022-03-15,28
+776,SKU-100775,Arbor Classic Bags & Accessorie,Fashion,Bags & Accessories,Olive&Co,7.59,20.44,13.7,8.9,4.8,1.54,0.339,Ambient,141,29,0,C,2024-05-08,31
+777,SKU-100776,Ridge Select Women's Apparel,Fashion,Women's Apparel,Olive&Co,8.16,18.49,9.4,6.7,1.8,0.5,0.066,Ambient,731,33,0,C,2024-01-08,28
+778,SKU-100777,Umbra Essential Haircare,Beauty & Personal Care,Haircare,Daybreak,4.64,11.77,7.1,2.7,2.5,0.64,0.028,Ambient,1730,15,0,C,2024-05-19,28
+779,SKU-100778,Halcyon Essential Cookware,Home & Kitchen,Cookware,Pebble,62.79,103.71,15.0,12.4,8.8,6.8,0.947,Ambient,50,13,0,B,2022-04-26,4
+780,SKU-100779,Olive&Co Plus Interior Accessorie,Automotive,Interior Accessories,Terra,26.63,43.23,11.5,10.1,5.7,1.95,0.383,Ambient,125,7,0,C,2024-03-13,7
+781,SKU-100780,Pebble Smart Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Ionic,7.78,10.83,12.2,9.6,8.5,2.94,0.576,Refrigerated,83,31,0,C,2022-12-29,11
+782,SKU-100781,Fjord Max Puzzle,Toys & Games,Puzzles,Jasper,4.95,9.41,15.6,12.6,3.3,2.1,0.375,Ambient,127,25,0,C,2024-03-29,5
+783,SKU-100782,Ionic Plus Bags & Accessorie,Fashion,Bags & Accessories,Xenon,19.94,41.48,14.5,9.9,5.5,1.71,0.457,Ambient,105,17,0,C,2024-09-20,10
+784,SKU-100783,Mosaic Classic Monitor,Electronics,Monitors,Halcyon,158.47,180.08,19.3,14.3,5.0,9.62,0.799,Ambient,60,23,0,B,2024-05-29,31
+785,SKU-100784,Olive&Co Essential Dog Food,Pet Supplies,Dog Food,Terra,19.11,30.51,29.0,18.8,7.7,47.37,2.429,Ambient,19,30,0,A,2024-07-04,30
+786,SKU-100785,Olive&Co Select Men's Apparel,Fashion,Men's Apparel,Pebble,9.42,20.51,14.3,10.3,2.2,0.9,0.188,Ambient,255,28,0,C,2022-04-24,28
+787,SKU-100786,Vivid Pro Headphone,Electronics,Headphones,Yonder,31.97,36.33,8.5,6.6,2.9,0.68,0.094,Ambient,509,39,1,C,2022-11-25,26
+788,SKU-100787,Eldrin Active Men's Apparel,Fashion,Men's Apparel,Nordic,9.99,22.74,16.3,12.6,2.7,1.45,0.321,Ambient,149,35,0,C,2022-10-20,31
+789,SKU-100788,Halcyon Lite Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Mosaic,11.17,15.23,7.1,5.9,4.9,1.0,0.119,Ambient,404,13,0,C,2023-05-29,4
+790,SKU-100789,Halcyon Ultra Camping,Sports & Outdoors,Camping,Arbor,24.6,43.66,17.8,9.0,7.7,4.12,0.714,Ambient,67,36,0,C,2024-09-03,28
+791,SKU-100790,Zephyr Pro Snack,Grocery & Gourmet,Snacks,Kinetic,4.63,8.35,12.3,9.2,7.6,2.45,0.498,Ambient,96,34,0,C,2023-11-17,37
+792,SKU-100791,Wren Studio Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Halcyon,7.9,10.14,9.0,5.6,5.7,1.27,0.166,Ambient,288,2,0,C,2023-06-29,23
+793,SKU-100792,Jasper Ultra Small Appliance,Home & Kitchen,Small Appliances,Olive&Co,40.52,63.18,14.0,11.9,10.8,7.97,1.041,Ambient,46,22,1,A,2024-03-15,8
+794,SKU-100793,Bolt Essential Dog Food,Pet Supplies,Dog Food,Gleam,50.73,82.79,31.9,21.5,7.0,38.4,2.778,Ambient,17,9,0,B,2022-06-26,26
+795,SKU-100794,Kinetic Pro Footwear,Fashion,Footwear,Vivid,14.26,34.8,14.3,10.7,6.2,3.14,0.549,Ambient,87,4,0,C,2023-10-23,29
+796,SKU-100795,Jasper Studio Cycling,Sports & Outdoors,Cycling,Kinetic,21.65,30.67,16.7,9.6,6.5,4.39,0.603,Ambient,79,4,0,C,2023-05-19,29
+797,SKU-100796,Aurelia Max Phone Accessorie,Electronics,Phone Accessories,Lumos,25.98,35.86,7.4,5.0,2.4,0.44,0.051,Ambient,934,9,1,C,2022-07-23,26
+798,SKU-100797,Olive&Co Pro Tools & Equipment,Automotive,Tools & Equipment,Gleam,27.53,49.45,13.4,6.8,6.1,6.37,0.322,Ambient,149,3,0,A,2023-10-08,35
+799,SKU-100798,Mosaic Pro Storage & Organization,Home & Kitchen,Storage & Organization,Corvo,31.08,47.69,21.3,14.3,9.6,4.43,1.692,Ambient,28,15,0,C,2024-04-20,28
+800,SKU-100799,Umbra Lite Laptop,Electronics,Laptops,Cedar,966.32,1295.24,13.4,10.9,2.2,5.1,0.186,Ambient,258,12,1,A,2024-04-08,7
+801,SKU-100800,Aurelia Prime Bags & Accessorie,Fashion,Bags & Accessories,Corvo,15.3,33.55,12.6,9.9,4.3,1.28,0.31,Ambient,154,40,0,A,2024-04-23,28
+802,SKU-100801,Corvo Active Camera,Electronics,Cameras,Corvo,240.88,289.26,9.8,8.5,5.6,3.1,0.27,Ambient,177,3,1,A,2024-03-23,35
+803,SKU-100802,Yonder Elite Monitor,Electronics,Monitors,Halcyon,183.25,216.9,25.4,17.0,6.2,12.19,1.549,Ambient,30,15,1,A,2023-04-14,28
+804,SKU-100803,Umbra Active Cycling,Sports & Outdoors,Cycling,Ridge,10.75,15.4,23.0,10.5,10.2,8.89,1.426,Ambient,33,8,0,C,2022-02-19,29
+805,SKU-100804,Xenon Pro Women's Apparel,Fashion,Women's Apparel,Lumos,46.84,88.4,14.9,10.3,2.4,1.23,0.213,Ambient,225,27,0,B,2024-08-23,30
+806,SKU-100805,Mosaic Elite Dog Food,Pet Supplies,Dog Food,Daybreak,19.83,32.06,28.2,16.3,6.5,29.58,1.729,Ambient,27,21,0,A,2023-03-30,20
+807,SKU-100806,Jasper Ultra Home Decor,Home & Kitchen,Home Decor,Daybreak,31.27,60.58,10.4,9.8,8.3,3.38,0.49,Ambient,98,21,0,A,2023-09-25,20
+808,SKU-100807,Kinetic Essential Outdoor Toy,Toys & Games,Outdoor Toys,Mosaic,25.51,43.67,28.8,18.0,14.6,8.96,4.38,Oversize,10,15,0,C,2022-01-21,28
+809,SKU-100808,Aurelia Eco Bags & Accessorie,Fashion,Bags & Accessories,Halcyon,14.07,46.89,17.2,11.0,5.7,2.7,0.624,Ambient,76,29,0,C,2024-06-07,31
+810,SKU-100809,Ionic Select Team Sport,Sports & Outdoors,Team Sports,Mosaic,48.09,85.31,11.6,8.9,8.1,1.21,0.484,Ambient,99,11,0,B,2024-06-07,32
+811,SKU-100810,Mosaic Select Fitness Equipment,Sports & Outdoors,Fitness Equipment,Olive&Co,70.75,107.1,34.6,16.8,11.5,26.49,3.868,Oversize,12,22,0,B,2024-07-17,8
+812,SKU-100811,Xenon Pro Bags & Accessorie,Fashion,Bags & Accessories,Pebble,35.36,89.03,10.5,8.4,3.9,0.96,0.199,Ambient,241,5,0,B,2022-06-23,12
+813,SKU-100812,Xenon Pro Pet Accessorie,Pet Supplies,Pet Accessories,Arbor,20.85,34.53,14.3,9.0,7.1,2.23,0.529,Ambient,90,33,0,C,2024-04-22,28
+814,SKU-100813,Lumos Smart Men's Apparel,Fashion,Men's Apparel,Terra,10.91,26.05,13.5,9.2,2.1,1.07,0.151,Ambient,318,26,0,B,2023-09-17,31
+815,SKU-100814,Nova Premium Cookware,Home & Kitchen,Cookware,Corvo,17.33,27.81,14.6,12.3,8.4,4.89,0.873,Ambient,54,9,0,C,2022-05-27,26
+816,SKU-100815,Ridge Active Board Game,Toys & Games,Board Games,Cedar,20.64,35.37,12.7,11.1,3.0,2.1,0.245,Ambient,196,19,0,C,2023-07-25,33
+817,SKU-100816,Mosaic Classic Vitamin,Health & Wellness,Vitamins,Ridge,4.51,10.34,5.4,3.2,3.4,0.73,0.034,Ambient,1411,32,0,C,2023-04-22,9
+818,SKU-100817,Olive&Co Studio Headphone,Electronics,Headphones,Bolt,78.87,102.03,6.2,5.0,2.3,0.32,0.041,Ambient,1163,17,1,A,2023-09-18,10
+819,SKU-100818,Arbor Eco Footwear,Fashion,Footwear,Olive&Co,21.23,56.76,17.2,11.8,5.9,4.35,0.693,Ambient,69,20,0,C,2022-03-25,4
+820,SKU-100819,Arbor Active Office Chair,Furniture,Office Chairs,Umbra,214.69,320.97,23.4,21.8,13.8,24.62,4.074,Oversize,11,27,1,A,2023-07-18,30
+821,SKU-100820,Kinetic Smart Puzzle,Toys & Games,Puzzles,Nova,13.09,22.64,10.5,7.8,2.1,0.96,0.1,Ambient,482,31,0,C,2023-11-09,11
+822,SKU-100821,Kinetic Prime Tools & Equipment,Automotive,Tools & Equipment,Yonder,30.44,54.6,14.1,7.8,5.9,7.45,0.376,Ambient,127,26,0,C,2023-12-17,31
+823,SKU-100822,Xenon Studio Haircare,Beauty & Personal Care,Haircare,Wren,11.48,21.57,6.0,2.7,2.5,0.49,0.023,Ambient,2047,35,0,C,2024-02-09,31
+824,SKU-100823,Olive&Co Prime Team Sport,Sports & Outdoors,Team Sports,Jasper,31.56,46.14,16.4,13.0,10.1,2.17,1.246,Ambient,38,24,0,A,2023-09-19,10
+825,SKU-100824,Terra Pro Home Decor,Home & Kitchen,Home Decor,Jasper,8.06,12.48,16.7,15.0,11.0,5.48,1.595,Ambient,30,27,0,C,2023-12-03,30
+826,SKU-100825,Zephyr Elite Pet Accessorie,Pet Supplies,Pet Accessories,Corvo,38.77,54.46,15.7,9.0,7.5,3.75,0.613,Ambient,78,5,0,B,2022-04-01,12
+827,SKU-100826,Brightwell Max Men's Apparel,Fashion,Men's Apparel,Lumos,21.92,52.16,9.1,7.4,1.5,0.47,0.058,Ambient,821,39,0,B,2024-03-08,26
+828,SKU-100827,Pebble Max Puzzle,Toys & Games,Puzzles,Terra,9.9,16.08,9.7,7.2,2.2,0.9,0.089,Ambient,539,37,0,C,2023-01-02,22
+829,SKU-100828,Mosaic Ultra Women's Apparel,Fashion,Women's Apparel,Bolt,51.5,95.32,9.7,7.5,1.5,0.34,0.063,Ambient,760,21,0,B,2023-07-02,20
+830,SKU-100829,Olive&Co Max Fragrance,Beauty & Personal Care,Fragrance,Ridge,18.6,35.7,6.5,4.1,3.5,0.68,0.054,Hazmat,889,17,0,C,2023-07-01,10
+831,SKU-100830,Lumos Max Outdoor Toy,Toys & Games,Outdoor Toys,Wren,57.55,92.45,28.4,17.7,12.8,7.4,3.724,Oversize,12,19,0,B,2024-09-03,33
+832,SKU-100831,Cedar Lite Skincare,Beauty & Personal Care,Skincare,Kinetic,20.06,41.87,7.1,3.0,3.3,0.39,0.041,Ambient,1180,33,0,B,2022-11-22,28
+833,SKU-100832,Nordic Ultra Storage Furniture,Furniture,Storage Furniture,Bolt,70.23,121.44,36.9,21.8,12.7,64.06,5.912,Oversize,8,38,0,B,2023-01-20,10
+834,SKU-100833,Eldrin Plus Footwear,Fashion,Footwear,Nordic,52.17,108.47,10.5,8.4,4.0,1.74,0.204,Ambient,235,39,0,B,2024-01-31,26
+835,SKU-100834,Ionic Select Cycling,Sports & Outdoors,Cycling,Ridge,33.18,47.81,21.5,10.1,7.9,6.54,0.993,Ambient,48,25,0,C,2023-09-27,5
+836,SKU-100835,Arbor Eco Men's Apparel,Fashion,Men's Apparel,Umbra,12.58,25.58,16.0,12.0,2.4,1.66,0.267,Ambient,180,28,0,C,2022-11-14,28
+837,SKU-100836,Olive&Co Plus Women's Apparel,Fashion,Women's Apparel,Ionic,35.64,71.82,15.9,11.2,2.6,1.35,0.268,Ambient,179,18,0,C,2022-12-11,33
+838,SKU-100837,Jasper Plus Footwear,Fashion,Footwear,Pebble,15.58,38.15,11.6,8.7,4.9,1.93,0.286,Ambient,167,40,0,C,2024-04-08,28
+839,SKU-100838,Zephyr Eco Camera,Electronics,Cameras,Brightwell,206.77,238.54,9.4,6.9,5.1,2.53,0.191,Ambient,250,31,0,A,2024-04-15,11
+840,SKU-100839,Zephyr Select Smart Home,Electronics,Smart Home,Bolt,63.05,75.03,7.5,5.6,5.0,1.27,0.122,Ambient,394,28,0,A,2022-05-27,28
+841,SKU-100840,Brightwell Prime Team Sport,Sports & Outdoors,Team Sports,Ridge,39.92,61.65,17.2,16.2,13.2,3.12,2.128,Ambient,22,5,0,B,2023-02-04,12
+842,SKU-100841,Nova Smart Team Sport,Sports & Outdoors,Team Sports,Quanta,23.82,37.76,18.5,15.6,12.1,2.63,2.021,Ambient,23,40,0,C,2024-02-09,28
+843,SKU-100842,Corvo Max Team Sport,Sports & Outdoors,Team Sports,Solace,23.05,41.3,16.8,13.3,11.2,2.22,1.448,Ambient,33,31,1,C,2022-04-29,11
+844,SKU-100843,Brightwell Elite Phone Accessorie,Electronics,Phone Accessories,Ionic,22.95,32.77,4.8,3.1,1.6,0.27,0.014,Ambient,3483,32,0,B,2022-07-03,9
+845,SKU-100844,Nova Plus Home Decor,Home & Kitchen,Home Decor,Solace,21.29,39.66,11.2,10.1,7.3,2.39,0.478,Ambient,100,16,0,C,2022-06-08,34
+846,SKU-100845,Kinetic Essential Small Appliance,Home & Kitchen,Small Appliances,Aurelia,116.84,160.04,12.2,9.7,9.2,4.79,0.63,Ambient,76,13,1,B,2023-06-13,4
+847,SKU-100846,Ridge Essential Beverage,Grocery & Gourmet,Beverages,Cedar,23.74,31.54,12.2,8.4,7.2,8.79,0.427,Ambient,112,28,0,A,2023-03-27,28
+848,SKU-100847,Mosaic Eco Medical Supplie,Health & Wellness,Medical Supplies,Eldrin,32.41,77.35,10.5,8.4,6.5,2.81,0.332,Ambient,144,17,0,C,2022-11-17,10
+849,SKU-100848,Quanta Premium Bedding,Home & Kitchen,Bedding,Cedar,16.87,32.67,20.1,13.0,7.8,4.44,1.179,Ambient,40,10,0,A,2022-05-16,12
+850,SKU-100849,Arbor Active Team Sport,Sports & Outdoors,Team Sports,Daybreak,45.73,67.48,15.0,12.6,10.8,3.26,1.181,Ambient,40,6,0,C,2023-09-30,33
+851,SKU-100850,Lumos Smart Camera,Electronics,Cameras,Olive&Co,193.11,219.55,9.0,6.9,4.2,1.92,0.151,Ambient,318,24,1,B,2024-03-18,10
+852,SKU-100851,Ridge Classic Storage & Organization,Home & Kitchen,Storage & Organization,Solace,9.89,17.68,17.1,10.3,7.1,2.15,0.724,Ambient,66,30,0,C,2022-08-01,30
+853,SKU-100852,Ridge Plus Monitor,Electronics,Monitors,Ionic,169.31,205.87,26.8,15.7,5.3,12.43,1.291,Ambient,37,22,0,A,2023-10-29,8
+854,SKU-100853,Corvo Plus Storage & Organization,Home & Kitchen,Storage & Organization,Zephyr,12.26,23.23,19.1,13.5,9.7,3.88,1.447,Ambient,33,5,0,C,2024-03-06,12
+855,SKU-100854,Vivid Prime Board Game,Toys & Games,Board Games,Mosaic,25.93,41.79,12.5,11.7,3.1,2.92,0.262,Ambient,182,21,0,C,2023-07-12,20
+856,SKU-100855,Daybreak Max Storage Furniture,Furniture,Storage Furniture,Pebble,101.68,172.88,45.3,23.4,12.4,70.0,7.607,Oversize,6,16,0,A,2023-07-28,34
+857,SKU-100856,Pebble Lite Small Appliance,Home & Kitchen,Small Appliances,Zephyr,39.36,56.66,13.1,9.9,9.4,4.92,0.705,Ambient,68,6,0,B,2022-06-16,33
+858,SKU-100857,Gleam Select Haircare,Beauty & Personal Care,Haircare,Zephyr,4.66,10.15,10.5,3.7,3.9,1.28,0.088,Ambient,547,31,0,C,2024-08-15,11
+859,SKU-100858,Vivid Studio Building Set,Toys & Games,Building Sets,Brightwell,75.43,117.77,12.3,9.4,4.3,1.91,0.288,Ambient,166,19,0,B,2024-08-14,33
+860,SKU-100859,Kinetic Max Pet Accessorie,Pet Supplies,Pet Accessories,Cedar,38.77,55.58,11.5,6.6,5.1,1.46,0.224,Ambient,214,10,0,A,2023-12-13,12
+861,SKU-100860,Arbor Studio Camping,Sports & Outdoors,Camping,Corvo,76.71,134.61,19.4,9.9,8.0,4.98,0.889,Ambient,53,39,0,B,2024-06-21,26
+862,SKU-100861,Ridge Essential Bedding,Home & Kitchen,Bedding,Kinetic,41.82,75.52,21.5,16.8,9.8,7.97,2.048,Ambient,23,23,0,C,2023-08-31,31
+863,SKU-100862,Ridge Elite Camping,Sports & Outdoors,Camping,Bolt,144.18,231.66,21.6,12.0,9.9,7.39,1.485,Ambient,32,16,0,B,2023-10-24,34
+864,SKU-100863,Nordic Lite Home Decor,Home & Kitchen,Home Decor,Gleam,29.86,54.8,17.6,15.0,13.7,7.84,2.093,Ambient,22,9,0,B,2024-04-09,26
+865,SKU-100864,Jasper Active Car Care,Automotive,Car Care,Jasper,30.69,44.64,10.0,6.2,4.2,2.21,0.151,Hazmat,318,9,0,C,2022-02-08,26
+866,SKU-100865,Nova Smart Women's Apparel,Fashion,Women's Apparel,Gleam,42.84,102.21,13.6,9.4,2.3,1.09,0.17,Ambient,282,36,0,B,2022-08-08,28
+867,SKU-100866,Zephyr Eco Board Game,Toys & Games,Board Games,Jasper,14.57,22.84,12.4,10.7,3.1,2.44,0.238,Ambient,201,7,0,C,2022-07-23,7
+868,SKU-100867,Quanta Smart Phone Accessorie,Electronics,Phone Accessories,Olive&Co,26.57,40.21,4.8,3.8,1.7,0.27,0.018,Ambient,2674,8,0,C,2023-09-25,29
+869,SKU-100868,Fjord Active Women's Apparel,Fashion,Women's Apparel,Wren,39.05,78.07,11.9,8.6,2.0,0.72,0.118,Ambient,405,30,0,A,2022-08-31,30
+870,SKU-100869,Umbra Active Fitness Nutrition,Health & Wellness,Fitness Nutrition,Gleam,32.75,61.24,9.6,7.1,6.7,4.35,0.264,Ambient,181,23,0,C,2023-01-26,31
+871,SKU-100870,Solace Plus Camping,Sports & Outdoors,Camping,Olive&Co,39.45,68.13,20.5,9.8,9.0,6.72,1.046,Ambient,45,1,0,C,2023-05-09,11
+872,SKU-100871,Kinetic Max Footwear,Fashion,Footwear,Mosaic,38.39,68.54,16.0,10.8,7.0,3.66,0.7,Ambient,68,19,0,A,2024-01-14,33
+873,SKU-100872,Solace Lite Dog Food,Pet Supplies,Dog Food,Corvo,46.56,68.5,29.7,21.5,7.4,42.31,2.735,Ambient,17,15,0,C,2023-06-02,28
+874,SKU-100873,Solace Active Medical Supplie,Health & Wellness,Medical Supplies,Nordic,6.02,13.92,10.2,7.5,5.5,2.05,0.243,Ambient,197,4,0,C,2022-01-25,29
+875,SKU-100874,Ridge Ultra Home Decor,Home & Kitchen,Home Decor,Vivid,27.42,45.27,11.7,9.9,8.5,3.7,0.57,Ambient,84,39,1,B,2023-11-18,26
+876,SKU-100875,Eldrin Elite Haircare,Beauty & Personal Care,Haircare,Cedar,11.47,34.75,8.1,2.7,2.6,0.72,0.033,Ambient,1458,28,1,A,2023-03-04,28
+877,SKU-100876,Zephyr Premium Bags & Accessorie,Fashion,Bags & Accessories,Bolt,50.8,94.88,14.2,9.6,4.7,1.52,0.371,Ambient,129,28,0,A,2022-04-24,28
+878,SKU-100877,Zephyr Plus Cycling,Sports & Outdoors,Cycling,Zephyr,5.86,11.48,21.8,12.4,8.9,8.58,1.392,Ambient,34,25,0,C,2023-10-14,5
+879,SKU-100878,Vivid Lite Men's Apparel,Fashion,Men's Apparel,Halcyon,10.13,20.43,14.1,10.6,2.3,1.1,0.199,Ambient,241,27,0,C,2022-09-28,30
+880,SKU-100879,Daybreak Active Bedding,Home & Kitchen,Bedding,Nordic,18.46,33.64,18.8,13.7,8.2,4.72,1.222,Ambient,39,13,0,C,2023-04-06,4
+881,SKU-100880,Fjord Studio Living Room,Furniture,Living Room,Terra,168.02,223.6,42.1,21.1,13.7,33.57,7.043,Oversize,6,35,0,A,2024-08-25,31
+882,SKU-100881,Olive&Co Classic Dog Food,Pet Supplies,Dog Food,Umbra,23.85,35.38,19.5,12.9,5.3,13.87,0.772,Ambient,62,2,0,C,2022-08-26,23
+883,SKU-100882,Fjord Studio Vitamin,Health & Wellness,Vitamins,Olive&Co,20.54,38.33,3.8,2.3,2.6,0.36,0.013,Ambient,3650,8,0,C,2024-06-04,29
+884,SKU-100883,Daybreak Plus Car Care,Automotive,Car Care,Lumos,7.06,11.29,10.9,7.5,4.9,2.8,0.232,Hazmat,207,32,0,C,2023-04-10,9
+885,SKU-100884,Yonder Smart Puzzle,Toys & Games,Puzzles,Eldrin,14.41,22.75,14.3,10.9,3.0,1.69,0.271,Ambient,177,10,1,B,2024-07-21,12
+886,SKU-100885,Quanta Classic Snack,Grocery & Gourmet,Snacks,Wren,7.91,11.14,11.2,9.6,8.0,2.31,0.498,Ambient,96,27,0,C,2024-04-29,30
+887,SKU-100886,Yonder Plus Snack,Grocery & Gourmet,Snacks,Zephyr,9.91,11.84,9.8,8.1,6.1,1.49,0.28,Ambient,171,8,0,C,2024-04-12,29
+888,SKU-100887,Jasper Classic Bags & Accessorie,Fashion,Bags & Accessories,Ionic,14.12,28.57,14.8,10.9,4.8,1.71,0.448,Ambient,107,7,0,C,2022-07-26,7
+889,SKU-100888,Daybreak Classic Footwear,Fashion,Footwear,Jasper,74.42,132.46,12.5,9.1,4.7,2.2,0.309,Ambient,155,10,0,B,2024-03-01,12
+890,SKU-100889,Eldrin Smart Bedding,Home & Kitchen,Bedding,Arbor,47.92,90.42,23.5,14.3,9.9,5.18,1.925,Ambient,24,18,0,B,2023-01-03,33
+891,SKU-100890,Bolt Premium Cycling,Sports & Outdoors,Cycling,Yonder,71.18,108.2,17.5,7.6,6.6,4.46,0.508,Ambient,94,20,0,B,2024-06-29,4
+892,SKU-100891,Zephyr Ultra Storage & Organization,Home & Kitchen,Storage & Organization,Nova,16.44,27.97,19.1,11.4,7.6,3.07,0.958,Ambient,50,20,1,C,2024-09-17,4
+893,SKU-100892,Fjord Pro Bedding,Home & Kitchen,Bedding,Kinetic,45.93,68.26,24.9,16.5,9.0,6.55,2.14,Ambient,22,8,0,B,2023-09-04,29
+894,SKU-100893,Yonder Eco Grooming Tool,Beauty & Personal Care,Grooming Tools,Vivid,13.07,29.16,9.6,5.8,5.0,1.4,0.161,Ambient,297,4,0,B,2024-07-01,29
+895,SKU-100894,Halcyon Select Women's Apparel,Fashion,Women's Apparel,Halcyon,20.87,40.75,10.2,6.8,1.7,0.54,0.068,Ambient,703,15,0,C,2023-06-18,28
+896,SKU-100895,Mosaic Active Small Appliance,Home & Kitchen,Small Appliances,Pebble,60.59,96.61,16.4,12.8,13.2,9.4,1.604,Ambient,29,39,0,A,2022-02-03,26
+897,SKU-100896,Bolt Smart Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Mosaic,18.37,26.11,10.2,9.2,5.8,2.06,0.315,Refrigerated,152,8,0,C,2024-05-23,29
+898,SKU-100897,Olive&Co Select Medical Supplie,Health & Wellness,Medical Supplies,Solace,9.81,17.37,8.5,7.8,5.4,1.7,0.207,Ambient,231,6,0,C,2023-06-15,33
+899,SKU-100898,Daybreak Classic Cookware,Home & Kitchen,Cookware,Quanta,63.06,97.99,11.6,10.2,6.3,4.43,0.431,Ambient,111,2,1,B,2022-02-14,23
+900,SKU-100899,Xenon Max Phone Accessorie,Electronics,Phone Accessories,Aurelia,24.01,29.09,5.8,4.2,1.9,0.3,0.027,Ambient,1792,30,1,C,2022-03-07,30
+901,SKU-100900,Yonder Max Men's Apparel,Fashion,Men's Apparel,Nordic,18.46,32.13,14.0,11.3,2.3,1.14,0.211,Ambient,227,37,0,C,2023-12-25,22
+902,SKU-100901,Eldrin Select Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Mosaic,6.59,9.62,9.6,7.8,6.9,1.88,0.299,Ambient,160,26,0,C,2024-07-12,31
+903,SKU-100902,Daybreak Smart Vitamin,Health & Wellness,Vitamins,Aurelia,6.75,13.93,4.6,3.2,2.7,0.49,0.023,Ambient,2086,12,0,C,2023-11-29,7
+904,SKU-100903,Mosaic Eco Monitor,Electronics,Monitors,Vivid,157.63,185.25,26.2,17.4,5.7,12.14,1.504,Ambient,31,14,0,B,2023-03-18,11
+905,SKU-100904,Bolt Prime Beverage,Grocery & Gourmet,Beverages,Cedar,24.28,32.94,14.8,10.2,8.4,13.08,0.734,Ambient,65,23,0,B,2022-11-03,31
+906,SKU-100905,Eldrin Classic Camera,Electronics,Cameras,Aurelia,189.02,214.79,9.6,7.9,5.3,3.05,0.233,Ambient,206,33,0,B,2023-02-23,28
+907,SKU-100906,Pebble Elite Women's Apparel,Fashion,Women's Apparel,Arbor,34.38,98.99,14.7,10.5,2.5,1.16,0.223,Ambient,214,5,0,B,2022-11-19,12
+908,SKU-100907,Daybreak Select Tools & Equipment,Automotive,Tools & Equipment,Gleam,74.63,115.09,20.3,11.1,10.4,12.57,1.356,Ambient,35,21,0,B,2022-09-30,20
+909,SKU-100908,Lumos Eco Cookware,Home & Kitchen,Cookware,Nordic,31.05,48.6,13.0,11.3,6.8,4.3,0.578,Ambient,83,2,0,C,2022-05-09,23
+910,SKU-100909,Jasper Pro Monitor,Electronics,Monitors,Xenon,169.89,203.17,29.6,21.7,7.4,17.24,2.751,Ambient,17,9,1,A,2023-07-23,26
+911,SKU-100910,Eldrin Select Footwear,Fashion,Footwear,Ionic,68.23,134.91,9.8,6.7,3.9,1.16,0.148,Ambient,323,31,0,B,2022-08-07,11
+912,SKU-100911,Wren Select Camping,Sports & Outdoors,Camping,Pebble,27.37,58.38,17.0,8.4,7.0,4.14,0.578,Ambient,82,25,0,B,2022-05-25,5
+913,SKU-100912,Zephyr Classic Dog Food,Pet Supplies,Dog Food,Terra,14.56,18.72,26.0,18.2,7.4,36.81,2.026,Ambient,23,2,1,B,2022-10-03,23
+914,SKU-100913,Umbra Max Interior Accessorie,Automotive,Interior Accessories,Cedar,13.92,21.36,17.6,12.3,9.9,4.0,1.24,Ambient,38,19,0,C,2024-03-09,33
+915,SKU-100914,Bolt Premium Laptop,Electronics,Laptops,Terra,1271.35,1536.07,13.7,9.1,2.5,3.93,0.18,Ambient,266,15,0,A,2023-07-27,28
+916,SKU-100915,Nova Prime Monitor,Electronics,Monitors,Yonder,214.58,261.98,23.1,15.5,4.8,12.77,0.995,Ambient,48,4,0,A,2023-05-07,29
+917,SKU-100916,Olive&Co Max Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Jasper,24.74,30.29,8.8,5.9,5.9,1.58,0.177,Ambient,270,7,0,C,2023-08-15,7
+918,SKU-100917,Solace Ultra Storage & Organization,Home & Kitchen,Storage & Organization,Kinetic,27.54,48.11,19.9,14.3,10.4,4.25,1.713,Ambient,28,12,0,A,2023-07-21,7
+919,SKU-100918,Halcyon Plus Fitness Nutrition,Health & Wellness,Fitness Nutrition,Arbor,9.97,24.06,11.2,6.8,7.6,4.46,0.335,Ambient,143,24,0,A,2023-05-13,10
+920,SKU-100919,Vivid Smart Team Sport,Sports & Outdoors,Team Sports,Fjord,17.57,33.03,13.0,11.1,9.8,1.98,0.818,Ambient,58,34,0,C,2024-04-20,37
+921,SKU-100920,Gleam Max Camera,Electronics,Cameras,Bolt,226.63,293.32,11.9,8.0,6.0,3.49,0.331,Ambient,145,31,1,A,2024-01-01,11
+922,SKU-100921,Gleam Premium Vitamin,Health & Wellness,Vitamins,Ionic,12.1,21.05,6.7,3.9,3.5,0.77,0.053,Ambient,906,37,0,C,2022-07-05,22
+923,SKU-100922,Arbor Premium Cookware,Home & Kitchen,Cookware,Cedar,32.24,56.9,12.3,10.8,7.5,4.09,0.577,Ambient,83,40,1,C,2024-03-28,28
+924,SKU-100923,Yonder Prime Footwear,Fashion,Footwear,Brightwell,16.84,35.52,14.0,9.1,5.0,2.23,0.369,Ambient,130,35,0,B,2022-06-25,31
+925,SKU-100924,Nova Select Fragrance,Beauty & Personal Care,Fragrance,Eldrin,24.26,46.72,4.8,3.1,2.6,0.4,0.022,Hazmat,2143,13,0,C,2022-03-20,4
+926,SKU-100925,Vivid Max Skincare,Beauty & Personal Care,Skincare,Daybreak,39.64,85.42,5.7,2.9,2.8,0.31,0.027,Ambient,1792,31,0,A,2023-02-25,11
+927,SKU-100926,Kinetic Smart Board Game,Toys & Games,Board Games,Kinetic,32.15,52.07,16.1,11.8,3.8,3.54,0.418,Ambient,114,14,0,C,2023-01-28,11
+928,SKU-100927,Olive&Co Elite Team Sport,Sports & Outdoors,Team Sports,Solace,40.5,62.48,13.8,11.9,9.9,1.73,0.941,Ambient,51,6,0,C,2024-02-26,33
+929,SKU-100928,Ionic Lite Tools & Equipment,Automotive,Tools & Equipment,Pebble,96.4,140.56,16.9,9.6,8.2,10.5,0.77,Ambient,62,27,0,A,2023-11-27,30
+930,SKU-100929,Xenon Ultra Tools & Equipment,Automotive,Tools & Equipment,Bolt,56.77,100.21,19.2,9.1,7.6,9.54,0.768,Ambient,62,17,0,B,2022-02-28,10
+931,SKU-100930,Terra Premium Skincare,Beauty & Personal Care,Skincare,Aurelia,23.22,65.35,8.2,4.1,3.6,0.6,0.07,Ambient,685,30,1,B,2023-05-14,30
+932,SKU-100931,Solace Prime Smart Home,Electronics,Smart Home,Wren,32.24,36.64,6.9,5.8,4.6,1.18,0.107,Ambient,450,9,0,C,2024-03-06,26
+933,SKU-100932,Cedar Classic Outdoor Toy,Toys & Games,Outdoor Toys,Ridge,17.9,24.94,23.7,14.4,11.7,7.42,2.311,Oversize,20,15,0,C,2024-01-04,28
+934,SKU-100933,Gleam Eco Car Care,Automotive,Car Care,Lumos,26.68,39.37,9.6,5.6,4.0,1.43,0.124,Hazmat,385,2,0,B,2023-05-16,23
+935,SKU-100934,Fjord Select Home Decor,Home & Kitchen,Home Decor,Zephyr,24.3,34.09,16.5,12.7,12.1,4.96,1.467,Ambient,32,37,0,C,2023-09-08,22
+936,SKU-100935,Eldrin Studio Bags & Accessorie,Fashion,Bags & Accessories,Cedar,58.66,118.26,13.8,9.6,4.7,1.68,0.36,Ambient,133,12,0,B,2023-07-16,7
+937,SKU-100936,Kinetic Active Footwear,Fashion,Footwear,Ionic,26.59,50.4,16.3,9.7,6.0,3.17,0.549,Ambient,87,14,0,B,2022-08-20,11
+938,SKU-100937,Nova Prime Headphone,Electronics,Headphones,Terra,71.6,95.31,7.8,6.3,2.8,0.71,0.08,Ambient,602,1,1,B,2023-07-19,11
+939,SKU-100938,Umbra Ultra Board Game,Toys & Games,Board Games,Nova,12.82,22.01,12.0,10.6,2.9,1.72,0.213,Ambient,224,38,1,C,2023-11-07,10
+940,SKU-100939,Daybreak Essential Men's Apparel,Fashion,Men's Apparel,Mosaic,20.67,38.77,13.3,9.9,1.9,0.99,0.145,Ambient,331,29,0,A,2022-02-26,31
+941,SKU-100940,Nordic Prime Beverage,Grocery & Gourmet,Beverages,Zephyr,20.76,29.77,12.3,8.9,6.8,8.2,0.431,Ambient,111,17,0,C,2023-11-27,10
+942,SKU-100941,Yonder Lite Vitamin,Health & Wellness,Vitamins,Zephyr,23.2,42.2,5.8,3.4,3.4,0.67,0.039,Ambient,1237,38,0,B,2022-09-07,10
+943,SKU-100942,Gleam Prime Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Kinetic,10.2,15.08,11.8,8.7,6.3,2.65,0.374,Refrigerated,128,27,0,C,2022-01-08,30
+944,SKU-100943,Brightwell Lite Footwear,Fashion,Footwear,Nordic,25.0,48.39,12.3,8.6,4.6,1.92,0.282,Ambient,170,11,0,B,2024-01-26,32
+945,SKU-100944,Lumos Lite Home Decor,Home & Kitchen,Home Decor,Olive&Co,25.02,40.2,18.1,13.6,13.6,7.5,1.937,Ambient,24,20,0,C,2023-01-25,4
+946,SKU-100945,Nordic Eco Puzzle,Toys & Games,Puzzles,Wren,9.44,17.05,8.5,7.1,2.0,0.83,0.07,Ambient,687,9,0,C,2023-02-17,26
+947,SKU-100946,Xenon Ultra Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Vivid,15.05,23.22,9.1,6.9,6.7,1.52,0.243,Ambient,197,32,0,B,2023-09-17,9
+948,SKU-100947,Eldrin Pro Bags & Accessorie,Fashion,Bags & Accessories,Eldrin,15.48,32.18,11.0,8.0,3.5,0.92,0.178,Ambient,269,2,0,C,2023-07-15,23
+949,SKU-100948,Fjord Prime Office Chair,Furniture,Office Chairs,Corvo,123.29,233.22,34.4,31.6,18.6,54.21,11.701,Oversize,4,1,0,B,2023-09-13,11
+950,SKU-100949,Xenon Active Monitor,Electronics,Monitors,Olive&Co,139.15,175.01,29.7,17.6,6.0,15.56,1.815,Ambient,26,5,0,A,2024-08-02,12
+951,SKU-100950,Ionic Studio Fitness Nutrition,Health & Wellness,Fitness Nutrition,Eldrin,19.65,37.68,7.8,5.7,5.6,2.86,0.144,Ambient,333,35,0,C,2023-10-14,31
+952,SKU-100951,Cedar Plus Smart Home,Electronics,Smart Home,Bolt,31.55,37.14,9.6,8.2,6.7,2.49,0.305,Ambient,157,30,0,B,2022-02-16,30
+953,SKU-100952,Quanta Essential Monitor,Electronics,Monitors,Nordic,154.78,184.78,24.0,17.8,5.9,14.6,1.459,Ambient,32,26,0,A,2022-08-11,31
+954,SKU-100953,Lumos Premium Haircare,Beauty & Personal Care,Haircare,Ionic,10.38,21.92,10.9,3.6,3.9,1.29,0.089,Ambient,541,8,0,C,2023-03-26,29
+955,SKU-100954,Vivid Elite Laptop,Electronics,Laptops,Pebble,392.08,547.94,14.9,10.7,2.6,4.87,0.24,Ambient,200,31,1,A,2023-04-18,11
+956,SKU-100955,Bolt Plus Headphone,Electronics,Headphones,Arbor,116.11,145.82,6.9,5.7,2.7,0.41,0.061,Ambient,781,12,0,B,2022-12-28,7
+957,SKU-100956,Cedar Max Phone Accessorie,Electronics,Phone Accessories,Wren,20.06,23.77,6.7,5.1,2.3,0.35,0.045,Ambient,1055,11,0,C,2022-07-04,32
+958,SKU-100957,Ridge Active Footwear,Fashion,Footwear,Arbor,40.97,71.29,11.3,7.4,4.1,1.59,0.198,Ambient,241,27,0,B,2022-04-17,30
+959,SKU-100958,Kinetic Elite Beverage,Grocery & Gourmet,Beverages,Arbor,10.18,13.41,16.6,11.3,10.4,14.8,1.129,Ambient,42,21,0,C,2022-05-25,20
+960,SKU-100959,Terra Active Headphone,Electronics,Headphones,Gleam,23.93,29.71,9.7,8.6,3.7,1.22,0.179,Ambient,268,3,0,B,2024-08-08,35
+961,SKU-100960,Jasper Lite Team Sport,Sports & Outdoors,Team Sports,Ridge,5.67,11.41,12.3,12.7,10.5,1.98,0.949,Ambient,50,13,1,C,2023-01-31,4
+962,SKU-100961,Lumos Prime Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Daybreak,16.39,20.83,11.8,8.7,6.3,2.44,0.374,Refrigerated,128,7,0,C,2024-08-19,7
+963,SKU-100962,Ionic Pro Cookware,Home & Kitchen,Cookware,Ridge,77.89,138.64,14.5,12.9,8.4,5.27,0.909,Ambient,52,5,0,A,2022-12-01,12
+964,SKU-100963,Bolt Studio Monitor,Electronics,Monitors,Vivid,248.57,337.41,25.2,18.0,5.8,11.14,1.522,Ambient,31,23,0,A,2022-11-08,31
+965,SKU-100964,Fjord Lite Medical Supplie,Health & Wellness,Medical Supplies,Pebble,44.1,95.63,9.7,7.1,6.1,2.07,0.243,Ambient,197,7,0,B,2023-05-05,7
+966,SKU-100965,Halcyon Active Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Eldrin,5.28,7.05,11.5,8.2,6.5,2.01,0.355,Refrigerated,135,6,0,C,2024-08-04,33
+967,SKU-100966,Corvo Classic Haircare,Beauty & Personal Care,Haircare,Umbra,16.59,36.92,9.5,3.8,4.0,1.39,0.084,Ambient,574,25,0,C,2023-07-18,5
+968,SKU-100967,Mosaic Elite Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Vivid,7.33,9.41,8.9,7.3,5.3,1.62,0.199,Refrigerated,240,6,0,C,2022-02-05,33
+969,SKU-100968,Wren Lite Smart Home,Electronics,Smart Home,Eldrin,43.34,52.2,7.7,6.7,5.6,1.19,0.167,Ambient,287,18,0,C,2022-09-29,33
+970,SKU-100969,Pebble Plus Women's Apparel,Fashion,Women's Apparel,Halcyon,11.75,20.92,12.7,9.6,2.3,0.7,0.162,Ambient,295,8,0,C,2024-09-07,29
+971,SKU-100970,Nordic Eco Puzzle,Toys & Games,Puzzles,Brightwell,19.66,34.87,12.7,11.2,2.8,2.06,0.23,Ambient,208,33,0,C,2022-06-04,28
+972,SKU-100971,Aurelia Essential Bedding,Home & Kitchen,Bedding,Bolt,38.55,63.43,21.3,15.1,8.5,5.0,1.582,Ambient,30,16,1,B,2024-04-15,34
+973,SKU-100972,Solace Plus Snack,Grocery & Gourmet,Snacks,Solace,4.94,7.13,11.0,9.5,6.4,2.49,0.387,Ambient,124,5,0,C,2024-07-17,12
+974,SKU-100973,Nordic Classic Skincare,Beauty & Personal Care,Skincare,Corvo,24.78,45.17,5.4,2.2,2.5,0.23,0.017,Ambient,2792,19,0,C,2022-08-03,33
+975,SKU-100974,Lumos Lite Snack,Grocery & Gourmet,Snacks,Aurelia,3.52,5.38,10.9,9.3,6.2,1.86,0.364,Ambient,131,36,0,C,2023-07-13,28
+976,SKU-100975,Nordic Essential Bags & Accessorie,Fashion,Bags & Accessories,Daybreak,21.27,46.15,13.6,10.0,4.7,1.36,0.37,Ambient,129,6,0,C,2023-08-23,33
+977,SKU-100976,Pebble Smart Men's Apparel,Fashion,Men's Apparel,Solace,22.53,48.41,9.1,7.3,1.6,0.47,0.062,Ambient,780,31,0,C,2024-03-04,11
+978,SKU-100977,Kinetic Essential Small Appliance,Home & Kitchen,Small Appliances,Umbra,70.06,147.57,17.8,13.2,13.5,9.46,1.836,Ambient,26,32,1,B,2024-03-09,9
+979,SKU-100978,Kinetic Plus Small Appliance,Home & Kitchen,Small Appliances,Jasper,90.93,125.41,18.4,13.4,14.5,11.47,2.069,Ambient,23,21,0,B,2022-03-02,20
+980,SKU-100979,Umbra Studio Snack,Grocery & Gourmet,Snacks,Ridge,8.7,13.87,7.4,5.7,4.7,1.11,0.115,Ambient,418,7,0,C,2022-11-16,7
+981,SKU-100980,Brightwell Max Camera,Electronics,Cameras,Yonder,836.38,1010.41,11.6,8.3,6.8,4.45,0.379,Ambient,126,33,0,A,2024-07-29,28
+982,SKU-100981,Bolt Pro Smart Home,Electronics,Smart Home,Fjord,58.19,72.85,7.5,6.3,5.1,1.08,0.139,Ambient,344,3,0,B,2022-12-20,35
+983,SKU-100982,Kinetic Plus Cookware,Home & Kitchen,Cookware,Zephyr,72.93,100.34,10.1,9.5,5.9,3.43,0.328,Ambient,146,5,0,B,2022-09-03,12
+984,SKU-100983,Kinetic Lite Cookware,Home & Kitchen,Cookware,Jasper,21.98,34.96,10.1,10.0,5.8,3.34,0.339,Ambient,141,38,0,B,2023-09-21,10
+985,SKU-100984,Halcyon Smart Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Daybreak,11.77,16.43,10.1,9.7,7.3,2.28,0.414,Refrigerated,115,31,0,C,2022-07-15,11
+986,SKU-100985,Mosaic Essential Women's Apparel,Fashion,Women's Apparel,Pebble,14.52,29.48,14.2,9.6,2.3,0.98,0.181,Ambient,264,7,0,C,2022-05-28,7
+987,SKU-100986,Jasper Studio Tools & Equipment,Automotive,Tools & Equipment,Yonder,110.82,183.94,18.5,9.7,7.7,11.68,0.8,Ambient,60,20,0,A,2024-03-08,4
+988,SKU-100987,Kinetic Lite Monitor,Electronics,Monitors,Nova,248.89,282.83,28.4,21.6,6.8,17.78,2.414,Ambient,19,5,0,A,2022-04-29,12
+989,SKU-100988,Jasper Plus Team Sport,Sports & Outdoors,Team Sports,Daybreak,14.43,23.92,12.1,9.5,8.0,1.52,0.532,Ambient,90,13,0,C,2024-06-10,4
+990,SKU-100989,Ridge Studio Footwear,Fashion,Footwear,Quanta,31.54,68.06,10.4,7.5,4.1,1.41,0.185,Ambient,259,33,0,C,2022-09-07,28
+991,SKU-100990,Kinetic Premium Women's Apparel,Fashion,Women's Apparel,Solace,10.9,20.33,10.9,7.1,1.8,0.5,0.081,Ambient,595,18,0,C,2022-04-17,33
+992,SKU-100991,Fjord Studio Fitness Nutrition,Health & Wellness,Fitness Nutrition,Jasper,10.11,27.82,12.4,6.9,7.6,4.16,0.376,Ambient,127,37,0,A,2024-01-12,22
+993,SKU-100992,Eldrin Classic Car Care,Automotive,Car Care,Pebble,12.66,21.6,9.5,4.9,3.3,1.25,0.089,Hazmat,539,35,0,C,2022-06-26,31
+994,SKU-100993,Gleam Smart Fitness Nutrition,Health & Wellness,Fitness Nutrition,Vivid,14.07,28.45,10.5,7.5,6.8,4.41,0.31,Ambient,154,31,0,C,2023-01-02,11
+995,SKU-100994,Zephyr Classic Cookware,Home & Kitchen,Cookware,Umbra,27.12,50.5,15.3,11.3,7.6,6.23,0.76,Ambient,63,24,0,C,2022-12-18,10
+996,SKU-100995,Ridge Smart Small Appliance,Home & Kitchen,Small Appliances,Xenon,92.71,160.78,16.3,14.4,13.9,10.19,1.888,Ambient,25,28,0,B,2023-05-23,28
+997,SKU-100996,Arbor Eco Team Sport,Sports & Outdoors,Team Sports,Lumos,44.34,74.67,18.3,16.7,13.8,2.59,2.441,Ambient,19,12,0,C,2023-04-19,7
+998,SKU-100997,Aurelia Select Storage & Organization,Home & Kitchen,Storage & Organization,Corvo,5.96,10.2,14.3,10.9,7.6,2.9,0.686,Ambient,70,5,0,C,2022-07-15,12
+999,SKU-100998,Mosaic Lite Puzzle,Toys & Games,Puzzles,Wren,14.34,22.97,10.4,8.4,2.6,1.25,0.131,Ambient,365,10,0,B,2022-08-23,12
+1000,SKU-100999,Lumos Plus Fragrance,Beauty & Personal Care,Fragrance,Umbra,16.4,33.82,6.8,4.7,3.3,0.69,0.061,Hazmat,786,22,0,C,2022-07-14,8
+1001,SKU-101000,Solace Select Fragrance,Beauty & Personal Care,Fragrance,Ridge,17.18,38.15,6.2,3.6,3.1,0.54,0.04,Hazmat,1198,32,0,C,2022-02-25,9
+1002,SKU-101001,Kinetic Plus Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Kinetic,5.51,7.47,8.4,7.4,5.0,1.41,0.18,Refrigerated,266,27,0,C,2023-10-13,30
+1003,SKU-101002,Yonder Essential Outdoor Toy,Toys & Games,Outdoor Toys,Solace,54.35,121.99,26.0,16.6,11.1,8.32,2.772,Oversize,17,18,0,A,2023-04-16,33
+1004,SKU-101003,Kinetic Ultra Phone Accessorie,Electronics,Phone Accessories,Cedar,14.61,20.21,4.3,3.0,1.6,0.18,0.012,Ambient,4000,10,1,C,2022-04-19,12
+1005,SKU-101004,Ionic Select Headphone,Electronics,Headphones,Gleam,112.61,136.15,6.0,6.0,2.4,0.31,0.05,Ambient,960,28,1,A,2022-11-28,28
+1006,SKU-101005,Fjord Premium Fitness Equipment,Sports & Outdoors,Fitness Equipment,Cedar,23.11,37.03,27.8,12.5,9.4,14.76,1.89,Oversize,25,17,0,C,2023-10-30,10
+1007,SKU-101006,Zephyr Essential Bags & Accessorie,Fashion,Bags & Accessories,Quanta,74.62,157.29,12.8,8.2,4.6,0.94,0.279,Ambient,171,23,0,B,2022-10-13,31
+1008,SKU-101007,Eldrin Smart Bedding,Home & Kitchen,Bedding,Nova,38.73,58.16,20.1,12.3,7.4,5.01,1.059,Ambient,45,4,0,B,2023-02-05,29
+1009,SKU-101008,Cedar Elite Footwear,Fashion,Footwear,Quanta,27.66,61.75,16.2,9.9,5.3,2.92,0.492,Ambient,97,21,0,B,2024-01-14,20
+1010,SKU-101009,Eldrin Active Snack,Grocery & Gourmet,Snacks,Solace,4.57,7.14,7.6,6.5,4.5,0.87,0.129,Ambient,373,15,0,C,2023-11-03,28
+1011,SKU-101010,Umbra Elite Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Mosaic,9.54,13.32,10.4,7.5,5.9,2.16,0.266,Refrigerated,180,17,0,C,2023-12-02,10
+1012,SKU-101011,Brightwell Eco Fragrance,Beauty & Personal Care,Fragrance,Lumos,69.4,153.97,5.4,3.4,2.5,0.52,0.027,Hazmat,1807,3,0,B,2023-01-17,35
+1013,SKU-101012,Wren Active Women's Apparel,Fashion,Women's Apparel,Yonder,19.33,40.96,14.5,11.3,2.5,0.93,0.237,Ambient,202,17,0,B,2023-04-29,10
+1014,SKU-101013,Lumos Studio Storage & Organization,Home & Kitchen,Storage & Organization,Daybreak,13.28,21.46,22.5,15.0,8.6,3.57,1.68,Ambient,28,13,0,C,2024-04-26,4
+1015,SKU-101014,Kinetic Eco Skincare,Beauty & Personal Care,Skincare,Olive&Co,17.91,41.85,4.8,2.7,2.4,0.34,0.018,Ambient,2666,40,0,B,2024-05-22,28
+1016,SKU-101015,Daybreak Prime Home Decor,Home & Kitchen,Home Decor,Umbra,45.42,71.98,16.7,15.3,11.9,5.69,1.76,Ambient,27,14,0,B,2022-02-25,11
+1017,SKU-101016,Solace Smart Fragrance,Beauty & Personal Care,Fragrance,Quanta,69.83,146.54,5.5,4.1,2.7,0.68,0.035,Hazmat,1362,21,0,A,2024-04-18,20
+1018,SKU-101017,Solace Prime Board Game,Toys & Games,Board Games,Jasper,11.33,18.87,12.7,9.1,2.8,1.7,0.187,Ambient,256,5,0,C,2024-06-12,12
+1019,SKU-101018,Solace Smart Laptop,Electronics,Laptops,Corvo,573.94,652.2,14.2,11.6,2.8,4.59,0.267,Ambient,179,29,1,A,2024-07-31,31
+1020,SKU-101019,Halcyon Elite Phone Accessorie,Electronics,Phone Accessories,Cedar,23.3,27.78,4.9,3.1,1.7,0.17,0.015,Ambient,3212,13,1,C,2022-09-26,4
+1021,SKU-101020,Corvo Classic Small Appliance,Home & Kitchen,Small Appliances,Corvo,24.39,36.6,15.8,13.5,14.6,9.3,1.802,Ambient,26,19,0,C,2023-05-17,33
+1022,SKU-101021,Brightwell Select Office Chair,Furniture,Office Chairs,Fjord,87.52,145.02,23.9,19.1,13.5,31.96,3.566,Oversize,13,28,0,B,2022-02-12,28
+1023,SKU-101022,Brightwell Premium Cycling,Sports & Outdoors,Cycling,Lumos,72.58,120.22,21.1,10.9,8.7,7.24,1.158,Ambient,41,7,0,B,2022-04-20,7
+1024,SKU-101023,Zephyr Plus Cookware,Home & Kitchen,Cookware,Ionic,25.13,41.25,14.8,13.8,8.9,6.48,1.052,Ambient,45,16,1,C,2023-07-17,34
+1025,SKU-101024,Kinetic Lite Office Chair,Furniture,Office Chairs,Arbor,76.9,144.7,20.3,21.1,11.8,20.94,2.925,Oversize,16,26,0,A,2022-07-26,31
+1026,SKU-101025,Vivid Plus Bags & Accessorie,Fashion,Bags & Accessories,Xenon,13.92,24.87,13.3,9.3,4.9,1.1,0.351,Ambient,136,36,0,C,2022-08-13,28
+1027,SKU-101026,Gleam Studio Bags & Accessorie,Fashion,Bags & Accessories,Eldrin,16.92,31.41,16.0,9.8,5.7,1.64,0.517,Ambient,92,6,0,C,2022-10-24,33
+1028,SKU-101027,Pebble Smart Dog Food,Pet Supplies,Dog Food,Xenon,13.68,19.55,32.1,19.1,7.3,37.07,2.59,Ambient,18,18,0,C,2023-04-05,33
+1029,SKU-101028,Gleam Plus Laptop,Electronics,Laptops,Gleam,727.78,848.93,11.3,8.7,2.1,2.9,0.119,Ambient,401,2,0,A,2022-06-02,23
+1030,SKU-101029,Olive&Co Max Small Appliance,Home & Kitchen,Small Appliances,Cedar,23.31,33.51,12.6,11.1,11.8,5.87,0.955,Ambient,50,24,0,B,2024-03-13,10
+1031,SKU-101030,Zephyr Essential Grooming Tool,Beauty & Personal Care,Grooming Tools,Halcyon,36.11,65.69,10.0,5.6,4.9,1.2,0.159,Ambient,302,26,0,C,2023-10-31,31
+1032,SKU-101031,Brightwell Premium Small Appliance,Home & Kitchen,Small Appliances,Halcyon,21.17,33.28,16.3,13.8,13.1,7.57,1.705,Ambient,28,38,0,C,2024-03-02,10
+1033,SKU-101032,Zephyr Active Board Game,Toys & Games,Board Games,Wren,29.66,55.23,11.4,9.4,2.5,1.53,0.155,Ambient,309,34,0,B,2024-07-15,37
+1034,SKU-101033,Bolt Essential Small Appliance,Home & Kitchen,Small Appliances,Jasper,51.36,92.29,12.3,9.4,10.6,6.42,0.709,Ambient,67,30,1,B,2023-08-24,30
+1035,SKU-101034,Vivid Max Smart Home,Electronics,Smart Home,Gleam,36.65,47.28,6.6,5.8,4.9,1.1,0.109,Ambient,442,40,0,C,2022-12-28,28
+1036,SKU-101035,Vivid Elite Small Appliance,Home & Kitchen,Small Appliances,Terra,47.44,71.78,17.9,14.2,15.2,12.63,2.236,Ambient,21,29,0,C,2024-09-04,31
+1037,SKU-101036,Fjord Smart Footwear,Fashion,Footwear,Zephyr,19.35,38.28,12.5,8.2,4.0,1.44,0.237,Ambient,202,36,0,B,2023-07-20,28
+1038,SKU-101037,Eldrin Classic Cookware,Home & Kitchen,Cookware,Vivid,20.41,34.3,16.4,12.4,9.0,6.16,1.059,Ambient,45,1,0,C,2023-04-09,11
+1039,SKU-101038,Ionic Eco Monitor,Electronics,Monitors,Mosaic,172.69,237.26,26.7,16.3,6.0,12.35,1.511,Ambient,31,35,0,A,2023-02-21,31
+1040,SKU-101039,Nova Classic Medical Supplie,Health & Wellness,Medical Supplies,Eldrin,46.61,82.46,8.8,8.0,5.5,1.92,0.224,Ambient,214,25,0,B,2022-02-09,5
+1041,SKU-101040,Corvo Studio Home Decor,Home & Kitchen,Home Decor,Halcyon,13.11,22.35,15.9,12.5,10.2,5.17,1.173,Ambient,40,31,0,C,2024-08-13,11
+1042,SKU-101041,Nova Max Men's Apparel,Fashion,Men's Apparel,Quanta,13.16,26.27,9.2,6.6,1.5,0.57,0.053,Ambient,910,34,0,C,2024-03-30,37
+1043,SKU-101042,Quanta Pro Laptop,Electronics,Laptops,Cedar,755.34,1083.59,17.2,10.9,2.5,6.84,0.271,Ambient,176,4,0,A,2023-12-01,29
+1044,SKU-101043,Mosaic Prime Men's Apparel,Fashion,Men's Apparel,Xenon,20.38,40.27,12.7,10.1,2.3,0.84,0.171,Ambient,281,14,0,C,2022-08-10,11
+1045,SKU-101044,Mosaic Select Storage & Organization,Home & Kitchen,Storage & Organization,Bolt,14.25,23.8,20.8,13.0,8.6,3.25,1.346,Ambient,35,16,1,C,2024-07-17,34
+1046,SKU-101045,Corvo Essential Camping,Sports & Outdoors,Camping,Arbor,29.89,45.37,27.1,12.0,9.9,8.57,1.863,Ambient,25,25,0,A,2022-06-26,5
+1047,SKU-101046,Ionic Ultra Small Appliance,Home & Kitchen,Small Appliances,Brightwell,104.05,152.86,16.0,12.4,11.5,6.85,1.32,Ambient,36,34,0,B,2022-08-30,37
+1048,SKU-101047,Gleam Prime Fitness Nutrition,Health & Wellness,Fitness Nutrition,Zephyr,9.19,20.96,7.3,4.7,4.4,2.17,0.087,Ambient,549,25,0,C,2022-03-12,5
+1049,SKU-101048,Daybreak Essential Dog Food,Pet Supplies,Dog Food,Eldrin,31.96,51.89,27.2,20.5,7.1,38.08,2.291,Ambient,20,33,0,C,2022-10-16,28
+1050,SKU-101049,Bolt Lite Smart Home,Electronics,Smart Home,Yonder,126.45,154.24,7.1,5.7,4.6,1.2,0.108,Ambient,445,24,0,B,2022-11-24,10
+1051,SKU-101050,Vivid Essential Camera,Electronics,Cameras,Zephyr,287.09,363.35,10.3,8.1,6.0,4.23,0.29,Ambient,165,28,0,A,2024-03-05,28
+1052,SKU-101051,Olive&Co Ultra Camera,Electronics,Cameras,Corvo,249.09,336.53,8.4,6.0,4.4,1.58,0.128,Ambient,374,19,1,A,2022-11-23,33
+1053,SKU-101052,Yonder Elite Camping,Sports & Outdoors,Camping,Yonder,37.84,59.6,17.5,8.4,7.0,3.64,0.595,Ambient,80,4,0,B,2024-08-13,29
+1054,SKU-101053,Terra Active Camera,Electronics,Cameras,Jasper,1003.72,1140.59,8.4,7.4,5.5,2.92,0.198,Ambient,242,3,1,A,2022-10-30,35
+1055,SKU-101054,Brightwell Smart Medical Supplie,Health & Wellness,Medical Supplies,Halcyon,36.07,78.8,8.1,6.3,4.7,1.12,0.139,Ambient,345,13,0,B,2023-06-09,4
+1056,SKU-101055,Nova Elite Snack,Grocery & Gourmet,Snacks,Zephyr,7.78,10.5,12.4,9.2,8.1,2.88,0.535,Ambient,89,6,0,C,2023-08-17,33
+1057,SKU-101056,Lumos Lite Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Bolt,6.01,9.51,8.1,6.1,4.8,1.3,0.137,Refrigerated,349,12,0,C,2024-04-09,7
+1058,SKU-101057,Arbor Max Haircare,Beauty & Personal Care,Haircare,Jasper,8.73,15.97,8.9,3.2,3.7,1.24,0.061,Ambient,787,31,0,C,2024-01-22,11
+1059,SKU-101058,Nova Plus Tools & Equipment,Automotive,Tools & Equipment,Daybreak,47.16,77.36,13.2,8.3,6.1,4.99,0.387,Ambient,124,15,0,B,2024-05-17,28
+1060,SKU-101059,Olive&Co Classic Headphone,Electronics,Headphones,Nordic,150.6,180.29,8.0,6.1,2.8,0.45,0.079,Ambient,607,34,0,B,2024-07-26,37
+1061,SKU-101060,Cedar Essential Women's Apparel,Fashion,Women's Apparel,Yonder,51.42,99.04,12.9,8.8,2.1,0.75,0.138,Ambient,347,25,0,A,2022-04-28,5
+1062,SKU-101061,Aurelia Classic Home Decor,Home & Kitchen,Home Decor,Kinetic,22.83,43.81,11.8,10.4,7.9,2.76,0.561,Ambient,85,9,1,C,2022-04-05,26
+1063,SKU-101062,Daybreak Essential Pet Accessorie,Pet Supplies,Pet Accessories,Umbra,28.44,42.23,12.3,8.5,7.2,2.53,0.436,Ambient,110,21,0,B,2023-03-26,20
+1064,SKU-101063,Nordic Studio Grooming Tool,Beauty & Personal Care,Grooming Tools,Umbra,32.5,69.51,9.2,6.1,5.1,1.62,0.166,Ambient,289,2,1,B,2022-05-31,23
+1065,SKU-101064,Terra Premium Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Wren,8.93,11.4,9.0,6.9,7.4,1.54,0.266,Ambient,180,40,0,C,2023-05-09,28
+1066,SKU-101065,Solace Lite Cookware,Home & Kitchen,Cookware,Daybreak,70.47,133.84,13.1,11.2,8.1,5.85,0.688,Ambient,69,38,1,A,2023-08-13,10
+1067,SKU-101066,Gleam Active Car Care,Automotive,Car Care,Umbra,7.01,11.19,10.3,6.1,4.0,1.94,0.145,Hazmat,330,8,0,C,2022-10-04,29
+1068,SKU-101067,Olive&Co Smart Bags & Accessorie,Fashion,Bags & Accessories,Vivid,23.51,45.57,15.4,10.9,4.6,1.55,0.447,Ambient,107,11,0,C,2022-04-09,32
+1069,SKU-101068,Solace Ultra Bags & Accessorie,Fashion,Bags & Accessories,Eldrin,29.52,50.35,14.6,9.7,5.2,1.58,0.426,Ambient,112,34,0,C,2024-08-22,37
+1070,SKU-101069,Xenon Smart Car Care,Automotive,Car Care,Aurelia,26.41,44.49,10.9,6.4,4.3,2.52,0.174,Hazmat,276,15,0,C,2023-01-06,28
+1071,SKU-101070,Arbor Premium Women's Apparel,Fashion,Women's Apparel,Terra,22.69,44.67,10.7,7.6,1.7,0.56,0.08,Ambient,599,5,0,C,2024-04-19,12
+1072,SKU-101071,Daybreak Active Women's Apparel,Fashion,Women's Apparel,Aurelia,10.69,23.99,9.0,7.0,1.8,0.4,0.066,Ambient,731,10,0,B,2023-09-17,12
+1073,SKU-101072,Mosaic Plus Grooming Tool,Beauty & Personal Care,Grooming Tools,Eldrin,8.61,20.01,8.4,5.7,4.4,1.53,0.122,Ambient,393,2,0,C,2023-10-25,23
+1074,SKU-101073,Daybreak Lite Camera,Electronics,Cameras,Cedar,257.13,317.89,7.2,5.7,4.0,1.82,0.095,Ambient,505,32,1,A,2024-02-20,9
+1075,SKU-101074,Jasper Smart Home Decor,Home & Kitchen,Home Decor,Halcyon,36.06,50.33,16.4,15.3,13.5,6.4,1.96,Ambient,24,13,1,C,2022-09-23,4
+1076,SKU-101075,Jasper Elite Cookware,Home & Kitchen,Cookware,Halcyon,122.65,179.04,13.5,10.9,7.6,5.77,0.647,Ambient,74,8,1,B,2022-08-06,29
+1077,SKU-101076,Brightwell Studio Smart Home,Electronics,Smart Home,Eldrin,28.19,36.12,6.5,6.0,5.1,1.29,0.115,Ambient,417,25,1,A,2024-09-23,5
+1078,SKU-101077,Nordic Essential Medical Supplie,Health & Wellness,Medical Supplies,Nova,51.35,104.26,7.9,6.5,5.2,1.58,0.155,Ambient,310,12,0,A,2023-10-30,7
+1079,SKU-101078,Daybreak Smart Grooming Tool,Beauty & Personal Care,Grooming Tools,Corvo,15.86,29.93,8.5,5.5,4.2,1.57,0.114,Ambient,422,37,0,B,2022-10-20,22
+1080,SKU-101079,Cedar Classic Men's Apparel,Fashion,Men's Apparel,Arbor,5.79,16.89,11.8,9.2,2.0,0.8,0.126,Ambient,382,35,0,B,2023-10-08,31
+1081,SKU-101080,Halcyon Prime Women's Apparel,Fashion,Women's Apparel,Fjord,7.18,16.28,9.0,6.7,1.5,0.4,0.052,Ambient,917,25,0,C,2023-01-29,5
+1082,SKU-101081,Mosaic Lite Footwear,Fashion,Footwear,Lumos,53.77,103.27,16.9,11.7,6.6,3.55,0.755,Ambient,63,4,0,B,2024-05-09,29
+1083,SKU-101082,Quanta Elite Cycling,Sports & Outdoors,Cycling,Solace,6.85,10.79,20.0,8.9,6.9,4.93,0.711,Ambient,67,2,0,B,2023-05-24,23
+1084,SKU-101083,Eldrin Premium Dog Food,Pet Supplies,Dog Food,Jasper,10.79,16.0,29.3,19.4,6.3,34.3,2.072,Ambient,23,19,0,C,2022-11-10,33
+1085,SKU-101084,Eldrin Studio Dog Food,Pet Supplies,Dog Food,Olive&Co,11.32,15.66,26.3,16.9,7.1,30.39,1.826,Ambient,26,31,0,C,2023-11-22,11
+1086,SKU-101085,Nordic Classic Women's Apparel,Fashion,Women's Apparel,Aurelia,9.87,17.07,14.0,11.0,2.6,0.98,0.232,Ambient,207,20,0,C,2024-01-21,4
+1087,SKU-101086,Arbor Eco Home Decor,Home & Kitchen,Home Decor,Brightwell,31.42,48.51,10.7,10.4,7.7,3.0,0.496,Ambient,96,36,0,C,2023-01-08,28
+1088,SKU-101087,Nova Active Footwear,Fashion,Footwear,Daybreak,24.11,45.11,13.3,10.0,5.7,2.49,0.439,Ambient,109,20,0,C,2024-01-22,4
+1089,SKU-101088,Zephyr Eco Grooming Tool,Beauty & Personal Care,Grooming Tools,Ionic,56.41,112.55,10.1,6.2,5.3,1.92,0.192,Ambient,249,14,1,A,2022-08-23,11
+1090,SKU-101089,Eldrin Studio Bags & Accessorie,Fashion,Bags & Accessories,Lumos,60.15,110.66,11.1,8.6,4.0,0.91,0.221,Ambient,217,3,0,B,2022-08-28,35
+1091,SKU-101090,Aurelia Max Team Sport,Sports & Outdoors,Team Sports,Halcyon,22.84,40.06,13.4,10.8,9.7,1.56,0.812,Ambient,59,3,0,C,2024-04-06,35
+1092,SKU-101091,Terra Elite Fragrance,Beauty & Personal Care,Fragrance,Xenon,34.64,71.16,5.6,3.3,2.5,0.55,0.027,Hazmat,1795,30,1,C,2023-09-14,30
+1093,SKU-101092,Pebble Essential Home Decor,Home & Kitchen,Home Decor,Xenon,8.75,16.05,14.2,11.8,10.2,4.52,0.989,Ambient,48,11,1,C,2022-02-05,32
+1094,SKU-101093,Olive&Co Select Men's Apparel,Fashion,Men's Apparel,Cedar,12.75,30.39,14.3,10.3,2.5,1.51,0.213,Ambient,225,17,0,C,2023-11-07,10
+1095,SKU-101094,Arbor Premium Women's Apparel,Fashion,Women's Apparel,Nova,18.2,35.49,10.6,7.4,1.9,0.66,0.086,Ambient,556,6,0,C,2022-11-02,33
+1096,SKU-101095,Solace Premium Smart Home,Electronics,Smart Home,Corvo,21.8,27.23,7.9,7.5,5.7,1.61,0.195,Ambient,245,35,1,C,2022-10-02,31
+1097,SKU-101096,Yonder Classic Cookware,Home & Kitchen,Cookware,Ridge,19.61,30.61,13.9,12.0,8.4,6.0,0.811,Ambient,59,30,1,C,2023-03-01,30
+1098,SKU-101097,Daybreak Prime Outdoor Toy,Toys & Games,Outdoor Toys,Brightwell,30.16,62.15,27.4,15.8,12.2,9.84,3.056,Oversize,15,37,0,C,2023-03-28,22
+1099,SKU-101098,Cedar Eco Women's Apparel,Fashion,Women's Apparel,Corvo,46.8,90.38,10.6,6.8,1.5,0.39,0.063,Ambient,767,14,0,A,2024-06-10,11
+1100,SKU-101099,Corvo Pro Small Appliance,Home & Kitchen,Small Appliances,Solace,25.09,41.65,16.2,15.5,15.4,9.55,2.238,Ambient,21,3,0,C,2023-03-12,35
+1101,SKU-101100,Aurelia Pro Fragrance,Beauty & Personal Care,Fragrance,Kinetic,18.94,50.27,7.0,4.4,3.1,0.73,0.055,Hazmat,868,39,0,C,2022-10-24,26
+1102,SKU-101101,Bolt Elite Snack,Grocery & Gourmet,Snacks,Fjord,7.43,9.43,11.8,10.6,7.8,2.02,0.565,Ambient,85,26,0,C,2024-02-13,31
+1103,SKU-101102,Zephyr Classic Bedding,Home & Kitchen,Bedding,Quanta,92.71,141.08,21.3,14.6,8.1,4.17,1.458,Ambient,32,32,0,B,2023-06-27,9
+1104,SKU-101103,Corvo Essential Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Wren,8.35,11.09,11.7,9.9,7.4,2.39,0.496,Refrigerated,96,27,1,C,2022-01-01,30
+1105,SKU-101104,Eldrin Classic Dog Food,Pet Supplies,Dog Food,Xenon,62.5,85.14,22.3,16.8,5.8,24.18,1.257,Ambient,38,4,0,B,2023-09-25,29
+1106,SKU-101105,Zephyr Plus Fitness Equipment,Sports & Outdoors,Fitness Equipment,Quanta,13.23,20.53,34.9,16.1,12.0,29.14,3.902,Oversize,12,13,0,C,2023-05-17,4
+1107,SKU-101106,Eldrin Premium Team Sport,Sports & Outdoors,Team Sports,Ionic,18.29,27.28,12.6,11.0,7.7,1.61,0.618,Ambient,77,35,0,C,2023-07-29,31
+1108,SKU-101107,Zephyr Classic Headphone,Electronics,Headphones,Cedar,24.92,33.77,9.1,7.5,3.3,0.93,0.13,Ambient,368,19,0,C,2022-07-04,33
+1109,SKU-101108,Kinetic Classic Pet Accessorie,Pet Supplies,Pet Accessories,Bolt,7.6,13.66,9.9,6.5,4.7,1.75,0.175,Ambient,274,25,0,C,2023-04-24,5
+1110,SKU-101109,Pebble Studio Women's Apparel,Fashion,Women's Apparel,Ionic,46.09,96.04,12.4,8.4,2.0,0.81,0.121,Ambient,398,38,0,B,2023-10-09,10
+1111,SKU-101110,Fjord Essential Dog Food,Pet Supplies,Dog Food,Corvo,14.36,21.3,27.8,16.8,6.1,27.71,1.649,Ambient,29,2,0,C,2023-11-08,23
+1112,SKU-101111,Daybreak Classic Grooming Tool,Beauty & Personal Care,Grooming Tools,Pebble,13.1,29.5,6.8,4.1,3.3,0.67,0.053,Ambient,901,9,1,C,2023-11-12,26
+1113,SKU-101112,Ridge Max Phone Accessorie,Electronics,Phone Accessories,Wren,19.93,23.74,4.9,3.2,1.5,0.25,0.014,Ambient,3526,5,0,C,2024-09-24,12
+1114,SKU-101113,Eldrin Elite Headphone,Electronics,Headphones,Halcyon,24.47,28.8,8.8,6.6,2.8,0.65,0.094,Ambient,510,7,0,C,2023-05-17,7
+1115,SKU-101114,Wren Plus Board Game,Toys & Games,Board Games,Wren,12.36,18.01,12.0,10.9,3.1,2.62,0.235,Ambient,204,1,0,C,2023-03-06,11
+1116,SKU-101115,Jasper Active Fragrance,Beauty & Personal Care,Fragrance,Nova,36.46,78.39,5.8,4.1,3.1,0.67,0.043,Hazmat,1125,26,0,B,2023-06-27,31
+1117,SKU-101116,Terra Smart Phone Accessorie,Electronics,Phone Accessories,Zephyr,24.93,34.37,6.9,4.4,2.4,0.43,0.042,Ambient,1138,25,0,C,2022-11-25,5
+1118,SKU-101117,Ridge Lite Puzzle,Toys & Games,Puzzles,Fjord,15.66,29.77,8.4,7.7,2.2,0.76,0.082,Ambient,582,21,0,C,2022-11-12,20
+1119,SKU-101118,Arbor Ultra Medical Supplie,Health & Wellness,Medical Supplies,Ionic,7.94,21.74,11.4,9.2,6.5,2.35,0.395,Ambient,121,25,0,C,2023-11-22,5
+1120,SKU-101119,Olive&Co Plus Bags & Accessorie,Fashion,Bags & Accessories,Olive&Co,67.37,137.13,13.2,10.2,4.4,1.45,0.343,Ambient,140,1,0,A,2022-11-10,11
+1121,SKU-101120,Halcyon Elite Bags & Accessorie,Fashion,Bags & Accessories,Halcyon,48.25,93.75,14.0,9.8,5.4,1.68,0.429,Ambient,111,10,0,B,2024-01-19,12
+1122,SKU-101121,Terra Smart Phone Accessorie,Electronics,Phone Accessories,Lumos,13.56,16.03,5.4,3.9,1.9,0.32,0.023,Ambient,2072,1,1,B,2024-01-16,11
+1123,SKU-101122,Wren Active Beverage,Grocery & Gourmet,Beverages,Vivid,10.42,14.88,16.6,10.0,9.0,15.7,0.865,Ambient,55,21,0,C,2024-08-11,20
+1124,SKU-101123,Corvo Ultra Men's Apparel,Fashion,Men's Apparel,Solace,10.83,24.0,15.7,11.6,2.3,1.35,0.242,Ambient,198,27,0,B,2022-05-12,30
+1125,SKU-101124,Umbra Ultra Fitness Nutrition,Health & Wellness,Fitness Nutrition,Corvo,10.83,20.24,7.2,5.2,5.6,2.61,0.121,Ambient,395,21,0,B,2022-12-30,20
+1126,SKU-101125,Jasper Studio Women's Apparel,Fashion,Women's Apparel,Ionic,9.2,18.79,13.5,9.9,2.3,0.7,0.178,Ambient,269,10,0,C,2024-02-11,12
+1127,SKU-101126,Fjord Select Fragrance,Beauty & Personal Care,Fragrance,Corvo,24.19,61.76,5.2,3.4,2.7,0.59,0.028,Hazmat,1737,19,0,B,2023-03-06,33
+1128,SKU-101127,Fjord Ultra Storage & Organization,Home & Kitchen,Storage & Organization,Kinetic,14.57,23.83,16.6,11.0,8.1,3.46,0.856,Ambient,56,18,0,C,2023-10-18,33
+1129,SKU-101128,Yonder Essential Cookware,Home & Kitchen,Cookware,Lumos,71.75,146.67,13.9,11.6,7.9,7.45,0.737,Ambient,65,20,0,B,2024-01-06,4
+1130,SKU-101129,Lumos Studio Beverage,Grocery & Gourmet,Beverages,Ridge,15.39,22.06,16.4,11.5,8.8,11.8,0.96,Ambient,49,20,0,B,2024-06-03,4
+1131,SKU-101130,Pebble Max Bags & Accessorie,Fashion,Bags & Accessories,Bolt,59.39,104.92,13.1,9.4,4.9,1.32,0.349,Ambient,137,3,0,A,2022-08-15,35
+1132,SKU-101131,Bolt Active Haircare,Beauty & Personal Care,Haircare,Nordic,7.75,13.74,7.9,2.9,3.1,0.64,0.041,Ambient,1167,26,1,C,2022-09-18,31
+1133,SKU-101132,Nova Max Cat Litter & Care,Pet Supplies,Cat Litter & Care,Bolt,11.79,21.8,18.3,11.8,7.5,15.54,0.937,Ambient,51,16,0,B,2023-04-16,34
+1134,SKU-101133,Nordic Select Cat Litter & Care,Pet Supplies,Cat Litter & Care,Nordic,17.69,26.58,20.7,13.0,8.7,21.04,1.355,Ambient,35,14,0,C,2023-05-22,11
+1135,SKU-101134,Umbra Pro Medical Supplie,Health & Wellness,Medical Supplies,Zephyr,41.49,91.97,11.4,9.8,6.6,2.27,0.427,Ambient,112,38,0,B,2024-06-24,10
+1136,SKU-101135,Jasper Prime Cookware,Home & Kitchen,Cookware,Bolt,107.75,149.29,17.9,15.1,10.4,9.1,1.627,Ambient,29,7,0,B,2022-02-08,7
+1137,SKU-101136,Gleam Select Fitness Equipment,Sports & Outdoors,Fitness Equipment,Xenon,19.86,36.98,36.8,18.4,13.4,27.04,5.251,Oversize,9,33,0,C,2022-09-03,28
+1138,SKU-101137,Bolt Smart Fitness Nutrition,Health & Wellness,Fitness Nutrition,Daybreak,12.21,20.67,8.3,6.3,5.6,3.58,0.169,Ambient,283,11,0,B,2024-07-01,32
+1139,SKU-101138,Ionic Pro Women's Apparel,Fashion,Women's Apparel,Nova,30.5,60.69,15.1,10.6,2.8,1.37,0.259,Ambient,185,23,0,C,2023-09-07,31
+1140,SKU-101139,Ionic Plus Smart Home,Electronics,Smart Home,Cedar,41.52,48.11,5.9,5.3,4.2,0.95,0.076,Ambient,631,10,1,C,2023-11-07,12
+1141,SKU-101140,Umbra Active Fresh & Chilled,Grocery & Gourmet,Fresh & Chilled,Umbra,18.86,29.11,13.5,10.7,7.6,3.64,0.635,Refrigerated,75,32,0,C,2022-09-07,9
+1142,SKU-101141,Ionic Smart Bags & Accessorie,Fashion,Bags & Accessories,Cedar,20.9,45.86,12.4,9.7,4.7,1.13,0.327,Ambient,146,15,0,B,2023-09-15,28
+1143,SKU-101142,Ridge Plus Fragrance,Beauty & Personal Care,Fragrance,Terra,51.88,96.88,7.3,4.5,3.6,0.72,0.068,Hazmat,701,37,0,B,2023-01-05,22
+1144,SKU-101143,Nova Active Interior Accessorie,Automotive,Interior Accessories,Umbra,58.52,86.98,14.9,11.8,7.7,3.02,0.783,Ambient,61,38,0,B,2024-01-03,10
+1145,SKU-101144,Jasper Ultra Fitness Equipment,Sports & Outdoors,Fitness Equipment,Gleam,12.07,23.03,29.4,14.0,9.8,14.81,2.334,Oversize,20,5,0,B,2022-04-01,12
+1146,SKU-101145,Gleam Elite Footwear,Fashion,Footwear,Pebble,15.69,38.75,11.8,7.6,4.3,1.75,0.223,Ambient,215,30,0,B,2022-10-12,30
+1147,SKU-101146,Kinetic Smart Men's Apparel,Fashion,Men's Apparel,Quanta,19.06,51.66,12.4,9.1,2.0,0.77,0.131,Ambient,367,20,0,C,2023-10-07,4
+1148,SKU-101147,Ionic Max Footwear,Fashion,Footwear,Halcyon,21.46,52.99,13.0,8.3,4.3,1.69,0.269,Ambient,178,23,0,C,2023-08-27,31
+1149,SKU-101148,Nordic Premium Camera,Electronics,Cameras,Nordic,478.48,586.32,6.7,5.7,3.7,1.79,0.082,Ambient,586,37,0,A,2024-04-20,22
+1150,SKU-101149,Olive&Co Max Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Mosaic,23.23,35.51,7.8,5.2,5.4,1.15,0.127,Ambient,378,9,0,C,2024-03-11,26
+1151,SKU-101150,Jasper Smart Vitamin,Health & Wellness,Vitamins,Ionic,5.85,11.29,5.5,3.8,3.5,0.91,0.042,Ambient,1133,26,0,C,2022-01-15,31
+1152,SKU-101151,Fjord Plus Storage & Organization,Home & Kitchen,Storage & Organization,Solace,10.03,19.08,20.8,12.3,9.2,4.24,1.362,Ambient,35,20,0,C,2022-04-01,4
+1153,SKU-101152,Yonder Select Home Decor,Home & Kitchen,Home Decor,Daybreak,74.86,113.14,13.2,10.7,8.3,3.44,0.678,Ambient,70,15,0,A,2022-12-21,28
+1154,SKU-101153,Quanta Prime Fitness Nutrition,Health & Wellness,Fitness Nutrition,Terra,23.66,49.12,10.2,7.1,7.7,3.51,0.323,Ambient,148,35,0,A,2024-08-16,31
+1155,SKU-101154,Ridge Prime Phone Accessorie,Electronics,Phone Accessories,Gleam,41.34,55.75,6.3,4.4,2.1,0.27,0.034,Ambient,1424,22,0,C,2023-04-23,8
+1156,SKU-101155,Zephyr Lite Skincare,Beauty & Personal Care,Skincare,Mosaic,28.38,60.74,5.5,2.7,2.5,0.33,0.021,Ambient,2234,4,0,B,2024-06-10,29
+1157,SKU-101156,Arbor Select Bags & Accessorie,Fashion,Bags & Accessories,Ionic,55.09,126.07,14.4,11.5,5.0,1.61,0.479,Ambient,100,3,0,A,2022-03-01,35
+1158,SKU-101157,Quanta Smart Building Set,Toys & Games,Building Sets,Ridge,42.8,78.81,18.8,13.1,5.8,4.36,0.827,Ambient,58,37,0,B,2024-08-21,22
+1159,SKU-101158,Ridge Max Cookware,Home & Kitchen,Cookware,Cedar,75.47,105.1,16.0,15.6,10.8,7.53,1.56,Ambient,30,4,1,A,2022-03-03,29
+1160,SKU-101159,Gleam Select Team Sport,Sports & Outdoors,Team Sports,Fjord,11.45,20.37,14.0,11.5,9.7,1.38,0.904,Ambient,53,39,0,C,2024-03-19,26
+1161,SKU-101160,Quanta Premium Women's Apparel,Fashion,Women's Apparel,Halcyon,44.21,104.24,8.8,7.2,1.5,0.49,0.055,Ambient,872,8,0,B,2024-05-26,29
+1162,SKU-101161,Terra Eco Camping,Sports & Outdoors,Camping,Ionic,136.41,261.63,26.4,11.6,9.8,7.63,1.737,Ambient,27,25,0,B,2022-10-22,5
+1163,SKU-101162,Wren Active Headphone,Electronics,Headphones,Xenon,51.06,64.33,6.0,5.5,2.1,0.38,0.04,Ambient,1196,1,0,C,2022-10-28,11
+1164,SKU-101163,Cedar Select Bags & Accessorie,Fashion,Bags & Accessories,Gleam,26.4,49.64,17.1,12.4,5.7,1.84,0.699,Ambient,68,34,0,B,2023-08-05,37
+1165,SKU-101164,Ridge Essential Skincare,Beauty & Personal Care,Skincare,Cedar,11.9,29.43,8.0,4.0,4.1,0.62,0.076,Ambient,632,26,0,C,2023-12-24,31
+1166,SKU-101165,Mosaic Ultra Small Appliance,Home & Kitchen,Small Appliances,Fjord,44.73,77.99,13.4,10.6,10.3,5.02,0.847,Ambient,56,15,0,C,2022-05-01,28
+1167,SKU-101166,Corvo Smart Monitor,Electronics,Monitors,Nordic,186.86,256.3,30.2,19.1,7.0,14.04,2.337,Ambient,20,39,0,B,2022-08-25,26
+1168,SKU-101167,Terra Pro Cookware,Home & Kitchen,Cookware,Terra,50.7,86.03,13.7,10.8,6.9,6.09,0.591,Ambient,81,8,0,B,2024-01-25,29
+1169,SKU-101168,Arbor Plus Men's Apparel,Fashion,Men's Apparel,Vivid,16.31,35.61,14.0,11.7,2.7,1.4,0.256,Ambient,187,35,0,C,2024-03-18,31
+1170,SKU-101169,Yonder Classic Smart Home,Electronics,Smart Home,Solace,50.71,57.62,7.4,6.2,6.0,1.29,0.159,Ambient,301,2,1,C,2022-06-03,23
+1171,SKU-101170,Daybreak Ultra Pet Accessorie,Pet Supplies,Pet Accessories,Lumos,6.47,10.25,12.6,7.6,5.8,2.08,0.321,Ambient,149,14,0,C,2024-06-08,11
+1172,SKU-101171,Brightwell Studio Women's Apparel,Fashion,Women's Apparel,Ridge,7.12,15.33,16.3,11.9,2.2,1.22,0.247,Ambient,194,32,0,C,2024-05-16,9
+1173,SKU-101172,Olive&Co Prime Coffee & Tea,Grocery & Gourmet,Coffee & Tea,Nova,28.33,42.28,6.5,4.6,4.6,1.0,0.08,Ambient,603,36,0,B,2024-05-17,28
+1174,SKU-101173,Xenon Eco Car Care,Automotive,Car Care,Daybreak,25.83,44.21,12.8,7.3,5.4,2.66,0.292,Hazmat,164,25,0,C,2022-08-29,5
+1175,SKU-101174,Lumos Lite Smart Home,Electronics,Smart Home,Cedar,50.38,61.94,7.3,6.6,4.9,1.1,0.137,Ambient,351,14,1,C,2023-11-01,11
+1176,SKU-101175,Vivid Essential Team Sport,Sports & Outdoors,Team Sports,Lumos,25.78,44.6,13.6,12.7,10.3,1.73,1.03,Ambient,46,29,0,C,2022-06-10,31
+1177,SKU-101176,Gleam Plus Fitness Nutrition,Health & Wellness,Fitness Nutrition,Aurelia,14.65,29.48,11.7,8.1,8.0,4.37,0.439,Ambient,109,14,1,C,2022-07-16,11
+1178,SKU-101177,Eldrin Studio Cycling,Sports & Outdoors,Cycling,Umbra,7.86,13.52,21.5,12.0,10.1,9.37,1.508,Ambient,31,23,0,C,2022-03-12,31
+1179,SKU-101178,Umbra Plus Footwear,Fashion,Footwear,Nordic,60.8,145.2,11.2,7.2,4.0,1.62,0.187,Ambient,257,33,0,B,2023-05-09,28
+1180,SKU-101179,Corvo Classic Footwear,Fashion,Footwear,Xenon,19.69,32.32,14.2,11.0,5.7,3.4,0.515,Ambient,93,7,0,B,2023-12-13,7
+1181,SKU-101180,Pebble Smart Headphone,Electronics,Headphones,Lumos,46.1,54.28,9.4,8.2,3.6,0.9,0.161,Ambient,298,30,1,C,2022-07-18,30
+1182,SKU-101181,Aurelia Prime Haircare,Beauty & Personal Care,Haircare,Arbor,4.95,10.2,7.3,2.6,2.8,0.69,0.031,Ambient,1560,27,1,C,2022-07-06,30
+1183,SKU-101182,Aurelia Prime Tools & Equipment,Automotive,Tools & Equipment,Quanta,19.99,33.15,17.9,8.8,6.6,7.24,0.602,Ambient,79,19,0,C,2022-10-04,33
+1184,SKU-101183,Lumos Essential Cat Litter & Care,Pet Supplies,Cat Litter & Care,Kinetic,7.03,10.67,19.2,12.5,8.6,16.9,1.194,Ambient,40,33,0,C,2022-07-17,28
+1185,SKU-101184,Aurelia Studio Headphone,Electronics,Headphones,Gleam,24.49,30.98,9.8,8.8,3.8,0.76,0.19,Ambient,253,5,0,C,2024-04-12,12
+1186,SKU-101185,Jasper Active Building Set,Toys & Games,Building Sets,Nova,26.71,46.15,17.8,12.8,6.5,3.84,0.857,Ambient,56,39,0,B,2022-06-19,26
+1187,SKU-101186,Halcyon Eco Home Decor,Home & Kitchen,Home Decor,Quanta,35.21,51.57,15.1,12.9,9.6,3.73,1.082,Ambient,44,8,0,C,2022-10-06,29
+1188,SKU-101187,Umbra Smart Desk,Furniture,Desks,Fjord,465.06,657.31,57.3,30.7,8.3,72.98,8.449,Oversize,5,12,0,A,2022-11-02,7
+1189,SKU-101188,Umbra Studio Headphone,Electronics,Headphones,Daybreak,74.38,102.64,8.3,7.2,3.0,0.62,0.104,Ambient,462,3,0,B,2022-07-22,35
+1190,SKU-101189,Pebble Elite Dog Food,Pet Supplies,Dog Food,Terra,24.99,36.9,17.0,11.2,4.4,11.75,0.485,Ambient,99,27,1,B,2024-07-30,30
+1191,SKU-101190,Brightwell Max Vitamin,Health & Wellness,Vitamins,Nova,24.01,51.22,4.0,2.5,2.7,0.52,0.016,Ambient,3072,27,0,A,2022-07-29,30
+1192,SKU-101191,Kinetic Elite Camera,Electronics,Cameras,Yonder,231.03,262.53,12.7,8.7,6.1,3.77,0.39,Ambient,123,3,1,B,2023-05-02,35
+1193,SKU-101192,Daybreak Eco Laptop,Electronics,Laptops,Ionic,507.18,660.6,17.0,12.9,3.0,8.01,0.381,Ambient,126,26,0,A,2023-07-21,31
+1194,SKU-101193,Ridge Max Vitamin,Health & Wellness,Vitamins,Quanta,34.1,60.68,6.8,4.2,3.6,1.09,0.06,Ambient,806,30,0,C,2022-09-18,30
+1195,SKU-101194,Vivid Active Monitor,Electronics,Monitors,Wren,410.89,496.18,29.8,20.5,6.8,14.14,2.404,Ambient,19,1,1,A,2023-04-17,11
+1196,SKU-101195,Eldrin Elite Haircare,Beauty & Personal Care,Haircare,Yonder,4.96,11.95,7.7,2.5,2.6,0.74,0.029,Ambient,1657,21,0,C,2022-06-20,20
+1197,SKU-101196,Xenon Pro Living Room,Furniture,Living Room,Yonder,394.41,573.52,60.6,38.1,23.5,112.31,31.399,Oversize,4,34,0,A,2023-04-28,37
+1198,SKU-101197,Mosaic Elite Fragrance,Beauty & Personal Care,Fragrance,Lumos,14.67,33.79,6.9,4.5,3.2,0.88,0.058,Hazmat,834,29,1,B,2022-01-19,31
+1199,SKU-101198,Yonder Elite Women's Apparel,Fashion,Women's Apparel,Yonder,34.28,94.27,11.6,8.8,1.9,0.62,0.112,Ambient,427,4,0,B,2023-03-16,29
+1200,SKU-101199,Daybreak Pro Footwear,Fashion,Footwear,Solace,72.64,158.25,11.8,8.0,4.8,1.94,0.262,Ambient,183,20,0,B,2022-12-31,4

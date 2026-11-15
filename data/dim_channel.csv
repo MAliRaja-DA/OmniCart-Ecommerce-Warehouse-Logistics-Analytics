@@ -1,0 +1,7 @@
+channel_key,channel_name,channel_type
+1,Website,Owned
+2,Mobile App,Owned
+3,Amazon-style Marketplace,Marketplace
+4,Social Commerce,Paid
+5,Email Campaign,Owned
+6,Affiliate,Paid
